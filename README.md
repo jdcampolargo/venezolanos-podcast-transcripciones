@@ -186,8 +186,12 @@ siguiente sección.
   clubes locales y materiales bilingües para universidades y comunidades de la
   diáspora, conectando cada sede con investigadores y archivos venezolanos.
 
-¿Construiste algo con este archivo?
-[Escríbeme](https://www.juandavidcampolargo.com/contact) y lo agregaré aquí
+¿Construiste algo con este archivo? Abre un issue para mostrarlo o un pull
+request para marcar la solicitud como completada. Incluye el nombre, autor,
+enlace público, código fuente cuando exista y una frase sobre lo que hace.
+
+Si prefieres algo más sencillo,
+[escríbeme](https://www.juandavidcampolargo.com/contact) y yo lo agregaré aquí
 para compartirlo con más personas.
 
 ## Proyectos construidos con el archivo
