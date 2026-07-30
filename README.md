@@ -1,7 +1,7 @@
-# Archivo abierto de transcripciones de Venezolanos
+# Transcripciones abiertas de Venezolanos
 
-Un archivo en español de las transcripciones publicadas por
-[VenezolanosPodcast.com](https://www.venezolanospodcast.com), organizado para
+Archivo abierto en español de las transcripciones de **Venezolanos**, el podcast
+de **Rafael Arráiz Lucca** sobre Venezuela y su historia. Está organizado para
 leer, buscar, citar y construir herramientas educativas o de investigación con
 IA.
 
@@ -43,8 +43,8 @@ Para buscadores, agentes y modelos de lenguaje:
 Busca una palabra o una idea en todo el archivo:
 
 ```bash
-git clone https://github.com/jdcampolargo/venezolanos-podcast-transcripts.git
-cd venezolanos-podcast-transcripts
+git clone https://github.com/jdcampolargo/transcripciones-venezolanos-podcast.git
+cd transcripciones-venezolanos-podcast
 rg -i "pacto de puntofijo|constitución de 1961" episodios/
 ```
 
@@ -99,25 +99,62 @@ Al generar respuestas, conviene citar el título del episodio, **Venezolanos**,
 Rafael Arráiz Lucca y la URL canónica incluida en el archivo. Una respuesta útil
 debe permitir volver a la fuente.
 
-## ¿Qué podemos construir?
+## Solicitudes abiertas de proyectos
 
-La ambición no es guardar texto por guardar texto. Es convertir décadas de
-historia venezolana narrada en una base abierta para aprender, investigar y
-crear. Algunas posibilidades:
+Inspirada en las *Requests for Startups* de Y Combinator, esta es una lista de
+cosas que nos encantaría ver construidas con el archivo. No son tareas
+asignadas ni ideas reservadas: cualquier persona puede tomar una, mejorarla o
+combinarla con otra.
 
-- un buscador semántico que responda con citas y enlaces al episodio exacto;
-- líneas de tiempo de personas, instituciones, gobiernos, empresas y ciudades;
-- mapas de relaciones entre episodios, temas y series;
-- guías de estudio para colegios, universidades y la diáspora venezolana;
-- visualizaciones de los cambios políticos, económicos y culturales del país;
-- comparadores que encuentren ideas recurrentes, tensiones y cambios de enfoque;
-- un grafo de conocimiento sobre la historia de Venezuela;
-- herramientas de audio, lectura accesible y aprendizaje bilingüe;
-- investigaciones, artículos, clubes de lectura y materiales docentes con
-  referencias verificables.
+`[ ]` significa que la solicitud sigue abierta. Cuando exista una versión
+pública y funcional, la marcamos como `[x]` y agregamos el proyecto a la
+siguiente sección.
 
-¿Construiste algo con estas transcripciones? Abre un pull request y agrégalo a
-la sección **Proyectos construidos con el archivo**.
+- [ ] **Pregúntale a Venezolanos.** Un asistente que responda preguntas usando
+  fragmentos verificables y enlaces al episodio exacto.
+- [ ] **Buscador semántico.** Encontrar episodios por ideas y preguntas aunque
+  el usuario no conozca las palabras empleadas en la transcripción.
+- [ ] **Cronología interactiva de Venezuela.** Conectar fechas, gobiernos,
+  acontecimientos, personas y episodios en una línea de tiempo explorable.
+- [ ] **Mapa histórico de Venezuela.** Ubicar ciudades, batallas,
+  infraestructuras, instituciones y transformaciones territoriales con sus
+  fuentes.
+- [ ] **Grafo de conocimiento venezolano.** Mostrar las relaciones entre
+  personas, empresas, partidos, universidades, obras, lugares y acontecimientos.
+- [ ] **Expedientes de personajes.** Reunir en una página cada mención y episodio
+  relacionado con una figura venezolana, con contexto y citas.
+- [ ] **Rutas para profesores.** Crear planes de clase y selecciones de episodios
+  por edad, duración, tema y objetivo educativo.
+- [ ] **Guías de estudio para estudiantes.** Producir preguntas, conceptos,
+  cronologías y fuentes adicionales para secundaria y universidad.
+- [ ] **Juego de preguntas y memoria espaciada.** Convertir el archivo en
+  cuestionarios verificables, tarjetas y retos para aprender historia.
+- [ ] **Rutas de aprendizaje personalizadas.** Recomendar qué escuchar después
+  según lo que una persona ya sabe, su edad y los temas que le interesan.
+- [ ] **Buscador de momentos en audio.** Alinear texto y audio para llegar al
+  minuto exacto de una cita y crear fragmentos compartibles.
+- [ ] **Atlas de ideas y desacuerdos.** Encontrar conceptos recurrentes,
+  tensiones, cambios de enfoque y explicaciones distintas entre episodios.
+- [ ] **Historia económica en datos.** Extraer series, cifras, empresas,
+  políticas y acontecimientos económicos para analizarlos y visualizarlos.
+- [ ] **Rutas históricas de ciudades.** Transformar episodios sobre Caracas y
+  otras ciudades en recorridos de arquitectura, instituciones y memoria urbana.
+- [ ] **Compañero bilingüe español-inglés.** Ayudar a la diáspora y a estudiantes
+  de español a comprender conceptos venezolanos sin perder la fuente original.
+- [ ] **Lector accesible.** Ofrecer tipografía adaptable, lectura en voz alta,
+  navegación por teclado, resúmenes estructurales y modos de baja distracción.
+- [ ] **Servidor MCP de Venezolanos.** Permitir que ChatGPT, Claude y otros
+  agentes consulten el archivo con citas y metadatos estructurados.
+- [ ] **API y bibliotecas abiertas.** Publicar una API sencilla y clientes para
+  Python o JavaScript que permitan consultar episodios, temas, series y textos.
+- [ ] **Kit reproducible de RAG o NotebookLM.** Un proyecto inicial que cualquier
+  estudiante o desarrollador pueda desplegar y adaptar.
+- [ ] **Fábrica de piezas educativas.** Generar tarjetas, hilos, gráficos y
+  pequeños videos con una idea verificable y un enlace claro al episodio.
+
+¿Construiste una? Abre un issue para mostrar el trabajo o un pull request que
+marque la solicitud, y agrega el nombre, autor, enlace público, código fuente
+cuando exista y una frase sobre lo que hace.
 
 ## Proyectos construidos con el archivo
 
@@ -126,25 +163,9 @@ Todavía estamos abriendo este camino. El primer proyecto es
 navegable por episodios, series y temas, con páginas preparadas para búsqueda e
 IA.
 
-## Actualización automática
-
-Una acción de GitHub consulta mensualmente el índice público y las páginas
-canónicas de VenezolanosPodcast.com. Solo publica una actualización si:
-
-1. puede recuperar todas las transcripciones anunciadas como públicas;
-2. el total no cae respecto del archivo anterior;
-3. cada episodio conserva metadatos completos;
-4. la huella del texto coincide con el catálogo JSON;
-5. todos los enlaces internos generados apuntan a archivos existentes.
-
-También puede ejecutarse manualmente desde la pestaña **Actions**. La
-automatización lee únicamente la web pública y no modifica el sitio ni su
-pipeline de publicación.
-
 ## Precisión y derechos
 
 Las transcripciones pueden contener errores involuntarios. Las correcciones
 deben conservar el significado del audio y quedar vinculadas al episodio
 original. Consulta [AVISO-DE-USO.md](AVISO-DE-USO.md) antes de reutilizar el
 contenido.
-

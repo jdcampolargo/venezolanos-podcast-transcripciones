@@ -23,8 +23,8 @@ from typing import Any
 ARCHIVE_URL = "https://www.venezolanospodcast.com/for-ai.json"
 MINIMUM_TRANSCRIPTS = 300
 USER_AGENT = (
-    "venezolanos-podcast-transcripts-sync/1.0 "
-    "(https://github.com/jdcampolargo/venezolanos-podcast-transcripts)"
+    "transcripciones-venezolanos-podcast-sync/1.0 "
+    "(https://github.com/jdcampolargo/transcripciones-venezolanos-podcast)"
 )
 GENERATED_DIRECTORIES = ("episodios", "indice", "datos")
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
