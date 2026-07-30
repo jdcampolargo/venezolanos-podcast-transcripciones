@@ -101,10 +101,9 @@ debe permitir volver a la fuente.
 
 ## Solicitudes abiertas de proyectos
 
-Estas no son veinte variaciones del mismo buscador. Son apuestas independientes
-para convertir el archivo en educación, investigación, infraestructura pública,
-cultura y nuevas instituciones. Algunas pueden comenzar como un proyecto de fin
-de semana; otras podrían convertirse en una organización.
+Estas ideas están aquí para que cualquier persona pueda construir cosas nuevas
+con las transcripciones. Puedes elegir una, adaptarla, combinar varias o
+proponer algo distinto.
 
 `[ ]` significa que la solicitud sigue abierta. Cuando exista una versión
 pública y funcional, la marcamos como `[x]` y agregamos el proyecto a la
