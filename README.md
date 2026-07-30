@@ -43,8 +43,8 @@ Para buscadores, agentes y modelos de lenguaje:
 Busca una palabra o una idea en todo el archivo:
 
 ```bash
-git clone https://github.com/jdcampolargo/transcripciones-venezolanos-podcast.git
-cd transcripciones-venezolanos-podcast
+git clone https://github.com/jdcampolargo/venezolanos-podcast-transcripciones.git
+cd venezolanos-podcast-transcripciones
 rg -i "pacto de puntofijo|constitución de 1961" episodios/
 ```
 
