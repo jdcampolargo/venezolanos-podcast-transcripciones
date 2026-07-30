@@ -1,0 +1,372 @@
+# Historia de Venezuela
+
+Podcast y transcripciones sobre la historia de Venezuela: desde la conquista y la Independencia hasta la democracia, la economía y la cultura contemporánea.
+
+[Explorar este tema en VenezolanosPodcast.com](https://www.venezolanospodcast.com/temas/historia-de-venezuela)
+
+## 364 transcripciones
+
+- [Cronología republicana 1810-2010. Cap 2.](../../episodios/cronologia-republicana-1810-2010-cap-2/transcripcion.md) — 2026-03-18
+- [Cronología republicana 1810-2010. Cap 1](../../episodios/cronologia-republicana-1810-2010-cap-1/transcripcion.md) — 2026-03-18
+- [Serie El Trienio Adeco (1945-1948). Cap 6 (último)](../../episodios/serie-el-trienio-adeco-1945-1948-cap-6-ultimo/transcripcion.md) — 2025-07-13
+- [Serie El Trienio Adeco (1945-1948). Cap 5.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-5/transcripcion.md) — 2025-07-08
+- [Serie El Trienio Adeco (1945-1948). Cap 4.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-4/transcripcion.md) — 2025-06-27
+- [Serie El Trienio Adeco (1945-1948). Cap 3](../../episodios/serie-el-trienio-adeco-1945-1948-cap-3/transcripcion.md) — 2025-06-26
+- [Serie El Trienio Adeco (1945-1948). Cap 2.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-2/transcripcion.md) — 2025-06-17
+- [Serie El Trienio Adeco (1945-1948). Cap 1.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-1/transcripcion.md) — 2025-06-17
+- [Serie El Sistema, 50 años. Cap 5 (último).](../../episodios/serie-el-sistema-50-anos-cap-5-ultimo/transcripcion.md) — 2025-05-05
+- [Serie El Sistema, 50 años. Cap 4.](../../episodios/serie-el-sistema-50-anos-cap-4/transcripcion.md) — 2025-05-05
+- [Serie El Sistema, 50 años. Cap 3.](../../episodios/serie-el-sistema-50-anos-cap-3/transcripcion.md) — 2025-05-05
+- [Serie El Sistema, 50 años. Cap 2.](../../episodios/serie-el-sistema-50-anos-cap-2/transcripcion.md) — 2025-04-20
+- [Serie El Sistema, 50 años. Cap 1.](../../episodios/serie-el-sistema-50-anos-cap-1/transcripcion.md) — 2025-04-11
+- [La cultura en Venezuela. Siglo XX. Cap 3 (último)](../../episodios/la-cultura-en-venezuela-siglo-xx-cap-3-ultimo/transcripcion.md) — 2025-04-04
+- [La cultura en Venezuela. Siglo XX. Cap 2.](../../episodios/la-cultura-en-venezuela-siglo-xx-cap-2/transcripcion.md) — 2025-03-23
+- [La cultura en Venezuela. Siglo XX. Cap 1.](../../episodios/la-cultura-en-venezuela-siglo-xx-cap-1/transcripcion.md) — 2025-03-20
+- [La radio en Venezuela. Programa especial](../../episodios/la-radio-en-venezuela-programa-especial/transcripcion.md) — 2025-02-19
+- [Historia de Caracas. Cap 18 (último).](../../episodios/historia-de-caracas-cap-18-ultimo/transcripcion.md) — 2025-02-10
+- [Historia de Caracas. Cap 17. Siglo XX y XXI](../../episodios/historia-de-caracas-cap-17-siglo-xx-y-xxi/transcripcion.md) — 2025-02-06
+- [Historia de Caracas. Cap 16. Siglo XX.](../../episodios/historia-de-caracas-cap-16-siglo-xx/transcripcion.md) — 2025-01-28
+- [Historia de Caracas. Cap 15. Siglo XX](../../episodios/historia-de-caracas-cap-15-siglo-xx/transcripcion.md) — 2025-01-23
+- [Historia de Caracas. Cap 14. Siglo XX.](../../episodios/historia-de-caracas-cap-14-siglo-xx/transcripcion.md) — 2025-01-13
+- [Historia de Caracas. Cap 13. Siglo XX.](../../episodios/historia-de-caracas-cap-13-siglo-xx/transcripcion.md) — 2025-01-13
+- [Historia de Caracas. Cap 12. Siglo XX](../../episodios/historia-de-caracas-cap-12-siglo-xx/transcripcion.md) — 2025-01-13
+- [Historia de Caracas. Cap 11.](../../episodios/historia-de-caracas-cap-11/transcripcion.md) — 2025-01-13
+- [Historia de Caracas. Cap 10. Siglo XX.](../../episodios/historia-de-caracas-cap-10-siglo-xx/transcripcion.md) — 2024-12-09
+- [Historia de Caracas. Cap 9. Siglo XIX y XX](../../episodios/historia-de-caracas-cap-9-siglo-xix-y-xx/transcripcion.md) — 2024-12-05
+- [Historia de Caracas. Cap 8. Siglo XIX y XX.](../../episodios/historia-de-caracas-cap-8-siglo-xix-y-xx/transcripcion.md) — 2024-11-27
+- [Historia de Caracas. Cap 7. Siglo XIX.](../../episodios/historia-de-caracas-cap-7-siglo-xix/transcripcion.md) — 2024-11-18
+- [Historia de Caracas. Cap 6. Siglo XVIII](../../episodios/historia-de-caracas-cap-6-siglo-xviii/transcripcion.md) — 2024-11-11
+- [Historia de Caracas. Cap 5. Siglo XVIII.](../../episodios/historia-de-caracas-cap-5-siglo-xviii/transcripcion.md) — 2024-11-06
+- [Historia de Caracas. Cap 4. Siglo XVII.](../../episodios/historia-de-caracas-cap-4-siglo-xvii/transcripcion.md) — 2024-11-06
+- [Historia de Caracas. Cap 3. Siglo XVII](../../episodios/historia-de-caracas-cap-3-siglo-xvii/transcripcion.md) — 2024-10-24
+- [Historia de Caracas. Cap 2. Siglo XVI y XVII](../../episodios/historia-de-caracas-cap-2-siglo-xvi-y-xvii/transcripcion.md) — 2024-10-24
+- [Historia de Caracas. Cap 1. La fundación.](../../episodios/historia-de-caracas-cap-1-la-fundacion/transcripcion.md) — 2024-10-07
+- [Serie Hispanoamérica. Cap 9 (último)](../../episodios/serie-hispanoamerica-cap-9-ultimo/transcripcion.md) — 2024-08-21
+- [Serie Hispanoamérica. Cap 8.](../../episodios/serie-hispanoamerica-cap-8/transcripcion.md) — 2024-08-07
+- [Serie Hispanoamérica. Cap 7.](../../episodios/serie-hispanoamerica-cap-7/transcripcion.md) — 2024-08-07
+- [Serie Hispanoamérica. Cap 6.](../../episodios/serie-hispanoamerica-cap-6/transcripcion.md) — 2024-08-07
+- [Serie Hispanoamérica. Cap 5. Militarismo](../../episodios/serie-hispanoamerica-cap-5-militarismo/transcripcion.md) — 2024-07-16
+- [Serie Hispanoamérica. Cap 4.](../../episodios/serie-hispanoamerica-cap-4/transcripcion.md) — 2024-07-10
+- [Serie Hispanoamérica. Cap 3.](../../episodios/serie-hispanoamerica-cap-3/transcripcion.md) — 2024-07-04
+- [Serie Hispanoamérica. Cap 2.](../../episodios/serie-hispanoamerica-cap-2/transcripcion.md) — 2024-07-04
+- [Serie Hispanoamérica. Cap1.](../../episodios/serie-hispanoamerica-cap1/transcripcion.md) — 2024-06-26
+- [Serie los del podio III. Carlos Rasquin. Cap 12 (último)](../../episodios/serie-los-del-podio-iii-carlos-rasquin-cap-12-ultimo/transcripcion.md) — 2024-06-14
+- [Serie Los del podio III. José María de Viana. Cap 11.](../../episodios/serie-los-del-podio-iii-jose-maria-de-viana-cap-11/transcripcion.md) — 2024-06-07
+- [Serie Los del podio III. Manuel Riber. Cap 10.](../../episodios/serie-los-del-podio-iii-manuel-riber-cap-10/transcripcion.md) — 2024-05-29
+- [Serie los del podio III. Ben Amí Fihman. Cap 9.](../../episodios/serie-los-del-podio-iii-ben-ami-fihman-cap-9/transcripcion.md) — 2024-05-25
+- [Serie los del podio III. Fina Torres. Cap 8.](../../episodios/serie-los-del-podio-iii-fina-torres-cap-8/transcripcion.md) — 2024-05-14
+- [Serie Los del podio III. Efraín Carrera Saud. Cap 7.](../../episodios/serie-los-del-podio-iii-efrain-carrera-saud-cap-7/transcripcion.md) — 2024-05-10
+- [Serie Los del podio III. Luisa Pernalete. Cap 6.](../../episodios/serie-los-del-podio-iii-luisa-pernalete-cap-6/transcripcion.md) — 2024-05-01
+- [Serie Los del podio III. Javier Vidal. Cap 5.](../../episodios/serie-los-del-podio-iii-javier-vidal-cap-5/transcripcion.md) — 2024-05-01
+- [Serie Los del podio III. Ivanova Decán Gambús. Cap 4.](../../episodios/serie-los-del-podio-iii-ivanova-decan-gambus-cap-4/transcripcion.md) — 2024-04-13
+- [Serie Los del podio III. Milos Alcalay. Cap 3.](../../episodios/serie-los-del-podio-iii-milos-alcalay-cap-3/transcripcion.md) — 2024-04-12
+- [Serie Los del podio III. Pedro Palma. Cap 2.](../../episodios/serie-los-del-podio-iii-pedro-palma-cap-2/transcripcion.md) — 2024-03-28
+- [Serie Los del podio III. Juvenal Ravelo. Cap 1.](../../episodios/serie-los-del-podio-iii-juvenal-ravelo-cap-1/transcripcion.md) — 2024-03-20
+- [Serie Fueras de Serie. Tomás Polanco Alcántara. Cap 8 (último).](../../episodios/serie-fueras-de-serie-tomas-polanco-alcantara-cap-8-ultimo/transcripcion.md) — 2024-03-14
+- [Serie Fueras de Serie. Santos Michelena. Cap 7.](../../episodios/serie-fueras-de-serie-santos-michelena-cap-7/transcripcion.md) — 2024-03-06
+- [Serie Fueras de Serie. Santos Michelena. Cap 6.](../../episodios/serie-fueras-de-serie-santos-michelena-cap-6/transcripcion.md) — 2024-03-02
+- [Serie Fueras de Serie. Isaac J. Pardo. Cap 5](../../episodios/serie-fueras-de-serie-isaac-j-pardo-cap-5/transcripcion.md) — 2024-02-21
+- [Serie Fueras de Serie. Andrés Bello.. Cap 4](../../episodios/serie-fueras-de-serie-andres-bello-cap-4/transcripcion.md) — 2024-02-15
+- [Serie Fueras de Serie. Juan Liscano. Cap 3.](../../episodios/serie-fueras-de-serie-juan-liscano-cap-3/transcripcion.md) — 2024-02-07
+- [Serie Fueras de Serie. Juan Liscano. Cap 2.](../../episodios/serie-fueras-de-serie-juan-liscano-cap-2/transcripcion.md) — 2024-01-31
+- [Serie Fueras de Serie. Juan Liscano. Cap 1](../../episodios/serie-fueras-de-serie-juan-liscano-cap-1/transcripcion.md) — 2024-01-26
+- [Serie Los del podio II. Cap 12 (último). Ana Teresa Torres](../../episodios/serie-los-del-podio-ii-cap-12-ultimo-ana-teresa-torres/transcripcion.md) — 2023-12-12
+- [Serie Los del podio II. Cap 11. Alberto Grau](../../episodios/serie-los-del-podio-ii-cap-11-alberto-grau/transcripcion.md) — 2023-12-05
+- [Serie Los del podio II. Cap 10. Leopoldo Baptista](../../episodios/serie-los-del-podio-ii-cap-10-leopoldo-baptista/transcripcion.md) — 2023-12-04
+- [Serie Los del podio II. Cap 9. Marco Negrón](../../episodios/serie-los-del-podio-ii-cap-9-marco-negron/transcripcion.md) — 2023-11-21
+- [Serie Los del podio II. Cap 8. María Guinand](../../episodios/serie-los-del-podio-ii-cap-8-maria-guinand/transcripcion.md) — 2023-11-16
+- [Serie Los del podio II. Cap 7. Víctor Guédez.](../../episodios/serie-los-del-podio-ii-cap-7-victor-guedez/transcripcion.md) — 2023-11-09
+- [Serie Los del podio II. Cap 6. Virginia Betancourt Valverde](../../episodios/serie-los-del-podio-ii-cap-6-virginia-betancourt-valverde/transcripcion.md) — 2023-11-06
+- [Serie Los del podio II. Cap 5. Rodolfo Izaguirre](../../episodios/serie-los-del-podio-ii-cap-5-rodolfo-izaguirre/transcripcion.md) — 2023-10-25
+- [Serie Los del podio II. Cap 4. Isabel Palacios](../../episodios/serie-los-del-podio-ii-cap-4-isabel-palacios/transcripcion.md) — 2023-10-17
+- [Serie Los del podio II. Cap 3. Arnoldo José Gabaldón](../../episodios/serie-los-del-podio-ii-cap-3-arnoldo-jose-gabaldon/transcripcion.md) — 2023-10-17
+- [Serie Los del podio II. Cap 2. Elisa Lerner](../../episodios/serie-los-del-podio-ii-cap-2-elisa-lerner/transcripcion.md) — 2023-10-05
+- [Serie Los del podio II. Cap 1. Laureano Márquez](../../episodios/serie-los-del-podio-ii-cap-1-laureano-marquez/transcripcion.md) — 2023-09-28
+- [Serie La Democracia en Venezuela. Cap 10 (último). Gobierna la izquierda (1999-2023).](../../episodios/serie-la-democracia-en-venezuela-cap-10-ultimo-gobierna-la-izquierda-1999-2023/transcripcion.md) — 2023-07-10
+- [Serie La Democracia en Venezuela. Cap 9. El bipartidismo, la antipolítica, la descentralización (1974-1998)](../../episodios/serie-la-democracia-en-venezuela-cap-9-el-bipartidismo-la-antipolitica-la-descentralizacion-1974-1998/transcripcion.md) — 2023-07-04
+- [Serie La Democracia en Venezuela. Cap 8. El Pacto de Puntofijo y cuatro gobiernos democráticos (1958-1979)](../../episodios/serie-la-democracia-en-venezuela-cap-8-el-pacto-de-puntofijo-y-cuatro-gobiernos-democraticos-1958-1979/transcripcion.md) — 2023-06-30
+- [Serie La Democracia en Venezuela. Cap 7. Luz y sombra de la democracia (1945-1958)](../../episodios/serie-la-democracia-en-venezuela-cap-7-luz-y-sombra-de-la-democracia-1945-1958/transcripcion.md) — 2023-06-20
+- [Serie La Democracia en Venezuela. Cap 6. Fin del siglo XIX y los andinos en el poder](../../episodios/serie-la-democracia-en-venezuela-cap-6-fin-del-siglo-xix-y-los-andinos-en-el-poder/transcripcion.md) — 2023-06-14
+- [Serie La Democracia en Venezuela. Cap 5. Guzmán Blanco: avances y retrocesos.](../../episodios/serie-la-democracia-en-venezuela-cap-5-guzman-blanco-avances-y-retrocesos/transcripcion.md) — 2023-06-05
+- [Serie La Democracia en Venezuela. Cap 4. Los Monagas. La Guerra Federal y el Federalismo.](../../episodios/serie-la-democracia-en-venezuela-cap-4-los-monagas-la-guerra-federal-y-el-federalismo/transcripcion.md) — 2023-05-31
+- [Serie La Democracia en Venezuela. Cap 3. El proyecto liberal de los conservadores.](../../episodios/serie-la-democracia-en-venezuela-cap-3-el-proyecto-liberal-de-los-conservadores/transcripcion.md) — 2023-05-25
+- [Serie La Democracia en Venezuela. Cap 2. El centralismo bolivariano y la República de Colombia](../../episodios/serie-la-democracia-en-venezuela-cap-2-el-centralismo-bolivariano-y-la-republica-de-colombia/transcripcion.md) — 2023-05-15
+- [Serie La Democracia en Venezuela. Cap 1.](../../episodios/serie-la-democracia-en-venezuela-cap-1/transcripcion.md) — 2023-05-10
+- [Serie Los del podio I. Cap 14 (y último) Alberto Barrera Tyszka.](../../episodios/serie-los-del-podio-i-cap-14-y-ultimo-alberto-barrera-tyszka/transcripcion.md) — 2023-05-03
+- [Serie Los del podio I. Cap 13. Klaus Jaffe Carbonell](../../episodios/serie-los-del-podio-i-cap-13-klaus-jaffe-carbonell/transcripcion.md) — 2023-04-22
+- [Serie Los del podio I. Cap 12. Antonio Costante](../../episodios/serie-los-del-podio-i-cap-12-antonio-costante/transcripcion.md) — 2023-04-17
+- [Serie Los del podio I. Cap 11. Gloria Cuenca](../../episodios/serie-los-del-podio-i-cap-11-gloria-cuenca/transcripcion.md) — 2023-04-03
+- [Serie Los del podio I. Cap 10. Charles Brewer-Carías](../../episodios/serie-los-del-podio-i-cap-10-charles-brewer-carias/transcripcion.md) — 2023-03-28
+- [Serie Los del podio I. Cap 9. María Teresa Parima](../../episodios/serie-los-del-podio-i-cap-9-maria-teresa-parima/transcripcion.md) — 2023-03-22
+- [Serie Los del podio I. Cap 8. Tomás Straka](../../episodios/serie-los-del-podio-i-cap-8-tomas-straka/transcripcion.md) — 2023-03-15
+- [Serie Los del podio I. Cap 7. Solveig Hoogesteijn](../../episodios/serie-los-del-podio-i-cap-7-solveig-hoogesteijn/transcripcion.md) — 2023-03-11
+- [Serie Los del podio I. Cap 6. Jimmy Alcock](../../episodios/serie-los-del-podio-i-cap-6-jimmy-alcock/transcripcion.md) — 2023-03-02
+- [Serie Los del podio I. Cap 5. Carlos Oteyza](../../episodios/serie-los-del-podio-i-cap-5-carlos-oteyza/transcripcion.md) — 2023-02-25
+- [Serie Los del podio I. Cap 4. Alicia Alamo Bartolomé](../../episodios/serie-los-del-podio-i-cap-4-alicia-alamo-bartolome/transcripcion.md) — 2023-02-14
+- [Serie Los del Podio I. Cap 3. Benjamín Scharifker](../../episodios/serie-los-del-podio-i-cap-3-benjamin-scharifker/transcripcion.md) — 2023-02-07
+- [Serie Los del podio I. Cap 2. Gioconda Cunto de San Blas.](../../episodios/serie-los-del-podio-i-cap-2-gioconda-cunto-de-san-blas/transcripcion.md) — 2023-01-30
+- [Serie Los del podio I. Cap 1. Rafael Cadenas](../../episodios/serie-los-del-podio-i-cap-1-rafael-cadenas/transcripcion.md) — 2023-01-25
+- [Serie Literatura Venezolana Siglo XIX. Cap 7 (último)](../../episodios/serie-literatura-venezolana-siglo-xix-cap-7-ultimo/transcripcion.md) — 2022-11-21
+- [Serie Literatura Venezolana Siglo XIX. Cap 6.](../../episodios/serie-literatura-venezolana-siglo-xix-cap-6/transcripcion.md) — 2022-11-14
+- [Serie Literatura Venezolana Siglo XIX. Cap 5.](../../episodios/serie-literatura-venezolana-siglo-xix-cap-5/transcripcion.md) — 2022-11-07
+- [Serie Literatura Venezolana Siglo XIX. Cap 4.](../../episodios/serie-literatura-venezolana-siglo-xix-cap-4/transcripcion.md) — 2022-11-02
+- [Serie Literatura Venezolana Siglo XIX. Cap 3](../../episodios/serie-literatura-venezolana-siglo-xix-cap-3/transcripcion.md) — 2022-10-25
+- [Serie Literatura Venezolana Siglo XIX. Cap 2.](../../episodios/serie-literatura-venezolana-siglo-xix-cap-2/transcripcion.md) — 2022-10-19
+- [Serie Literatura Venezolana Siglo XIX. Cap 1.](../../episodios/serie-literatura-venezolana-siglo-xix-cap-1/transcripcion.md) — 2022-10-11
+- [Serie La Electricidad de Caracas. Cap 5 (último)](../../episodios/serie-la-electricidad-de-caracas-cap-5-ultimo/transcripcion.md) — 2022-07-16
+- [Serie La Electricidad de Caracas. Cap 4.](../../episodios/serie-la-electricidad-de-caracas-cap-4/transcripcion.md) — 2022-07-05
+- [Serie La Electricidad de Caracas. Cap 3.](../../episodios/serie-la-electricidad-de-caracas-cap-3/transcripcion.md) — 2022-06-27
+- [Serie La Electricidad de Caracas. Cap 1.](../../episodios/serie-la-electricidad-de-caracas-cap-1/transcripcion.md) — 2022-06-13
+- [Serie Economía Venezolana: Una Visión Histórica. Cap 4 (último)](../../episodios/serie-economia-venezolana-una-vision-historica-cap-4-ultimo/transcripcion.md) — 2022-06-07
+- [Serie Economía Venezolana: Una Visión Histórica. Cap 3.](../../episodios/serie-economia-venezolana-una-vision-historica-cap-3/transcripcion.md) — 2022-06-02
+- [Serie Economía Venezolana: Una Visión Histórica. Cap 2.](../../episodios/serie-economia-venezolana-una-vision-historica-cap-2/transcripcion.md) — 2022-05-24
+- [Serie Economía Venezolana: Una Visión Histórica. Cap 1.](../../episodios/serie-economia-venezolana-una-vision-historica-cap-1/transcripcion.md) — 2022-05-17
+- [Pedro Tinoco. Cap 3 y último](../../episodios/pedro-tinoco-cap-3-y-ultimo/transcripcion.md) — 2022-05-09
+- [Pedro Tinoco. Cap2.](../../episodios/pedro-tinoco-cap2/transcripcion.md) — 2022-05-02
+- [Pedro Tinoco. Cap 1.](../../episodios/pedro-tinoco-cap-1/transcripcion.md) — 2022-04-26
+- [Serie 2 Presidentes. Carlos Andrés Pérez. Cap 2.](../../episodios/serie-2-presidentes-carlos-andres-perez-cap-2/transcripcion.md) — 2022-04-17
+- [Serie 2 Presidentes. Carlos Andrés Pérez. Cap 1.](../../episodios/serie-2-presidentes-carlos-andres-perez-cap-1/transcripcion.md) — 2022-04-05
+- [Serie 2 Presidentes. Rafael Caldera. Cap 2.](../../episodios/serie-2-presidentes-rafael-caldera-cap-2/transcripcion.md) — 2022-03-29
+- [Serie 2 Presidentes. Rafael Caldera. Cap 1.](../../episodios/serie-2-presidentes-rafael-caldera-cap-1/transcripcion.md) — 2022-03-23
+- [Serie Siglo XX. Cap 9 (último).](../../episodios/serie-siglo-xx-cap-9-ultimo/transcripcion.md) — 2022-03-17
+- [Serie Siglo XX. Cap 8](../../episodios/serie-siglo-xx-cap-8/transcripcion.md) — 2022-03-08
+- [Serie Siglo XX. Cap 7](../../episodios/serie-siglo-xx-cap-7/transcripcion.md) — 2022-03-03
+- [Serie Siglo XX. Cap 6.](../../episodios/serie-siglo-xx-cap-6/transcripcion.md) — 2022-02-23
+- [Serie Siglo XX. Cap 5](../../episodios/serie-siglo-xx-cap-5/transcripcion.md) — 2022-02-15
+- [Serie Siglo XX. Cap 4.](../../episodios/serie-siglo-xx-cap-4/transcripcion.md) — 2022-02-09
+- [Serie Siglo XX. Cap 3.](../../episodios/serie-siglo-xx-cap-3/transcripcion.md) — 2022-02-02
+- [Serie Siglo XX. Cap 2.](../../episodios/serie-siglo-xx-cap-2/transcripcion.md) — 2022-01-24
+- [Serie Siglo XX. Cap 1.](../../episodios/serie-siglo-xx-cap-1/transcripcion.md) — 2022-01-18
+- [Serie Militares. Rafael Alfonzo Ravard (último capítulo de la serie)](../../episodios/serie-militares-rafael-alfonzo-ravard-ultimo-capitulo-de-la-serie/transcripcion.md) — 2021-12-21
+- [Serie Militares. Wolfgang Larrazábal Ugueto](../../episodios/serie-militares-wolfgang-larrazabal-ugueto/transcripcion.md) — 2021-12-13
+- [Serie Militares. Marcos Pérez Jiménez](../../episodios/serie-militares-marcos-perez-jimenez/transcripcion.md) — 2021-12-07
+- [Serie Militares. Carlos Delgado-Chalbaud](../../episodios/serie-militares-carlos-delgado-chalbaud/transcripcion.md) — 2021-11-29
+- [Serie Militares. Isaías Medina Angarita](../../episodios/serie-militares-isaias-medina-angarita/transcripcion.md) — 2021-11-23
+- [Serie Militares. Eleazar López Contreras.](../../episodios/serie-militares-eleazar-lopez-contreras/transcripcion.md) — 2021-11-17
+- [Serie Militares. Juan Vicente Gómez. Cap 2.](../../episodios/serie-militares-juan-vicente-gomez-cap-2/transcripcion.md) — 2021-11-10
+- [Serie Militares. Juan Vicente Gómez. Cap 1.](../../episodios/serie-militares-juan-vicente-gomez-cap-1/transcripcion.md) — 2021-11-02
+- [Serie Militares. Cipriano Castro](../../episodios/serie-militares-cipriano-castro/transcripcion.md) — 2021-10-25
+- [Serie Militares. Joaquín Crespo](../../episodios/serie-militares-joaquin-crespo/transcripcion.md) — 2021-10-19
+- [Serie Militares. Antonio Guzmán Blanco. Cap 2.](../../episodios/serie-militares-antonio-guzman-blanco-cap-2/transcripcion.md) — 2021-10-15
+- [Serie Militares. Antonio Guzmán Blanco. Cap 1.](../../episodios/serie-militares-antonio-guzman-blanco-cap-1/transcripcion.md) — 2021-10-05
+- [Serie Militares. Juan Crisóstomo Falcón](../../episodios/serie-militares-juan-crisostomo-falcon/transcripcion.md) — 2021-08-04
+- [Serie Militares. Ezequiel Zamora](../../episodios/serie-militares-ezequiel-zamora/transcripcion.md) — 2021-07-29
+- [Serie Militares. Daniel Florencio O'Leary](../../episodios/serie-militares-daniel-florencio-oleary/transcripcion.md) — 2021-07-21
+- [Serie Militares. Juan José Flores](../../episodios/serie-militares-juan-jose-flores/transcripcion.md) — 2021-07-15
+- [Serie Militares. Antonio José de Sucre](../../episodios/serie-militares-antonio-jose-de-sucre/transcripcion.md) — 2021-07-08
+- [Serie Militares. Francisco de Paula Santander.](../../episodios/serie-militares-francisco-de-paula-santander/transcripcion.md) — 2021-06-28
+- [Serie Militares. José Antonio Páez. Cap 2 (último)](../../episodios/serie-militares-jose-antonio-paez-cap-2-ultimo/transcripcion.md) — 2021-06-21
+- [Serie Militares. José Antonio Páez. Cap 1.](../../episodios/serie-militares-jose-antonio-paez-cap-1/transcripcion.md) — 2021-06-14
+- [Serie Militares. José Antonio Anzoátegui](../../episodios/serie-militares-jose-antonio-anzoategui/transcripcion.md) — 2021-06-03
+- [Serie Militares. Santiago Mariño](../../episodios/serie-militares-santiago-marino/transcripcion.md) — 2021-05-27
+- [Serie Militares. Rafael Urdaneta](../../episodios/serie-militares-rafael-urdaneta/transcripcion.md) — 2021-05-19
+- [Serie Militares. José Tadeo Monagas](../../episodios/serie-militares-jose-tadeo-monagas/transcripcion.md) — 2021-05-10
+- [Serie Militares. Simón Bolívar. Cap 4 y último](../../episodios/serie-militares-simon-bolivar-cap-4-y-ultimo/transcripcion.md) — 2021-04-29
+- [Serie Militares. Simón Bolívar. Cap 3](../../episodios/serie-militares-simon-bolivar-cap-3/transcripcion.md) — 2021-04-29
+- [Serie Militares. Simón Bolívar. Cap 2](../../episodios/serie-militares-simon-bolivar-cap-2/transcripcion.md) — 2021-04-29
+- [Serie Militares. Simón Bolívar. Cap 1](../../episodios/serie-militares-simon-bolivar-cap-1/transcripcion.md) — 2021-04-29
+- [Serie Militares. Manuel Carlos Piar.](../../episodios/serie-militares-manuel-carlos-piar/transcripcion.md) — 2021-04-15
+- [Serie Militares. Francisco de Miranda. Cap 2.](../../episodios/serie-militares-francisco-de-miranda-cap-2/transcripcion.md) — 2021-03-16
+- [Serie Militares. Francisco de Miranda. Cap 1.](../../episodios/serie-militares-francisco-de-miranda-cap-1/transcripcion.md) — 2021-03-16
+- [Arturo Uslar Pietri: ajuste de cuentas. Cap 4 (último)](../../episodios/arturo-uslar-pietri-ajuste-de-cuentas-cap-4-ultimo/transcripcion.md) — 2021-03-02
+- [José Antonio Ramos Sucre (1890-1930)](../../episodios/jose-antonio-ramos-sucre-1890-1930/transcripcion.md) — 2020-06-09
+- [Arturo Uslar Pietri: ajuste de cuentas. Cap 3](../../episodios/arturo-uslar-pietri-ajuste-de-cuentas-cap-3/transcripcion.md) — 2020-04-17
+- [Arturo Uslar Pietri: ajuste de cuentas. Cap 2](../../episodios/arturo-uslar-pietri-ajuste-de-cuentas-cap-2/transcripcion.md) — 2020-04-17
+- [Arturo Uslar Pietri: ajuste de cuentas. Cap 1.](../../episodios/arturo-uslar-pietri-ajuste-de-cuentas-cap-1/transcripcion.md) — 2020-04-15
+- [Excepcionales. Cap 13 y último. Eugenio Mendoza Goiticoa](../../episodios/excepcionales-cap-13-y-ultimo-eugenio-mendoza-goiticoa/transcripcion.md) — 2020-04-14
+- [Excepcionales. Cap 9. D.F.Maza Zavala. (1)](../../episodios/excepcionales-cap-9-dfmaza-zavala-1/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 8. Soledad Bravo](../../episodios/excepcionales-cap-8-soledad-bravo/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 12. Andrés Eloy Blanco.](../../episodios/excepcionales-cap-12-andres-eloy-blanco/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 11. José Balza.](../../episodios/excepcionales-cap-11-jose-balza/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 10. D.F. Maza Zavala (2)](../../episodios/excepcionales-cap-10-df-maza-zavala-2/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 7. Jesús Soto (2)](../../episodios/excepcionales-cap-7-jesus-soto-2/transcripcion.md) — 2020-01-13
+- [Excepcionales. Cap 6. Jesús Soto (1)](../../episodios/excepcionales-cap-6-jesus-soto-1/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 5. José Ignacio Cabrujas.](../../episodios/excepcionales-cap-5-jose-ignacio-cabrujas/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 4. Carlos Cruz-Diez (2)](../../episodios/excepcionales-cap-4-carlos-cruz-diez-2/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 3. Carlos Cruz-Diez (1)](../../episodios/excepcionales-cap-3-carlos-cruz-diez-1/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 2. Ramón J. Velásquez (2)](../../episodios/excepcionales-cap-2-ramon-j-velasquez-2/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 1. Ramón J. Velásquez (1)](../../episodios/excepcionales-cap-1-ramon-j-velasquez-1/transcripcion.md) — 2020-01-10
+- [Arquitectos Venezolanos. Cap 9. Díquez, González, Rivas y Tenreiro.](../../episodios/arquitectos-venezolanos-cap-9-diquez-gonzalez-rivas-y-tenreiro/transcripcion.md) — 2019-12-12
+- [Arquitectos Venezolanos. Cap 8. Alcock, Borges, Pimentel.](../../episodios/arquitectos-venezolanos-cap-8-alcock-borges-pimentel/transcripcion.md) — 2019-12-12
+- [Arquitectos Venezolanos. Cap 10 y último. Benacerraf, Gómez de Llarena, Tenreiro.](../../episodios/arquitectos-venezolanos-cap-10-y-ultimo-benacerraf-gomez-de-llarena-tenreiro/transcripcion.md) — 2019-12-12
+- [Arquitectos Venezolanos . Cap 7 . Tábora, Stoddart y Legórburu.](../../episodios/arquitectos-venezolanos-cap-7-tabora-stoddart-y-legorburu/transcripcion.md) — 2019-12-11
+- [Arquitectos Venezolanos. Volante, Sanabria, Pietri. Cap 5.](../../episodios/arquitectos-venezolanos-volante-sanabria-pietri-cap-5/transcripcion.md) — 2019-11-04
+- [Arquitectos Venezolanos. Domínguez, Galia, Ferris y Beckhoff. Cap 4.](../../episodios/arquitectos-venezolanos-dominguez-galia-ferris-y-beckhoff-cap-4/transcripcion.md) — 2019-11-03
+- [Arquitectos Venezolanos. Malaussena, Chataing, Wallis y Mujica Millán. Cap 2.](../../episodios/arquitectos-venezolanos-malaussena-chataing-wallis-y-mujica-millan-cap-2/transcripcion.md) — 2019-10-30
+- [Arquitectos Venezolanos. Lutowski, Meneses, Urdaneta y Hurtado Manrique. Cap 1](../../episodios/arquitectos-venezolanos-lutowski-meneses-urdaneta-y-hurtado-manrique-cap-1/transcripcion.md) — 2019-10-30
+- [Arquitectos Venezolanos. Guinand, Villanueva, Malaussena. Cap 3](../../episodios/arquitectos-venezolanos-guinand-villanueva-malaussena-cap-3/transcripcion.md) — 2019-10-30
+- [Siglo XIX Venezolano. Cap 9.](../../episodios/siglo-xix-venezolano-cap-9/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 8.](../../episodios/siglo-xix-venezolano-cap-8/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 7](../../episodios/siglo-xix-venezolano-cap-7/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 6.](../../episodios/siglo-xix-venezolano-cap-6/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 5.](../../episodios/siglo-xix-venezolano-cap-5/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 4.](../../episodios/siglo-xix-venezolano-cap-4/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 3](../../episodios/siglo-xix-venezolano-cap-3/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 2](../../episodios/siglo-xix-venezolano-cap-2/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 16 y último.](../../episodios/siglo-xix-venezolano-cap-16-y-ultimo/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 15](../../episodios/siglo-xix-venezolano-cap-15/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 14.](../../episodios/siglo-xix-venezolano-cap-14/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 13.](../../episodios/siglo-xix-venezolano-cap-13/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 12.](../../episodios/siglo-xix-venezolano-cap-12/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 11.](../../episodios/siglo-xix-venezolano-cap-11/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 10.](../../episodios/siglo-xix-venezolano-cap-10/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 1](../../episodios/siglo-xix-venezolano-cap-1/transcripcion.md) — 2019-10-29
+- [Médicos Venezolanos. Lucca Escobar, Fernández Morán, Machado, Beker. Cap 12 y último.](../../episodios/medicos-venezolanos-lucca-escobar-fernandez-moran-machado-beker-cap-12-y-ultimo/transcripcion.md) — 2019-10-29
+- [Médicos Venezolanos. De Venanzi, Layrisse, Lucca Romero y Rincón Gutiérrez. Cap 11.](../../episodios/medicos-venezolanos-de-venanzi-layrisse-lucca-romero-y-rincon-gutierrez-cap-11/transcripcion.md) — 2019-10-29
+- [Médicos Venezolanos. Ímber, Méndez Castellanos, Beaujon, Granier. Cap 10](../../episodios/medicos-venezolanos-imber-mendez-castellanos-beaujon-granier-cap-10/transcripcion.md) — 2019-10-28
+- [Médicos Venezolanos. Lauría, Pifano y Convit. Cap 9](../../episodios/medicos-venezolanos-lauria-pifano-y-convit-cap-9/transcripcion.md) — 2019-10-25
+- [Médicos Venezolanos. Tejera Guevara, Aguerrevere, Torrealba, Malec de Petkoff y Vegas. Cap 6.](../../episodios/medicos-venezolanos-tejera-guevara-aguerrevere-torrealba-malec-de-petkoff-y-vegas-cap-6/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. Pi Suñer, Bello, Luciani, Izquierdo y Pereira Álvarez. Cap 5](../../episodios/medicos-venezolanos-pi-suner-bello-luciani-izquierdo-y-pereira-alvarez-cap-5/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. Oropeza, Conde Jahn, Pérez Carreño, Gabaldón y Archila. Cap 8.](../../episodios/medicos-venezolanos-oropeza-conde-jahn-perez-carreno-gabaldon-y-archila-cap-8/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. González Rincones, Machado, Castillo, Baldó Soulés y Pulido Méndez. Cap 7](../../episodios/medicos-venezolanos-gonzalez-rincones-machado-castillo-baldo-soules-y-pulido-mendez-cap-7/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. Villavicencio, Hernández, Rísquez y Dominici. Cap 2](../../episodios/medicos-venezolanos-villavicencio-hernandez-risquez-y-dominici-cap-2/transcripcion.md) — 2019-10-23
+- [Médicos Venezolanos. Maldonado, Herrera Vegas,Toro, Rodríguez Rivero y Rangel. Cap 4](../../episodios/medicos-venezolanos-maldonado-herrera-vegastoro-rodriguez-rivero-y-rangel-cap-4/transcripcion.md) — 2019-10-23
+- [Médicos Venezolanos. Machado, Pineda, Razetti y Acosta Ortíz. Cap 3](../../episodios/medicos-venezolanos-machado-pineda-razetti-y-acosta-ortiz-cap-3/transcripcion.md) — 2019-10-23
+- [Médicos Venezolanos. Blandín, Campíns, Vargas, Beauperthuy. Cap 1](../../episodios/medicos-venezolanos-blandin-campins-vargas-beauperthuy-cap-1/transcripcion.md) — 2019-10-23
+- [Historia del Hipismo en Venezuela. Cap 6 y último.](../../episodios/historia-del-hipismo-en-venezuela-cap-6-y-ultimo/transcripcion.md) — 2019-10-22
+- [Historia del Hipismo en Venezuela. Cap 5](../../episodios/historia-del-hipismo-en-venezuela-cap-5/transcripcion.md) — 2019-10-22
+- [Historia del Hipismo en Venezuela. Cap 4](../../episodios/historia-del-hipismo-en-venezuela-cap-4/transcripcion.md) — 2019-10-22
+- [Historia del Hipismo en Venezuela. Cap 3](../../episodios/historia-del-hipismo-en-venezuela-cap-3/transcripcion.md) — 2019-10-22
+- [Historia del Hipismo en Venezuela. Cap 2](../../episodios/historia-del-hipismo-en-venezuela-cap-2/transcripcion.md) — 2019-10-22
+- [Historia del Hipismo en Venezuela. Cap 1](../../episodios/historia-del-hipismo-en-venezuela-cap-1/transcripcion.md) — 2019-10-22
+- [Historia del Deporte en Venezuela. Cap 9](../../episodios/historia-del-deporte-en-venezuela-cap-9/transcripcion.md) — 2019-10-22
+- [Historia del Deporte en Venezuela. Cap 8](../../episodios/historia-del-deporte-en-venezuela-cap-8/transcripcion.md) — 2019-10-22
+- [Historia del Deporte en Venezuela. Cap 7](../../episodios/historia-del-deporte-en-venezuela-cap-7/transcripcion.md) — 2019-10-22
+- [Historia del Deporte en Venezuela. Cap 6](../../episodios/historia-del-deporte-en-venezuela-cap-6/transcripcion.md) — 2019-10-22
+- [Historia del Deporte en Venezuela. Cap 11 y último.](../../episodios/historia-del-deporte-en-venezuela-cap-11-y-ultimo/transcripcion.md) — 2019-10-22
+- [Historia del Deporte en Venezuela. Cap 10](../../episodios/historia-del-deporte-en-venezuela-cap-10/transcripcion.md) — 2019-10-22
+- [Municipio Chacao. Cap 4 y último](../../episodios/municipio-chacao-cap-4-y-ultimo/transcripcion.md) — 2019-10-21
+- [Municipio Chacao. Cap 3](../../episodios/municipio-chacao-cap-3/transcripcion.md) — 2019-10-21
+- [Municipio Chacao. Cap 2](../../episodios/municipio-chacao-cap-2/transcripcion.md) — 2019-10-21
+- [Municipio Chacao. Cap 1](../../episodios/municipio-chacao-cap-1/transcripcion.md) — 2019-10-21
+- [Historia del Deporte en Venezuela. Cap 5](../../episodios/historia-del-deporte-en-venezuela-cap-5/transcripcion.md) — 2019-10-21
+- [Historia del Deporte en Venezuela. Cap 4](../../episodios/historia-del-deporte-en-venezuela-cap-4/transcripcion.md) — 2019-10-21
+- [Historia del Deporte en Venezuela. Cap 3](../../episodios/historia-del-deporte-en-venezuela-cap-3/transcripcion.md) — 2019-10-21
+- [Historia del Deporte en Venezuela. Cap 2](../../episodios/historia-del-deporte-en-venezuela-cap-2/transcripcion.md) — 2019-10-21
+- [Historia del Deporte en Venezuela. Cap 1](../../episodios/historia-del-deporte-en-venezuela-cap-1/transcripcion.md) — 2019-10-21
+- [Narradores-Ensayistas. Díaz Sánchez, Pocaterra, Rossi y Garmendia.](../../episodios/narradores-ensayistas-diaz-sanchez-pocaterra-rossi-y-garmendia/transcripcion.md) — 2019-10-19
+- [Las Constituciones de Venezuela. Cap 6 y último.](../../episodios/las-constituciones-de-venezuela-cap-6-y-ultimo/transcripcion.md) — 2019-10-19
+- [Las Constituciones de Venezuela. Cap 5](../../episodios/las-constituciones-de-venezuela-cap-5/transcripcion.md) — 2019-10-19
+- [La Energía Eléctrica en Venezuela. Cap 3 y último](../../episodios/la-energia-electrica-en-venezuela-cap-3-y-ultimo/transcripcion.md) — 2019-10-19
+- [La Energía Eléctrica en Venezuela. Cap 2](../../episodios/la-energia-electrica-en-venezuela-cap-2/transcripcion.md) — 2019-10-19
+- [La Energía Eléctrica en Venezuela. Cap 1](../../episodios/la-energia-electrica-en-venezuela-cap-1/transcripcion.md) — 2019-10-19
+- [La ciudad vista por Nazoa, Brewer Carías, Almandoz y Aveledo](../../episodios/la-ciudad-vista-por-nazoa-brewer-carias-almandoz-y-aveledo/transcripcion.md) — 2019-10-19
+- [Joaquín Marta Sosa](../../episodios/joaquin-marta-sosa/transcripcion.md) — 2019-10-19
+- [Dos abogados: Eloy Lares Martínez y Rafael-Clemente Arráiz](../../episodios/dos-abogados-eloy-lares-martinez-y-rafael-clemente-arraiz/transcripcion.md) — 2019-10-19
+- [Cuatro Presidentes: Betancourt, Caldera, Leoni y Pérez.](../../episodios/cuatro-presidentes-betancourt-caldera-leoni-y-perez/transcripcion.md) — 2019-10-19
+- [Colombia y Venezuela. Cap 6 y último](../../episodios/colombia-y-venezuela-cap-6-y-ultimo/transcripcion.md) — 2019-10-19
+- [Colombia y Venezuela. Cap 5](../../episodios/colombia-y-venezuela-cap-5/transcripcion.md) — 2019-10-19
+- [Colombia y Venezuela. Cap 3](../../episodios/colombia-y-venezuela-cap-3/transcripcion.md) — 2019-10-19
+- [Colombia y Venezuela. Cap 2](../../episodios/colombia-y-venezuela-cap-2/transcripcion.md) — 2019-10-19
+- [Colombia y Venezuela. Cap 1](../../episodios/colombia-y-venezuela-cap-1/transcripcion.md) — 2019-10-19
+- [5 académicos de la Lengua. Briceño I, Venegas F, Díaz S, Subero, Bermúdez.](../../episodios/5-academicos-de-la-lengua-briceno-i-venegas-f-diaz-s-subero-bermudez/transcripcion.md) — 2019-10-19
+- [4 Profesores. Castro Leiva, Kelly, Guédez y Stambouli.](../../episodios/4-profesores-castro-leiva-kelly-guedez-y-stambouli/transcripcion.md) — 2019-10-19
+- [4 médicos excepcionales. Hernández, Alvarado, Gabaldón y Rísquez](../../episodios/4-medicos-excepcionales-hernandez-alvarado-gabaldon-y-risquez/transcripcion.md) — 2019-10-19
+- [4 inmigrantes luminosos. Grases, García Bacca, García Pelayo y Nectario María](../../episodios/4-inmigrantes-luminosos-grases-garcia-bacca-garcia-pelayo-y-nectario-maria/transcripcion.md) — 2019-10-19
+- [4 inmigrantes luminosos. Cervigón, Cunill Grau, Ferrero y López Pedraza](../../episodios/4-inmigrantes-luminosos-cervigon-cunill-grau-ferrero-y-lopez-pedraza/transcripcion.md) — 2019-10-19
+- [4 historiadores. Parra Pérez, Carrera Damas, Caballero y Polanco Alcántara.](../../episodios/4-historiadores-parra-perez-carrera-damas-caballero-y-polanco-alcantara/transcripcion.md) — 2019-10-19
+- [4 del 28. Rojas Guardia, Pardo, Fombona Pachano y Blanco.](../../episodios/4-del-28-rojas-guardia-pardo-fombona-pachano-y-blanco/transcripcion.md) — 2019-10-19
+- [4 candidatos. Barrios, Villalba, Uslar y Petkoff](../../episodios/4-candidatos-barrios-villalba-uslar-y-petkoff/transcripcion.md) — 2019-10-19
+- [4 artistas. Narváez, Soto, Sánchez y Rivas](../../episodios/4-artistas-narvaez-soto-sanchez-y-rivas/transcripcion.md) — 2019-10-19
+- [3 Próceres. Miranda, Piar y Sucre](../../episodios/3-proceres-miranda-piar-y-sucre/transcripcion.md) — 2019-10-19
+- [3 grandes músicos. Teresa Carreño, Simón Díaz y Aldemaro Romero.](../../episodios/3-grandes-musicos-teresa-carreno-simon-diaz-y-aldemaro-romero/transcripcion.md) — 2019-10-19
+- [3 Escritores principales: Rufino Blanco Fombona, Ana Teresa Torres y Francisco Suniaga.](../../episodios/3-escritores-principales-rufino-blanco-fombona-ana-teresa-torres-y-francisco-suniaga/transcripcion.md) — 2019-10-19
+- [3 empresarios pioneros y 1 constructor. W H. Phelps, E. Mendoza, C.E. Frías y G. Clérico.](../../episodios/3-empresarios-pioneros-y-1-constructor-w-h-phelps-e-mendoza-ce-frias-y-g-clerico/transcripcion.md) — 2019-10-19
+- [2 poetas. Guillermo Sucre y Yolanda Pantin](../../episodios/2-poetas-guillermo-sucre-y-yolanda-pantin/transcripcion.md) — 2019-10-19
+- [2 artistas y 1 crítico. Zapata, Zuloaga de Tovar y Palenzuela.](../../episodios/2-artistas-y-1-critico-zapata-zuloaga-de-tovar-y-palenzuela/transcripcion.md) — 2019-10-19
+- [Las Constituciones de Venezuela. Cap 4](../../episodios/las-constituciones-de-venezuela-cap-4/transcripcion.md) — 2019-10-18
+- [Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964) Cap 2](../../episodios/romulo-betancourt-presidente-de-la-republica-1945-1947-y-1959-1964-cap-2/transcripcion.md) — 2019-10-16
+- [Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964). Cap 1](../../episodios/romulo-betancourt-presidente-de-la-republica-1945-1947-y-1959-1964-cap-1/transcripcion.md) — 2019-10-16
+- [Rafael López-Pedraza](../../episodios/rafael-lopez-pedraza/transcripcion.md) — 2019-10-16
+- [Las Constituciones de Venezuela. Cap 3](../../episodios/las-constituciones-de-venezuela-cap-3/transcripcion.md) — 2019-10-16
+- [Las Constituciones de Venezuela. Cap 2](../../episodios/las-constituciones-de-venezuela-cap-2/transcripcion.md) — 2019-10-16
+- [Las Constituciones de Venezuela. Cap 1](../../episodios/las-constituciones-de-venezuela-cap-1/transcripcion.md) — 2019-10-16
+- [Juan Pablo Pérez Alfonzo](../../episodios/juan-pablo-perez-alfonzo/transcripcion.md) — 2019-10-16
+- [Francisco Rivera](../../episodios/francisco-rivera/transcripcion.md) — 2019-10-16
+- [Antonio Arráiz](../../episodios/antonio-arraiz/transcripcion.md) — 2019-10-16
+- [El Petróleo en Venezuela. Cap 9](../../episodios/el-petroleo-en-venezuela-cap-9/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 8](../../episodios/el-petroleo-en-venezuela-cap-8/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 7](../../episodios/el-petroleo-en-venezuela-cap-7/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 6](../../episodios/el-petroleo-en-venezuela-cap-6/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 5](../../episodios/el-petroleo-en-venezuela-cap-5/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 16 y último](../../episodios/el-petroleo-en-venezuela-cap-16-y-ultimo/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 15](../../episodios/el-petroleo-en-venezuela-cap-15/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 14](../../episodios/el-petroleo-en-venezuela-cap-14/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 13](../../episodios/el-petroleo-en-venezuela-cap-13/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 12](../../episodios/el-petroleo-en-venezuela-cap-12/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 11](../../episodios/el-petroleo-en-venezuela-cap-11/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 10](../../episodios/el-petroleo-en-venezuela-cap-10/transcripcion.md) — 2019-10-14
+- [El Petróleo en Venezuela. Cap 4](../../episodios/el-petroleo-en-venezuela-cap-4/transcripcion.md) — 2019-10-13
+- [El Petróleo en Venezuela. Cap 3](../../episodios/el-petroleo-en-venezuela-cap-3/transcripcion.md) — 2019-10-13
+- [El Petróleo en Venezuela. Cap 2](../../episodios/el-petroleo-en-venezuela-cap-2/transcripcion.md) — 2019-10-13
+- [El Petróleo en Venezuela. Cap 1](../../episodios/el-petroleo-en-venezuela-cap-1/transcripcion.md) — 2019-10-13
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 9](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-9/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 8](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-8/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 7](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-7/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 6](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-6/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 5](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-5/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 4](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-4/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 3](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-3/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 16 y último](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-16-y-ultimo/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 15](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-15/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 14](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-14/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 13](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-13/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 12](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-12/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 11](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-11/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 10](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-10/transcripcion.md) — 2019-10-12
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 2](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-2/transcripcion.md) — 2019-10-11
+- [Venezuela: 1728-1830. Guipuzcoana e Independencia. Cap 1](../../episodios/venezuela-1728-1830-guipuzcoana-e-independencia-cap-1/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 9](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-9/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 8](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-8/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 7](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-7/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 5](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-5/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización Cap 4](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-4/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 3](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-3/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 2](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-2/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 12 y último](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-12-y-ultimo/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 11](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-11/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 10](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-10/transcripcion.md) — 2019-10-11
+- [Venezuela: 1498-1728. Conquista y Urbanización. Cap 1](../../episodios/venezuela-1498-1728-conquista-y-urbanizacion-cap-1/transcripcion.md) — 2019-10-11
+- [Manuel Caballero](../../episodios/manuel-caballero/transcripcion.md) — 2019-10-09
+- [Juan Nuño](../../episodios/juan-nuno/transcripcion.md) — 2019-10-09
+- [José María Vargas](../../episodios/jose-maria-vargas/transcripcion.md) — 2019-10-09
+- [Historia de la Banca en Venezuela. Cap 5 y último](../../episodios/historia-de-la-banca-en-venezuela-cap-5-y-ultimo/transcripcion.md) — 2019-10-09
+- [Historia de la Banca en Venezuela. Cap 4](../../episodios/historia-de-la-banca-en-venezuela-cap-4/transcripcion.md) — 2019-10-09
+- [Historia de la Banca en Venezuela. Cap 3](../../episodios/historia-de-la-banca-en-venezuela-cap-3/transcripcion.md) — 2019-10-09
+- [Historia de la Banca en Venezuela. Cap 2](../../episodios/historia-de-la-banca-en-venezuela-cap-2/transcripcion.md) — 2019-10-09
+- [Historia de la Banca en Venezuela. Cap 1](../../episodios/historia-de-la-banca-en-venezuela-cap-1/transcripcion.md) — 2019-10-09
+- [Eugenio Montejo](../../episodios/eugenio-montejo/transcripcion.md) — 2019-10-09
+- [Arturo Michelena](../../episodios/arturo-michelena/transcripcion.md) — 2019-10-09
+- [Alfredo Boulton](../../episodios/alfredo-boulton/transcripcion.md) — 2019-10-09
+- [Rómulo Gallegos. Presidente de la República (1948)](../../episodios/romulo-gallegos-presidente-de-la-republica-1948/transcripcion.md) — 2019-10-05
+- [La Batalla de Carabobo. 24 de junio de 1821.](../../episodios/la-batalla-de-carabobo-24-de-junio-de-1821/transcripcion.md) — 2019-10-05
+- [Elizabeth Schön](../../episodios/elizabeth-schon/transcripcion.md) — 2019-10-05
+- [Carlos Raúl Villanueva](../../episodios/carlos-raul-villanueva/transcripcion.md) — 2019-10-05
+- [Arístides Rojas](../../episodios/aristides-rojas/transcripcion.md) — 2019-10-05
+- [Vicente Gerbasi](../../episodios/vicente-gerbasi/transcripcion.md) — 2019-10-04
+- [Teresa de la Parra](../../episodios/teresa-de-la-parra/transcripcion.md) — 2019-10-04
+- [Teresa Carreño](../../episodios/teresa-carreno/transcripcion.md) — 2019-10-04
+- [Ricardo Zuloaga](../../episodios/ricardo-zuloaga/transcripcion.md) — 2019-10-04
+- [Raúl Leoni. Presidente de la República (1964-1969)](../../episodios/raul-leoni-presidente-de-la-republica-1964-1969/transcripcion.md) — 2019-10-04
+- [Martín Tovar y Tovar](../../episodios/martin-tovar-y-tovar/transcripcion.md) — 2019-10-04
+- [Mariano Picón Salas](../../episodios/mariano-picon-salas/transcripcion.md) — 2019-10-04
+- [Los Ferrocarriles en Venezuela. Capítulo 3 (último)](../../episodios/los-ferrocarriles-en-venezuela-capitulo-3-ultimo/transcripcion.md) — 2019-10-04
+- [Los Ferrocarriles en Venezuela. Capítulo 2](../../episodios/los-ferrocarriles-en-venezuela-capitulo-2/transcripcion.md) — 2019-10-04
+- [Los Ferrocarriles en Venezuela. Capítulo 1](../../episodios/los-ferrocarriles-en-venezuela-capitulo-1/transcripcion.md) — 2019-10-04
+- [Lisandro Alvarado](../../episodios/lisandro-alvarado/transcripcion.md) — 2019-10-04
+- [Juan Liscano](../../episodios/juan-liscano/transcripcion.md) — 2019-10-04
+- [Juan Germán Roscio](../../episodios/juan-german-roscio/transcripcion.md) — 2019-10-04
+- [José Gil Fortoul](../../episodios/jose-gil-fortoul/transcripcion.md) — 2019-10-04
+- [José Cortés de Madariaga](../../episodios/jose-cortes-de-madariaga/transcripcion.md) — 2019-10-04
+- [Historia de la Ganadería en Venezuela. Capítulo 5 (último)](../../episodios/historia-de-la-ganaderia-en-venezuela-capitulo-5-ultimo/transcripcion.md) — 2019-10-04
+- [Historia de la Ganadería en Venezuela. Capítulo 4](../../episodios/historia-de-la-ganaderia-en-venezuela-capitulo-4/transcripcion.md) — 2019-10-04
+- [Historia de la Ganadería en Venezuela. Capítulo 3](../../episodios/historia-de-la-ganaderia-en-venezuela-capitulo-3/transcripcion.md) — 2019-10-04
+- [Historia de la Ganadería en Venezuela. Capítulo 2](../../episodios/historia-de-la-ganaderia-en-venezuela-capitulo-2/transcripcion.md) — 2019-10-04
+- [Historia de la Ganadería en Venezuela. Capítulo 1](../../episodios/historia-de-la-ganaderia-en-venezuela-capitulo-1/transcripcion.md) — 2019-10-04
+- [Hanni Ossott](../../episodios/hanni-ossott/transcripcion.md) — 2019-10-04
+- [Gral. Rafael Alfonzo Ravard](../../episodios/gral-rafael-alfonzo-ravard/transcripcion.md) — 2019-10-04
+- [Armando Reverón](../../episodios/armando-reveron/transcripcion.md) — 2019-10-04
+- [Antonia Palacios](../../episodios/antonia-palacios/transcripcion.md) — 2019-10-04
+- [19 de abril de 1810](../../episodios/19-de-abril-de-1810/transcripcion.md) — 2019-10-04
+- [Arturo Uslar Pietri. Parte 2](../../episodios/arturo-uslar-pietri-parte-2/transcripcion.md) — 2019-10-03
+- [Arturo Uslar Pietri. Parte 1](../../episodios/arturo-uslar-pietri-parte-1/transcripcion.md) — 2019-10-03

@@ -1,0 +1,89 @@
+# Política y democracia en Venezuela
+
+Historia política de Venezuela: democracia, constituciones, presidentes, partidos, gobiernos, federalismo, descentralización y vida republicana.
+
+[Explorar este tema en VenezolanosPodcast.com](https://www.venezolanospodcast.com/temas/politica-y-democracia-en-venezuela)
+
+## 81 transcripciones
+
+- [Cronología republicana 1810-2010. Cap 2.](../../episodios/cronologia-republicana-1810-2010-cap-2/transcripcion.md) — 2026-03-18
+- [Cronología republicana 1810-2010. Cap 1](../../episodios/cronologia-republicana-1810-2010-cap-1/transcripcion.md) — 2026-03-18
+- [Serie El Trienio Adeco (1945-1948). Cap 6 (último)](../../episodios/serie-el-trienio-adeco-1945-1948-cap-6-ultimo/transcripcion.md) — 2025-07-13
+- [Serie El Trienio Adeco (1945-1948). Cap 5.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-5/transcripcion.md) — 2025-07-08
+- [Serie El Trienio Adeco (1945-1948). Cap 4.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-4/transcripcion.md) — 2025-06-27
+- [Serie El Trienio Adeco (1945-1948). Cap 3](../../episodios/serie-el-trienio-adeco-1945-1948-cap-3/transcripcion.md) — 2025-06-26
+- [Serie El Trienio Adeco (1945-1948). Cap 2.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-2/transcripcion.md) — 2025-06-17
+- [Serie El Trienio Adeco (1945-1948). Cap 1.](../../episodios/serie-el-trienio-adeco-1945-1948-cap-1/transcripcion.md) — 2025-06-17
+- [Serie Hispanoamérica. Cap 5. Militarismo](../../episodios/serie-hispanoamerica-cap-5-militarismo/transcripcion.md) — 2024-07-16
+- [Serie La Democracia en Venezuela. Cap 10 (último). Gobierna la izquierda (1999-2023).](../../episodios/serie-la-democracia-en-venezuela-cap-10-ultimo-gobierna-la-izquierda-1999-2023/transcripcion.md) — 2023-07-10
+- [Serie La Democracia en Venezuela. Cap 9. El bipartidismo, la antipolítica, la descentralización (1974-1998)](../../episodios/serie-la-democracia-en-venezuela-cap-9-el-bipartidismo-la-antipolitica-la-descentralizacion-1974-1998/transcripcion.md) — 2023-07-04
+- [Serie La Democracia en Venezuela. Cap 8. El Pacto de Puntofijo y cuatro gobiernos democráticos (1958-1979)](../../episodios/serie-la-democracia-en-venezuela-cap-8-el-pacto-de-puntofijo-y-cuatro-gobiernos-democraticos-1958-1979/transcripcion.md) — 2023-06-30
+- [Serie La Democracia en Venezuela. Cap 7. Luz y sombra de la democracia (1945-1958)](../../episodios/serie-la-democracia-en-venezuela-cap-7-luz-y-sombra-de-la-democracia-1945-1958/transcripcion.md) — 2023-06-20
+- [Serie La Democracia en Venezuela. Cap 6. Fin del siglo XIX y los andinos en el poder](../../episodios/serie-la-democracia-en-venezuela-cap-6-fin-del-siglo-xix-y-los-andinos-en-el-poder/transcripcion.md) — 2023-06-14
+- [Serie La Democracia en Venezuela. Cap 5. Guzmán Blanco: avances y retrocesos.](../../episodios/serie-la-democracia-en-venezuela-cap-5-guzman-blanco-avances-y-retrocesos/transcripcion.md) — 2023-06-05
+- [Serie La Democracia en Venezuela. Cap 4. Los Monagas. La Guerra Federal y el Federalismo.](../../episodios/serie-la-democracia-en-venezuela-cap-4-los-monagas-la-guerra-federal-y-el-federalismo/transcripcion.md) — 2023-05-31
+- [Serie La Democracia en Venezuela. Cap 3. El proyecto liberal de los conservadores.](../../episodios/serie-la-democracia-en-venezuela-cap-3-el-proyecto-liberal-de-los-conservadores/transcripcion.md) — 2023-05-25
+- [Serie La Democracia en Venezuela. Cap 2. El centralismo bolivariano y la República de Colombia](../../episodios/serie-la-democracia-en-venezuela-cap-2-el-centralismo-bolivariano-y-la-republica-de-colombia/transcripcion.md) — 2023-05-15
+- [Serie La Democracia en Venezuela. Cap 1.](../../episodios/serie-la-democracia-en-venezuela-cap-1/transcripcion.md) — 2023-05-10
+- [Serie 2 Presidentes. Carlos Andrés Pérez. Cap 2.](../../episodios/serie-2-presidentes-carlos-andres-perez-cap-2/transcripcion.md) — 2022-04-17
+- [Serie 2 Presidentes. Carlos Andrés Pérez. Cap 1.](../../episodios/serie-2-presidentes-carlos-andres-perez-cap-1/transcripcion.md) — 2022-04-05
+- [Serie 2 Presidentes. Rafael Caldera. Cap 2.](../../episodios/serie-2-presidentes-rafael-caldera-cap-2/transcripcion.md) — 2022-03-29
+- [Serie 2 Presidentes. Rafael Caldera. Cap 1.](../../episodios/serie-2-presidentes-rafael-caldera-cap-1/transcripcion.md) — 2022-03-23
+- [Serie Militares. Rafael Alfonzo Ravard (último capítulo de la serie)](../../episodios/serie-militares-rafael-alfonzo-ravard-ultimo-capitulo-de-la-serie/transcripcion.md) — 2021-12-21
+- [Serie Militares. Wolfgang Larrazábal Ugueto](../../episodios/serie-militares-wolfgang-larrazabal-ugueto/transcripcion.md) — 2021-12-13
+- [Serie Militares. Marcos Pérez Jiménez](../../episodios/serie-militares-marcos-perez-jimenez/transcripcion.md) — 2021-12-07
+- [Serie Militares. Carlos Delgado-Chalbaud](../../episodios/serie-militares-carlos-delgado-chalbaud/transcripcion.md) — 2021-11-29
+- [Serie Militares. Isaías Medina Angarita](../../episodios/serie-militares-isaias-medina-angarita/transcripcion.md) — 2021-11-23
+- [Serie Militares. Eleazar López Contreras.](../../episodios/serie-militares-eleazar-lopez-contreras/transcripcion.md) — 2021-11-17
+- [Serie Militares. Juan Vicente Gómez. Cap 2.](../../episodios/serie-militares-juan-vicente-gomez-cap-2/transcripcion.md) — 2021-11-10
+- [Serie Militares. Juan Vicente Gómez. Cap 1.](../../episodios/serie-militares-juan-vicente-gomez-cap-1/transcripcion.md) — 2021-11-02
+- [Serie Militares. Cipriano Castro](../../episodios/serie-militares-cipriano-castro/transcripcion.md) — 2021-10-25
+- [Serie Militares. Joaquín Crespo](../../episodios/serie-militares-joaquin-crespo/transcripcion.md) — 2021-10-19
+- [Serie Militares. Antonio Guzmán Blanco. Cap 2.](../../episodios/serie-militares-antonio-guzman-blanco-cap-2/transcripcion.md) — 2021-10-15
+- [Serie Militares. Antonio Guzmán Blanco. Cap 1.](../../episodios/serie-militares-antonio-guzman-blanco-cap-1/transcripcion.md) — 2021-10-05
+- [Serie Militares. Juan Crisóstomo Falcón](../../episodios/serie-militares-juan-crisostomo-falcon/transcripcion.md) — 2021-08-04
+- [Serie Militares. Ezequiel Zamora](../../episodios/serie-militares-ezequiel-zamora/transcripcion.md) — 2021-07-29
+- [Serie Militares. Daniel Florencio O'Leary](../../episodios/serie-militares-daniel-florencio-oleary/transcripcion.md) — 2021-07-21
+- [Serie Militares. Juan José Flores](../../episodios/serie-militares-juan-jose-flores/transcripcion.md) — 2021-07-15
+- [Serie Militares. Antonio José de Sucre](../../episodios/serie-militares-antonio-jose-de-sucre/transcripcion.md) — 2021-07-08
+- [Serie Militares. Francisco de Paula Santander.](../../episodios/serie-militares-francisco-de-paula-santander/transcripcion.md) — 2021-06-28
+- [Serie Militares. José Antonio Páez. Cap 2 (último)](../../episodios/serie-militares-jose-antonio-paez-cap-2-ultimo/transcripcion.md) — 2021-06-21
+- [Serie Militares. José Antonio Páez. Cap 1.](../../episodios/serie-militares-jose-antonio-paez-cap-1/transcripcion.md) — 2021-06-14
+- [Serie Militares. José Antonio Anzoátegui](../../episodios/serie-militares-jose-antonio-anzoategui/transcripcion.md) — 2021-06-03
+- [Serie Militares. Santiago Mariño](../../episodios/serie-militares-santiago-marino/transcripcion.md) — 2021-05-27
+- [Serie Militares. Rafael Urdaneta](../../episodios/serie-militares-rafael-urdaneta/transcripcion.md) — 2021-05-19
+- [Serie Militares. José Tadeo Monagas](../../episodios/serie-militares-jose-tadeo-monagas/transcripcion.md) — 2021-05-10
+- [Serie Militares. Simón Bolívar. Cap 4 y último](../../episodios/serie-militares-simon-bolivar-cap-4-y-ultimo/transcripcion.md) — 2021-04-29
+- [Serie Militares. Simón Bolívar. Cap 3](../../episodios/serie-militares-simon-bolivar-cap-3/transcripcion.md) — 2021-04-29
+- [Serie Militares. Simón Bolívar. Cap 2](../../episodios/serie-militares-simon-bolivar-cap-2/transcripcion.md) — 2021-04-29
+- [Serie Militares. Simón Bolívar. Cap 1](../../episodios/serie-militares-simon-bolivar-cap-1/transcripcion.md) — 2021-04-29
+- [Serie Militares. Manuel Carlos Piar.](../../episodios/serie-militares-manuel-carlos-piar/transcripcion.md) — 2021-04-15
+- [Serie Militares. Francisco de Miranda. Cap 2.](../../episodios/serie-militares-francisco-de-miranda-cap-2/transcripcion.md) — 2021-03-16
+- [Serie Militares. Francisco de Miranda. Cap 1.](../../episodios/serie-militares-francisco-de-miranda-cap-1/transcripcion.md) — 2021-03-16
+- [Siglo XIX Venezolano. Cap 9.](../../episodios/siglo-xix-venezolano-cap-9/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 8.](../../episodios/siglo-xix-venezolano-cap-8/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 7](../../episodios/siglo-xix-venezolano-cap-7/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 6.](../../episodios/siglo-xix-venezolano-cap-6/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 5.](../../episodios/siglo-xix-venezolano-cap-5/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 4.](../../episodios/siglo-xix-venezolano-cap-4/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 3](../../episodios/siglo-xix-venezolano-cap-3/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 2](../../episodios/siglo-xix-venezolano-cap-2/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 16 y último.](../../episodios/siglo-xix-venezolano-cap-16-y-ultimo/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 15](../../episodios/siglo-xix-venezolano-cap-15/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 14.](../../episodios/siglo-xix-venezolano-cap-14/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 13.](../../episodios/siglo-xix-venezolano-cap-13/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 10.](../../episodios/siglo-xix-venezolano-cap-10/transcripcion.md) — 2019-10-29
+- [Siglo XIX Venezolano. Cap 1](../../episodios/siglo-xix-venezolano-cap-1/transcripcion.md) — 2019-10-29
+- [Las Constituciones de Venezuela. Cap 6 y último.](../../episodios/las-constituciones-de-venezuela-cap-6-y-ultimo/transcripcion.md) — 2019-10-19
+- [Las Constituciones de Venezuela. Cap 5](../../episodios/las-constituciones-de-venezuela-cap-5/transcripcion.md) — 2019-10-19
+- [Cuatro Presidentes: Betancourt, Caldera, Leoni y Pérez.](../../episodios/cuatro-presidentes-betancourt-caldera-leoni-y-perez/transcripcion.md) — 2019-10-19
+- [4 candidatos. Barrios, Villalba, Uslar y Petkoff](../../episodios/4-candidatos-barrios-villalba-uslar-y-petkoff/transcripcion.md) — 2019-10-19
+- [Las Constituciones de Venezuela. Cap 4](../../episodios/las-constituciones-de-venezuela-cap-4/transcripcion.md) — 2019-10-18
+- [Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964) Cap 2](../../episodios/romulo-betancourt-presidente-de-la-republica-1945-1947-y-1959-1964-cap-2/transcripcion.md) — 2019-10-16
+- [Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964). Cap 1](../../episodios/romulo-betancourt-presidente-de-la-republica-1945-1947-y-1959-1964-cap-1/transcripcion.md) — 2019-10-16
+- [Las Constituciones de Venezuela. Cap 3](../../episodios/las-constituciones-de-venezuela-cap-3/transcripcion.md) — 2019-10-16
+- [Las Constituciones de Venezuela. Cap 2](../../episodios/las-constituciones-de-venezuela-cap-2/transcripcion.md) — 2019-10-16
+- [Las Constituciones de Venezuela. Cap 1](../../episodios/las-constituciones-de-venezuela-cap-1/transcripcion.md) — 2019-10-16
+- [Rómulo Gallegos. Presidente de la República (1948)](../../episodios/romulo-gallegos-presidente-de-la-republica-1948/transcripcion.md) — 2019-10-05
+- [Raúl Leoni. Presidente de la República (1964-1969)](../../episodios/raul-leoni-presidente-de-la-republica-1964-1969/transcripcion.md) — 2019-10-04
+- [Gral. Rafael Alfonzo Ravard](../../episodios/gral-rafael-alfonzo-ravard/transcripcion.md) — 2019-10-04

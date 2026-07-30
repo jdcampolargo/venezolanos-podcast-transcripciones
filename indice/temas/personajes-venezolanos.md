@@ -1,0 +1,146 @@
+# Personajes venezolanos
+
+Biografías y conversaciones sobre venezolanos que marcaron la historia, la cultura, la ciencia, la empresa, la política y las artes.
+
+[Explorar este tema en VenezolanosPodcast.com](https://www.venezolanospodcast.com/temas/personajes-venezolanos)
+
+## 138 transcripciones
+
+- [Serie los del podio III. Carlos Rasquin. Cap 12 (último)](../../episodios/serie-los-del-podio-iii-carlos-rasquin-cap-12-ultimo/transcripcion.md) — 2024-06-14
+- [Serie Los del podio III. José María de Viana. Cap 11.](../../episodios/serie-los-del-podio-iii-jose-maria-de-viana-cap-11/transcripcion.md) — 2024-06-07
+- [Serie Los del podio III. Manuel Riber. Cap 10.](../../episodios/serie-los-del-podio-iii-manuel-riber-cap-10/transcripcion.md) — 2024-05-29
+- [Serie los del podio III. Ben Amí Fihman. Cap 9.](../../episodios/serie-los-del-podio-iii-ben-ami-fihman-cap-9/transcripcion.md) — 2024-05-25
+- [Serie los del podio III. Fina Torres. Cap 8.](../../episodios/serie-los-del-podio-iii-fina-torres-cap-8/transcripcion.md) — 2024-05-14
+- [Serie Los del podio III. Efraín Carrera Saud. Cap 7.](../../episodios/serie-los-del-podio-iii-efrain-carrera-saud-cap-7/transcripcion.md) — 2024-05-10
+- [Serie Los del podio III. Luisa Pernalete. Cap 6.](../../episodios/serie-los-del-podio-iii-luisa-pernalete-cap-6/transcripcion.md) — 2024-05-01
+- [Serie Los del podio III. Javier Vidal. Cap 5.](../../episodios/serie-los-del-podio-iii-javier-vidal-cap-5/transcripcion.md) — 2024-05-01
+- [Serie Los del podio III. Ivanova Decán Gambús. Cap 4.](../../episodios/serie-los-del-podio-iii-ivanova-decan-gambus-cap-4/transcripcion.md) — 2024-04-13
+- [Serie Los del podio III. Milos Alcalay. Cap 3.](../../episodios/serie-los-del-podio-iii-milos-alcalay-cap-3/transcripcion.md) — 2024-04-12
+- [Serie Los del podio III. Pedro Palma. Cap 2.](../../episodios/serie-los-del-podio-iii-pedro-palma-cap-2/transcripcion.md) — 2024-03-28
+- [Serie Los del podio III. Juvenal Ravelo. Cap 1.](../../episodios/serie-los-del-podio-iii-juvenal-ravelo-cap-1/transcripcion.md) — 2024-03-20
+- [Serie Fueras de Serie. Tomás Polanco Alcántara. Cap 8 (último).](../../episodios/serie-fueras-de-serie-tomas-polanco-alcantara-cap-8-ultimo/transcripcion.md) — 2024-03-14
+- [Serie Fueras de Serie. Santos Michelena. Cap 7.](../../episodios/serie-fueras-de-serie-santos-michelena-cap-7/transcripcion.md) — 2024-03-06
+- [Serie Fueras de Serie. Santos Michelena. Cap 6.](../../episodios/serie-fueras-de-serie-santos-michelena-cap-6/transcripcion.md) — 2024-03-02
+- [Serie Fueras de Serie. Isaac J. Pardo. Cap 5](../../episodios/serie-fueras-de-serie-isaac-j-pardo-cap-5/transcripcion.md) — 2024-02-21
+- [Serie Fueras de Serie. Andrés Bello.. Cap 4](../../episodios/serie-fueras-de-serie-andres-bello-cap-4/transcripcion.md) — 2024-02-15
+- [Serie Fueras de Serie. Juan Liscano. Cap 3.](../../episodios/serie-fueras-de-serie-juan-liscano-cap-3/transcripcion.md) — 2024-02-07
+- [Serie Fueras de Serie. Juan Liscano. Cap 2.](../../episodios/serie-fueras-de-serie-juan-liscano-cap-2/transcripcion.md) — 2024-01-31
+- [Serie Fueras de Serie. Juan Liscano. Cap 1](../../episodios/serie-fueras-de-serie-juan-liscano-cap-1/transcripcion.md) — 2024-01-26
+- [Serie Los del podio II. Cap 12 (último). Ana Teresa Torres](../../episodios/serie-los-del-podio-ii-cap-12-ultimo-ana-teresa-torres/transcripcion.md) — 2023-12-12
+- [Serie Los del podio II. Cap 11. Alberto Grau](../../episodios/serie-los-del-podio-ii-cap-11-alberto-grau/transcripcion.md) — 2023-12-05
+- [Serie Los del podio II. Cap 10. Leopoldo Baptista](../../episodios/serie-los-del-podio-ii-cap-10-leopoldo-baptista/transcripcion.md) — 2023-12-04
+- [Serie Los del podio II. Cap 9. Marco Negrón](../../episodios/serie-los-del-podio-ii-cap-9-marco-negron/transcripcion.md) — 2023-11-21
+- [Serie Los del podio II. Cap 8. María Guinand](../../episodios/serie-los-del-podio-ii-cap-8-maria-guinand/transcripcion.md) — 2023-11-16
+- [Serie Los del podio II. Cap 7. Víctor Guédez.](../../episodios/serie-los-del-podio-ii-cap-7-victor-guedez/transcripcion.md) — 2023-11-09
+- [Serie Los del podio II. Cap 6. Virginia Betancourt Valverde](../../episodios/serie-los-del-podio-ii-cap-6-virginia-betancourt-valverde/transcripcion.md) — 2023-11-06
+- [Serie Los del podio II. Cap 5. Rodolfo Izaguirre](../../episodios/serie-los-del-podio-ii-cap-5-rodolfo-izaguirre/transcripcion.md) — 2023-10-25
+- [Serie Los del podio II. Cap 4. Isabel Palacios](../../episodios/serie-los-del-podio-ii-cap-4-isabel-palacios/transcripcion.md) — 2023-10-17
+- [Serie Los del podio II. Cap 3. Arnoldo José Gabaldón](../../episodios/serie-los-del-podio-ii-cap-3-arnoldo-jose-gabaldon/transcripcion.md) — 2023-10-17
+- [Serie Los del podio II. Cap 2. Elisa Lerner](../../episodios/serie-los-del-podio-ii-cap-2-elisa-lerner/transcripcion.md) — 2023-10-05
+- [Serie Los del podio II. Cap 1. Laureano Márquez](../../episodios/serie-los-del-podio-ii-cap-1-laureano-marquez/transcripcion.md) — 2023-09-28
+- [Serie Los del podio I. Cap 14 (y último) Alberto Barrera Tyszka.](../../episodios/serie-los-del-podio-i-cap-14-y-ultimo-alberto-barrera-tyszka/transcripcion.md) — 2023-05-03
+- [Serie Los del podio I. Cap 13. Klaus Jaffe Carbonell](../../episodios/serie-los-del-podio-i-cap-13-klaus-jaffe-carbonell/transcripcion.md) — 2023-04-22
+- [Serie Los del podio I. Cap 12. Antonio Costante](../../episodios/serie-los-del-podio-i-cap-12-antonio-costante/transcripcion.md) — 2023-04-17
+- [Serie Los del podio I. Cap 11. Gloria Cuenca](../../episodios/serie-los-del-podio-i-cap-11-gloria-cuenca/transcripcion.md) — 2023-04-03
+- [Serie Los del podio I. Cap 10. Charles Brewer-Carías](../../episodios/serie-los-del-podio-i-cap-10-charles-brewer-carias/transcripcion.md) — 2023-03-28
+- [Serie Los del podio I. Cap 9. María Teresa Parima](../../episodios/serie-los-del-podio-i-cap-9-maria-teresa-parima/transcripcion.md) — 2023-03-22
+- [Serie Los del podio I. Cap 8. Tomás Straka](../../episodios/serie-los-del-podio-i-cap-8-tomas-straka/transcripcion.md) — 2023-03-15
+- [Serie Los del podio I. Cap 7. Solveig Hoogesteijn](../../episodios/serie-los-del-podio-i-cap-7-solveig-hoogesteijn/transcripcion.md) — 2023-03-11
+- [Serie Los del podio I. Cap 6. Jimmy Alcock](../../episodios/serie-los-del-podio-i-cap-6-jimmy-alcock/transcripcion.md) — 2023-03-02
+- [Serie Los del podio I. Cap 5. Carlos Oteyza](../../episodios/serie-los-del-podio-i-cap-5-carlos-oteyza/transcripcion.md) — 2023-02-25
+- [Serie Los del podio I. Cap 4. Alicia Alamo Bartolomé](../../episodios/serie-los-del-podio-i-cap-4-alicia-alamo-bartolome/transcripcion.md) — 2023-02-14
+- [Serie Los del Podio I. Cap 3. Benjamín Scharifker](../../episodios/serie-los-del-podio-i-cap-3-benjamin-scharifker/transcripcion.md) — 2023-02-07
+- [Serie Los del podio I. Cap 2. Gioconda Cunto de San Blas.](../../episodios/serie-los-del-podio-i-cap-2-gioconda-cunto-de-san-blas/transcripcion.md) — 2023-01-30
+- [Serie Los del podio I. Cap 1. Rafael Cadenas](../../episodios/serie-los-del-podio-i-cap-1-rafael-cadenas/transcripcion.md) — 2023-01-25
+- [Serie 2 Presidentes. Carlos Andrés Pérez. Cap 2.](../../episodios/serie-2-presidentes-carlos-andres-perez-cap-2/transcripcion.md) — 2022-04-17
+- [Serie 2 Presidentes. Carlos Andrés Pérez. Cap 1.](../../episodios/serie-2-presidentes-carlos-andres-perez-cap-1/transcripcion.md) — 2022-04-05
+- [Serie 2 Presidentes. Rafael Caldera. Cap 2.](../../episodios/serie-2-presidentes-rafael-caldera-cap-2/transcripcion.md) — 2022-03-29
+- [Serie 2 Presidentes. Rafael Caldera. Cap 1.](../../episodios/serie-2-presidentes-rafael-caldera-cap-1/transcripcion.md) — 2022-03-23
+- [José Antonio Ramos Sucre (1890-1930)](../../episodios/jose-antonio-ramos-sucre-1890-1930/transcripcion.md) — 2020-06-09
+- [Excepcionales. Cap 13 y último. Eugenio Mendoza Goiticoa](../../episodios/excepcionales-cap-13-y-ultimo-eugenio-mendoza-goiticoa/transcripcion.md) — 2020-04-14
+- [Excepcionales. Cap 9. D.F.Maza Zavala. (1)](../../episodios/excepcionales-cap-9-dfmaza-zavala-1/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 8. Soledad Bravo](../../episodios/excepcionales-cap-8-soledad-bravo/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 12. Andrés Eloy Blanco.](../../episodios/excepcionales-cap-12-andres-eloy-blanco/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 11. José Balza.](../../episodios/excepcionales-cap-11-jose-balza/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 10. D.F. Maza Zavala (2)](../../episodios/excepcionales-cap-10-df-maza-zavala-2/transcripcion.md) — 2020-02-18
+- [Excepcionales. Cap 7. Jesús Soto (2)](../../episodios/excepcionales-cap-7-jesus-soto-2/transcripcion.md) — 2020-01-13
+- [Excepcionales. Cap 6. Jesús Soto (1)](../../episodios/excepcionales-cap-6-jesus-soto-1/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 5. José Ignacio Cabrujas.](../../episodios/excepcionales-cap-5-jose-ignacio-cabrujas/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 4. Carlos Cruz-Diez (2)](../../episodios/excepcionales-cap-4-carlos-cruz-diez-2/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 3. Carlos Cruz-Diez (1)](../../episodios/excepcionales-cap-3-carlos-cruz-diez-1/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 2. Ramón J. Velásquez (2)](../../episodios/excepcionales-cap-2-ramon-j-velasquez-2/transcripcion.md) — 2020-01-10
+- [Excepcionales. Cap 1. Ramón J. Velásquez (1)](../../episodios/excepcionales-cap-1-ramon-j-velasquez-1/transcripcion.md) — 2020-01-10
+- [Arquitectos Venezolanos. Cap 9. Díquez, González, Rivas y Tenreiro.](../../episodios/arquitectos-venezolanos-cap-9-diquez-gonzalez-rivas-y-tenreiro/transcripcion.md) — 2019-12-12
+- [Arquitectos Venezolanos. Cap 8. Alcock, Borges, Pimentel.](../../episodios/arquitectos-venezolanos-cap-8-alcock-borges-pimentel/transcripcion.md) — 2019-12-12
+- [Arquitectos Venezolanos. Cap 10 y último. Benacerraf, Gómez de Llarena, Tenreiro.](../../episodios/arquitectos-venezolanos-cap-10-y-ultimo-benacerraf-gomez-de-llarena-tenreiro/transcripcion.md) — 2019-12-12
+- [Arquitectos Venezolanos . Cap 7 . Tábora, Stoddart y Legórburu.](../../episodios/arquitectos-venezolanos-cap-7-tabora-stoddart-y-legorburu/transcripcion.md) — 2019-12-11
+- [Arquitectos Venezolanos. Volante, Sanabria, Pietri. Cap 5.](../../episodios/arquitectos-venezolanos-volante-sanabria-pietri-cap-5/transcripcion.md) — 2019-11-04
+- [Arquitectos Venezolanos. Domínguez, Galia, Ferris y Beckhoff. Cap 4.](../../episodios/arquitectos-venezolanos-dominguez-galia-ferris-y-beckhoff-cap-4/transcripcion.md) — 2019-11-03
+- [Arquitectos Venezolanos. Malaussena, Chataing, Wallis y Mujica Millán. Cap 2.](../../episodios/arquitectos-venezolanos-malaussena-chataing-wallis-y-mujica-millan-cap-2/transcripcion.md) — 2019-10-30
+- [Arquitectos Venezolanos. Lutowski, Meneses, Urdaneta y Hurtado Manrique. Cap 1](../../episodios/arquitectos-venezolanos-lutowski-meneses-urdaneta-y-hurtado-manrique-cap-1/transcripcion.md) — 2019-10-30
+- [Arquitectos Venezolanos. Guinand, Villanueva, Malaussena. Cap 3](../../episodios/arquitectos-venezolanos-guinand-villanueva-malaussena-cap-3/transcripcion.md) — 2019-10-30
+- [Médicos Venezolanos. Lucca Escobar, Fernández Morán, Machado, Beker. Cap 12 y último.](../../episodios/medicos-venezolanos-lucca-escobar-fernandez-moran-machado-beker-cap-12-y-ultimo/transcripcion.md) — 2019-10-29
+- [Médicos Venezolanos. De Venanzi, Layrisse, Lucca Romero y Rincón Gutiérrez. Cap 11.](../../episodios/medicos-venezolanos-de-venanzi-layrisse-lucca-romero-y-rincon-gutierrez-cap-11/transcripcion.md) — 2019-10-29
+- [Médicos Venezolanos. Ímber, Méndez Castellanos, Beaujon, Granier. Cap 10](../../episodios/medicos-venezolanos-imber-mendez-castellanos-beaujon-granier-cap-10/transcripcion.md) — 2019-10-28
+- [Médicos Venezolanos. Lauría, Pifano y Convit. Cap 9](../../episodios/medicos-venezolanos-lauria-pifano-y-convit-cap-9/transcripcion.md) — 2019-10-25
+- [Médicos Venezolanos. Tejera Guevara, Aguerrevere, Torrealba, Malec de Petkoff y Vegas. Cap 6.](../../episodios/medicos-venezolanos-tejera-guevara-aguerrevere-torrealba-malec-de-petkoff-y-vegas-cap-6/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. Pi Suñer, Bello, Luciani, Izquierdo y Pereira Álvarez. Cap 5](../../episodios/medicos-venezolanos-pi-suner-bello-luciani-izquierdo-y-pereira-alvarez-cap-5/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. Oropeza, Conde Jahn, Pérez Carreño, Gabaldón y Archila. Cap 8.](../../episodios/medicos-venezolanos-oropeza-conde-jahn-perez-carreno-gabaldon-y-archila-cap-8/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. González Rincones, Machado, Castillo, Baldó Soulés y Pulido Méndez. Cap 7](../../episodios/medicos-venezolanos-gonzalez-rincones-machado-castillo-baldo-soules-y-pulido-mendez-cap-7/transcripcion.md) — 2019-10-24
+- [Médicos Venezolanos. Villavicencio, Hernández, Rísquez y Dominici. Cap 2](../../episodios/medicos-venezolanos-villavicencio-hernandez-risquez-y-dominici-cap-2/transcripcion.md) — 2019-10-23
+- [Médicos Venezolanos. Maldonado, Herrera Vegas,Toro, Rodríguez Rivero y Rangel. Cap 4](../../episodios/medicos-venezolanos-maldonado-herrera-vegastoro-rodriguez-rivero-y-rangel-cap-4/transcripcion.md) — 2019-10-23
+- [Médicos Venezolanos. Machado, Pineda, Razetti y Acosta Ortíz. Cap 3](../../episodios/medicos-venezolanos-machado-pineda-razetti-y-acosta-ortiz-cap-3/transcripcion.md) — 2019-10-23
+- [Médicos Venezolanos. Blandín, Campíns, Vargas, Beauperthuy. Cap 1](../../episodios/medicos-venezolanos-blandin-campins-vargas-beauperthuy-cap-1/transcripcion.md) — 2019-10-23
+- [Narradores-Ensayistas. Díaz Sánchez, Pocaterra, Rossi y Garmendia.](../../episodios/narradores-ensayistas-diaz-sanchez-pocaterra-rossi-y-garmendia/transcripcion.md) — 2019-10-19
+- [La ciudad vista por Nazoa, Brewer Carías, Almandoz y Aveledo](../../episodios/la-ciudad-vista-por-nazoa-brewer-carias-almandoz-y-aveledo/transcripcion.md) — 2019-10-19
+- [Joaquín Marta Sosa](../../episodios/joaquin-marta-sosa/transcripcion.md) — 2019-10-19
+- [Dos abogados: Eloy Lares Martínez y Rafael-Clemente Arráiz](../../episodios/dos-abogados-eloy-lares-martinez-y-rafael-clemente-arraiz/transcripcion.md) — 2019-10-19
+- [Cuatro Presidentes: Betancourt, Caldera, Leoni y Pérez.](../../episodios/cuatro-presidentes-betancourt-caldera-leoni-y-perez/transcripcion.md) — 2019-10-19
+- [5 académicos de la Lengua. Briceño I, Venegas F, Díaz S, Subero, Bermúdez.](../../episodios/5-academicos-de-la-lengua-briceno-i-venegas-f-diaz-s-subero-bermudez/transcripcion.md) — 2019-10-19
+- [4 Profesores. Castro Leiva, Kelly, Guédez y Stambouli.](../../episodios/4-profesores-castro-leiva-kelly-guedez-y-stambouli/transcripcion.md) — 2019-10-19
+- [4 médicos excepcionales. Hernández, Alvarado, Gabaldón y Rísquez](../../episodios/4-medicos-excepcionales-hernandez-alvarado-gabaldon-y-risquez/transcripcion.md) — 2019-10-19
+- [4 inmigrantes luminosos. Grases, García Bacca, García Pelayo y Nectario María](../../episodios/4-inmigrantes-luminosos-grases-garcia-bacca-garcia-pelayo-y-nectario-maria/transcripcion.md) — 2019-10-19
+- [4 inmigrantes luminosos. Cervigón, Cunill Grau, Ferrero y López Pedraza](../../episodios/4-inmigrantes-luminosos-cervigon-cunill-grau-ferrero-y-lopez-pedraza/transcripcion.md) — 2019-10-19
+- [4 historiadores. Parra Pérez, Carrera Damas, Caballero y Polanco Alcántara.](../../episodios/4-historiadores-parra-perez-carrera-damas-caballero-y-polanco-alcantara/transcripcion.md) — 2019-10-19
+- [4 del 28. Rojas Guardia, Pardo, Fombona Pachano y Blanco.](../../episodios/4-del-28-rojas-guardia-pardo-fombona-pachano-y-blanco/transcripcion.md) — 2019-10-19
+- [4 candidatos. Barrios, Villalba, Uslar y Petkoff](../../episodios/4-candidatos-barrios-villalba-uslar-y-petkoff/transcripcion.md) — 2019-10-19
+- [4 artistas. Narváez, Soto, Sánchez y Rivas](../../episodios/4-artistas-narvaez-soto-sanchez-y-rivas/transcripcion.md) — 2019-10-19
+- [3 Próceres. Miranda, Piar y Sucre](../../episodios/3-proceres-miranda-piar-y-sucre/transcripcion.md) — 2019-10-19
+- [3 grandes músicos. Teresa Carreño, Simón Díaz y Aldemaro Romero.](../../episodios/3-grandes-musicos-teresa-carreno-simon-diaz-y-aldemaro-romero/transcripcion.md) — 2019-10-19
+- [3 Escritores principales: Rufino Blanco Fombona, Ana Teresa Torres y Francisco Suniaga.](../../episodios/3-escritores-principales-rufino-blanco-fombona-ana-teresa-torres-y-francisco-suniaga/transcripcion.md) — 2019-10-19
+- [3 empresarios pioneros y 1 constructor. W H. Phelps, E. Mendoza, C.E. Frías y G. Clérico.](../../episodios/3-empresarios-pioneros-y-1-constructor-w-h-phelps-e-mendoza-ce-frias-y-g-clerico/transcripcion.md) — 2019-10-19
+- [2 poetas. Guillermo Sucre y Yolanda Pantin](../../episodios/2-poetas-guillermo-sucre-y-yolanda-pantin/transcripcion.md) — 2019-10-19
+- [2 artistas y 1 crítico. Zapata, Zuloaga de Tovar y Palenzuela.](../../episodios/2-artistas-y-1-critico-zapata-zuloaga-de-tovar-y-palenzuela/transcripcion.md) — 2019-10-19
+- [Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964) Cap 2](../../episodios/romulo-betancourt-presidente-de-la-republica-1945-1947-y-1959-1964-cap-2/transcripcion.md) — 2019-10-16
+- [Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964). Cap 1](../../episodios/romulo-betancourt-presidente-de-la-republica-1945-1947-y-1959-1964-cap-1/transcripcion.md) — 2019-10-16
+- [Rafael López-Pedraza](../../episodios/rafael-lopez-pedraza/transcripcion.md) — 2019-10-16
+- [Juan Pablo Pérez Alfonzo](../../episodios/juan-pablo-perez-alfonzo/transcripcion.md) — 2019-10-16
+- [Francisco Rivera](../../episodios/francisco-rivera/transcripcion.md) — 2019-10-16
+- [Antonio Arráiz](../../episodios/antonio-arraiz/transcripcion.md) — 2019-10-16
+- [Manuel Caballero](../../episodios/manuel-caballero/transcripcion.md) — 2019-10-09
+- [Juan Nuño](../../episodios/juan-nuno/transcripcion.md) — 2019-10-09
+- [José María Vargas](../../episodios/jose-maria-vargas/transcripcion.md) — 2019-10-09
+- [Eugenio Montejo](../../episodios/eugenio-montejo/transcripcion.md) — 2019-10-09
+- [Arturo Michelena](../../episodios/arturo-michelena/transcripcion.md) — 2019-10-09
+- [Alfredo Boulton](../../episodios/alfredo-boulton/transcripcion.md) — 2019-10-09
+- [Rómulo Gallegos. Presidente de la República (1948)](../../episodios/romulo-gallegos-presidente-de-la-republica-1948/transcripcion.md) — 2019-10-05
+- [La Batalla de Carabobo. 24 de junio de 1821.](../../episodios/la-batalla-de-carabobo-24-de-junio-de-1821/transcripcion.md) — 2019-10-05
+- [Elizabeth Schön](../../episodios/elizabeth-schon/transcripcion.md) — 2019-10-05
+- [Carlos Raúl Villanueva](../../episodios/carlos-raul-villanueva/transcripcion.md) — 2019-10-05
+- [Arístides Rojas](../../episodios/aristides-rojas/transcripcion.md) — 2019-10-05
+- [Vicente Gerbasi](../../episodios/vicente-gerbasi/transcripcion.md) — 2019-10-04
+- [Teresa de la Parra](../../episodios/teresa-de-la-parra/transcripcion.md) — 2019-10-04
+- [Teresa Carreño](../../episodios/teresa-carreno/transcripcion.md) — 2019-10-04
+- [Raúl Leoni. Presidente de la República (1964-1969)](../../episodios/raul-leoni-presidente-de-la-republica-1964-1969/transcripcion.md) — 2019-10-04
+- [Martín Tovar y Tovar](../../episodios/martin-tovar-y-tovar/transcripcion.md) — 2019-10-04
+- [Mariano Picón Salas](../../episodios/mariano-picon-salas/transcripcion.md) — 2019-10-04
+- [Lisandro Alvarado](../../episodios/lisandro-alvarado/transcripcion.md) — 2019-10-04
+- [Juan Liscano](../../episodios/juan-liscano/transcripcion.md) — 2019-10-04
+- [Juan Germán Roscio](../../episodios/juan-german-roscio/transcripcion.md) — 2019-10-04
+- [José Gil Fortoul](../../episodios/jose-gil-fortoul/transcripcion.md) — 2019-10-04
+- [José Cortés de Madariaga](../../episodios/jose-cortes-de-madariaga/transcripcion.md) — 2019-10-04
+- [Hanni Ossott](../../episodios/hanni-ossott/transcripcion.md) — 2019-10-04
+- [Gral. Rafael Alfonzo Ravard](../../episodios/gral-rafael-alfonzo-ravard/transcripcion.md) — 2019-10-04
+- [Armando Reverón](../../episodios/armando-reveron/transcripcion.md) — 2019-10-04
+- [Antonia Palacios](../../episodios/antonia-palacios/transcripcion.md) — 2019-10-04
+- [19 de abril de 1810](../../episodios/19-de-abril-de-1810/transcripcion.md) — 2019-10-04

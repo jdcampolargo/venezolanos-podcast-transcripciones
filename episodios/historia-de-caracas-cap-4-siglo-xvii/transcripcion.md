@@ -1,0 +1,159 @@
+---
+titulo: "Historia de Caracas. Cap 4. Siglo XVII."
+slug: "historia-de-caracas-cap-4-siglo-xvii"
+fecha_publicacion: "2024-11-06"
+programa: "Venezolanos"
+presentador: "Rafael Arráiz Lucca"
+idioma: "es-VE"
+descripcion: "Vamos a dedicarnos al capítulo de la serie que venimos desarrollando sobre la historia de Caracas, hacer una suerte de balance del siglo XVII, ese que va desde…"
+serie: "Historia de Caracas"
+serie_slug: "historia-de-caracas"
+temas: ["historia-de-venezuela", "historia-de-caracas"]
+url_canonica: "https://www.venezolanospodcast.com/episodios/historia-de-caracas-cap-4-siglo-xvii"
+url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Historia-de-Caracas--Cap-4--Siglo-XVII-e2qlc5u"
+url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/94072446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F389381349-44100-2-bd7d21f8b01c9.m4a"
+palabras: 5180
+sha256_transcripcion: "52c4a39169f2b153b8b5735225cc5015725e823d8eba11c47971f0007a5759e2"
+---
+
+# Historia de Caracas. Cap 4. Siglo XVII.
+
+## Transcripción
+
+Recuerda que nos puede seguir en @MundoURWeb y @RadioEscuelaUR. Queridos amigos de Venezolanos, oyentes de este programa, ya 9 años de permanencia semanal en Unión Radio. Vamos a dedicarnos al capítulo de la serie que venimos desarrollando sobre la historia de Caracas, hacer una suerte de balance del siglo XVII, ese que va desde 1601 a 1700.
+
+Recordemos que este siglo comienza, en materia económica, con la preeminencia del cuero como principal producto de exportación. Le siguen, entonces, el tabaco y luego, con pequeñas cifras, algo que se llamaba palo brasil, algo que se llama zarzaparrilla y algo que se llama cacao, que va creciendo a lo largo de este siglo XVII. Y hacia finales del siglo XVII advertimos una disminución en la exportación de cuero, la desaparición de palo brasil y zarzaparrilla, y el crecimiento sostenido del cacao, el fruto que será la estrella durante todo el siglo XVIII.
+
+Evidentemente, se trata de una economía agropecuaria, ya que los hallazgos minerales fueron muy pocos en número y en cantidad, poquísimos a su vez. Es obvio que los terratenientes que podían obtener títulos para integrar el cabildo fueron lentamente constituyéndose en una oligarquía local en la ciudad de Caracas. Y a lo largo de este siglo, y en particular a partir del trabajo notable del gobernador Francisco de la Hoz Berrío, aquel que señalamos que había fundado centenares de pueblos en Venezuela, vemos cómo la Corona española se empeña en debilitar la institución de las encomiendas y en promover la fundación de los pueblos de indios, cosa que Francisco de la Hoz Berrío, siguiendo las instrucciones de la Corona, va a hacer de manera intensa, como señalamos en el programa anterior.
+
+¿Qué se buscaba con esto? Que los indígenas fuesen productivos, que pagaran tributos, y esto no pasaba mediante la institución de la encomienda. No ocurría realmente, ya que estos indígenas encomendados se ceñían al servicio personal del encomendero: con eso pagaban el tributo debido y al rey no le entraba ni un centavo.
+
+Ese trabajo se beneficiaba de él el encomendero, no el rey de España. Además, para la Corona se hizo evidente durante este siglo que, si los indígenas no eran evangelizados y considerados súbditos, se estaba reduciendo al mínimo la posibilidad de prolongarse el Imperio español en América.
+
+Era necesario incorporar a la vida del Imperio español a los indígenas; ese era el proyecto de España. Por otra parte, también advertía la Corona que descansar en las solas encomiendas no produjo resultados, ya que los criollos contaban con mano de obra sin pagar impuestos al rey, y no en las proporciones esperadas, como decíamos antes. Así como es evidente que durante el siglo XVI se fundan las ciudades para blancos, será durante este siglo XVII que hemos venido historiando cuando se establezcan los pueblos para indígenas, que al día de hoy muchos de ellos son ciudades de mediana y gran magnitud.
+
+En pocas palabras, la labor urbanizadora del siglo XVI se completa en el siglo XVII, este que hemos estado viendo, gracias al empeño de las autoridades políticas y muy especialmente de las eclesiásticas. Y otro elemento que hace presencia a lo largo de toda la centuria es de orden externo, es decir, la amenaza corsaria o pirata. No olvidemos que durante este siglo España pierde muchos territorios insulares en el Caribe, que pasan a manos holandesas, francesas e inglesas. Además, la costa venezolana fue muchas veces vulnerada por los piratas, en particular Maracaibo y Gibraltar.
+
+Fueron varias veces saqueadas y quemadas, así como fueron desafiadas y ocupadas también Margarita, La Guaira y Puerto Cabello. Y además de las búsquedas de botines, estaba el cobro del rescate por parte de los corsarios ingleses y franceses. Los holandeses se llevaron la sal de Araya y La Tortuga con una insistencia obsesiva. Recordemos que en aquellos tiempos la sal era la nevera del mundo.
+
+¿Por qué? Porque los alimentos podían conservarse en sal durante muchos días, de modo que no solo era un ingrediente culinario, sino instrumento de la conservación de los alimentos. Estos desafíos hacían evidente que las defensas fortificadas de las costas venezolanas eran precarias y supusieron esfuerzos económicos y humanos importantes por parte de la Corona, ya que había que levantar fuertes artillados para la defensa. Pero es evidente que no fueron suficientes.
+
+Es difícil imaginar lo que significó durante décadas vivir en Maracaibo. En cualquier momento llegaba una flota pirata y no había manera de defenderse. Y la ciudad quedaba arrasada por el fuego.
+
+Bien, las últimas resistencias indígenas se dieron durante esta centuria, lo que indica que algunas etnias, como los jirajaras, hoy en día en el estado Lara, no pudieron ser sometidas durante la centuria anterior. En consecuencia, no se puede decir que el trámite de la conquista quedó resuelto en pocos años del siglo XVI, al menos en regiones neurálgicas donde algunos indígenas prefirieron enfrentarse y morir que asumir dioses ajenos, una cultura extraña. Eso fue lo que prefirieron: enfrentarse y morir. De modo que puede afirmarse que durante estas centurias se solaparon dos procesos: el del asentamiento pacífico y productivo, superada la violencia guerrera de la conquista, y también la resistencia de los últimos focos de aborígenes que se negaban a ser evangelizados e incorporados a otro orden de creencias o ideas.
+
+En pocas palabras, pasar del politeísmo indígena al monoteísmo cristiano, pasar de muchos dioses en la naturaleza a un solo Dios llamado Jesús, que había nacido muy lejos de aquí. Y resalta durante esta centuria la conformación del estamento decisivo para el futuro de Venezuela: los criollos reunidos en el cabildo, gracias a la venta de los cargos que lo integraban. Es evidente que se fue formando una clase social adinerada con poder político.
+
+Esto se demostró en varias oportunidades: la Corona prefirió la suplencia de los alcaldes de la Real Audiencia de Santo Domingo en el caso de la muerte del gobernador. Lo explico durante el período de los Austrias, que es donde estamos: en este siglo XVII moría el gobernador y lo sustituía un alcalde. Esto va a cambiar con los Borbones; no va a ser así porque estos advierten que los criollos comienzan a ser una amenaza más que un factor de estabilidad imperial. Pero eso va a ocurrir en el siglo XVIII, eso lo veremos más adelante.
+
+En este que estamos revisando, el siglo XVII, regido por los Austrias o los Habsburgo, la importancia que fueron adquiriendo los criollos cabildantes es notoria. Quizá el mejor ejemplo sea el que mencionamos antes, García González de Silva, quien no solo desempeñó todos los cargos del cabildo y encabezó muchísimas expediciones militares para reducir a los indígenas sublevados, sino que se hizo inmensamente rico a lo largo de una vida muy dilatada, muy larga. Por supuesto, su caso es excepcional, pero emblemático de hasta dónde podía llegar un peninsular criollizado en su camino o en su andadura.
+
+En la próxima parte del programa veremos, entonces, cómo continúan estos hechos a lo largo del siglo XVII que hemos estado examinando. Y ya regresamos.
+
+En breve continúa Venezolanos. Somos Unión Radio Cultural. Estás escuchando Unión Radio Cultural. Este y otros programas de Venezolanos los puedes oír en formato podcast a través de anchor.fm. Para alguna sugerencia sobre este espacio, pueden escribirnos al correo rafaelarraiz@hotmail.com.
+
+Somos Unión Radio Cultural. Estamos de regreso con Venezolanos. Venimos revisando someramente, sintéticamente, los aspectos esenciales del siglo XVII y los venimos enumerando y analizando. Hay otro aspecto que se pone de relieve a lo largo del siglo, y es el de las relaciones entre el gobernador y la Iglesia católica.
+
+Por lo general, no llegaron a tensiones severas, pero los casos de fray Mauro de Tovar y Diego de Baños y Sotomayor son ejemplares. El primero se enfrentó a varios gobernadores, en particular Rui Fernández de Fuenmayor, incurriendo en excesos en cuanto a sus fueros de acción, yendo más allá de sus atribuciones. El segundo, me refiero a Diego de Baños y Sotomayor, sufrió los embates del gobernador Melo Maldonado, a quien, a todas luces, le molestaba el trabajo de Baños y Sotomayor y pretendió reducirlo o eliminarlo. En ambos casos la justicia actuó, pero no en lo inmediato, sino a posteriori, lo que condujo a que se creara un clima de gran tensión entre las autoridades civiles y las eclesiásticas.
+
+En verdad, ambos casos revelan que los fueros estaban delimitados, pero que no era imposible que alguno de los factores los interpretara a su favor y cometiera desafueros en sus acciones. Eso fue lo que pasó: los fueros estaban claros, pero las arbitrariedades pueden ocurrir. Ese fue el caso de fray Mauro y fue el caso de Melo Maldonado al enfrentarse a las constituciones sinodales de Baños y Sotomayor.
+
+De nuevo, en ambos casos podemos advertir cómo la impronta personal va a pesar más que la institucional, haciendo evidente que el carácter de un solo hombre puede ser más incidente sobre la sustancia de la realidad que fenómenos propiamente sociológicos. También en ambos casos la intervención de la justicia fue lenta, pero finalmente efectiva. En otros no fue lenta, sino expedita. Tan solo señalamos la invocación del alcalde desde la cédula real de 1560 acerca de los derechos de sustitución del gobernador fallecido y la respuesta favorable e inmediata de Santo Domingo, la Real Audiencia de Santo Domingo.
+
+O también podemos recordar las veces en que las tropelías de un gobernador fueron tantas, tantos atropellos, que no se esperó al juicio de residencia para sancionarlo, sino que se le destituyó y en algunos casos se le hizo preso de inmediato. En suma, hubo un poder judicial que funcionó con sentido de justicia y velocidad muchas veces. En otros casos fueron lentos, sumergidos en la desidia.
+
+Un buen resumen del desarrollo de la ciudad durante los siglos XVI y XVII lo vamos a hallar en el estudio del maestro Eduardo Arcila Farías. Ese estudio se titula Historia de la ingeniería en Venezuela. Allí se lee: «Cuando se fundó Caracas, señalaron 24 manzanas más la correspondiente a la plaza mayor. Hacia finales del siglo XVIII había 134 manzanas y, como todas las ciudades venezolanas, surge de la nada, pues no ocurrió como en otras zonas americanas donde los colonizadores encontraron una base indígena a la que se superpone la estructura urbana española. En Venezuela hubo que empezar por seleccionar el terreno y luego acondicionarlo: talar bosques, cortar madera, acarrear piedra y otros materiales de construcción.
+
+»Por eso, el proceso fue penoso y las primeras casas fueron por mucho tiempo simples armazones de estacas, con paredes de barro o techo de paja, pero poco a poco la ciudad fue vistiendo mejores galas. Aunque debió ser difícil, la colonia se mantuvo sumamente pobre el siglo XVI y la primera mitad del XVII, hasta que comenzó a circular la riqueza cacaotera, que habría de convertirla en la zona agrícola más próspera de América». Fin de la cita del maestro Eduardo Arcila Farías. Les repito: la zona agrícola más próspera de América fue Venezuela, que no fue una zona minera.
+
+De hecho, en anteriores oportunidades hemos citado el estudio de Michael McKinley, Caracas pre-revolucionaria, que demuestra, con cifras en la mano, que hacia finales del siglo XVIII la región más próspera de América en manos españolas era México; la segunda, Perú; y la tercera, Venezuela. Con una diferencia importante: México y Perú eran riquezas minerales; la riqueza de Venezuela era agrícola. De modo que aquí hay una singularidad muy importante.
+
+Ya en la segunda mitad del siglo XVII, como vemos, las situaciones comienzan a mejorar económicamente con la producción cacaotera, pero va a ser en el siglo siguiente, el siglo XVIII, cuando esa prosperidad se convierte en una realidad. Vamos a entrarle, entonces, al siglo XVIII, este que va de 1701 a 1810. Esto incluye las reformas borbónicas, la Compañía Guipuzcoana y la riqueza cacaotera.
+
+Estos 110 años que abarca este lapso que vamos a historiar son decisivos en la historia de la urbe, no solo porque las reformas borbónicas trajeron cambios importantes en la ciudad y provincia de Venezuela, y después en la Capitanía General de Venezuela, sino porque se refrendó la capitalidad caraqueña cuando, en 1777, la Corona crea la Capitanía General de Venezuela con sede en la ciudad de Caracas. De modo que vamos a ver los hechos. Hay un cambio de dinastía entre los Austrias y los Borbones; los Borbones son la casa real actual de España.
+
+Y ese paso de una dinastía a otra se da cuando un siglo concluye y empieza el otro. No serán pocos los cambios para España y para América, por supuesto, sobre todo a partir de las reformas borbónicas que se van a implementar en los años siguientes. Van a comenzar con Felipe V y continuarán con sus sucesores.
+
+Por lo pronto, al gobierno afortunado de Berroterán, que señalamos en el programa anterior, lo sucede el de Nicolás de Ponte y Hoyo. Ponte y Hoyo fue designado por el rey Carlos II, llegó a La Guaira en 1699 y le toca un ejercicio muy distinto al de Berroterán, porque tenía una afición por el lujo o por el gasto. Y además, le toca el cambio del rey.
+
+A raíz de la muerte de Carlos II: Carlos II muere el 1 de noviembre de 1700 y Felipe V, el primer Borbón, es coronado el 16 de noviembre de 1700. ¿Por qué se produce este cambio de dinastía? Porque Carlos II no tuvo descendientes y optó por Felipe, duque de Anjou, nieto de Luis XIV, rey de Francia, y María Teresa de Austria.
+
+Felipe V será integrante de la casa de los Borbones. ¿De dónde tomaron los Borbones su nombre? Del castillo familiar que quedaba en Bourbon-l'Archambault. Además, Felipe V era sobrino nieto de Carlos II.
+
+Sin embargo, no hubo concordia sobre la legitimidad del trono de Felipe V y comenzó la guerra. Esa guerra se conoce en España como la Guerra de Sucesión y se va a extender entre el año 1700 y 1714. Al final de la guerra se logra el reconocimiento de Felipe V y así se hace unánime en la Península Ibérica, no así en Alemania, donde el emperador no lo reconocía.
+
+¿Cuántos años va a durar el reino de Felipe V? 45 años, con una mínima interrupción en 1724, cuando abdicó a favor de su hijo Luis I. Luis I fallece el mismo año y el padre retoma la corona hasta el 9 de julio de 1746, cuando muere, y lo sucede su hijo Fernando VI.
+
+Bien, en la próxima parte del programa seguiremos viendo estos primeros años y la incidencia en Caracas, en la ciudad que estamos estudiando. Ya regresamos...
+
+En 1703 comenzó a observarse una conducta extraña en el gobernador de Ponte y Hoyo. Hicieron consultas entre el cabildo y el obispo; se designó una comisión médica que certificaba a don Nicolás de Ponte y Hoyo. El gobernador había perdido la cabeza y era indispensable reemplazarlo. Y de acuerdo con la cédula real de 1676, que ratificó la cédula de 1560, al gobernador debían sustituirlo los alcaldes ordinarios, pero el teniente del gobernador, Juan Félix de Villegas, se opuso invocando su supremacía.
+
+Se consulta a la Audiencia de Santo Domingo y esta respondió designando como gobernador interino a Francisco de Berroterán. Otra vez, quien ya entonces era el marqués del Valle de Santiago. Pero don Francisco no aceptó el cargo y el tema regresó al cabildo. Este decidió juramentar a los alcaldes ordinarios y otra vez el teniente Villegas se opuso.
+
+Entonces, la tensión estuvo a punto de decidirse por las armas, pero la sangre no llegó al río y gobernaron los alcaldes ordinarios Felipe Rodríguez de la Madrid y Francisco Alonso Gil. Esto, ¿por qué lo señalamos? Para que veamos cómo no siempre se resolvía fácilmente, tranquilamente, la decisión de quién sustituía a una autoridad en ejercicio.
+
+En este caso, no por la muerte, sino porque había enloquecido Ponte y Hoyo y no estaba totalmente claro; unos pensaban en una cosa, otros pensaban otra. En todo caso, finalmente Francisco de Berroterán va a tener que asumir la gobernación durante un tiempo, en el período entre 1705 y 1706. Y después vamos a tener al gobernador Rojas de 1706-1711. Ya para entonces hay unas cifras interesantes en la economía colonial de Venezuela, en los registros que compulsa el historiador Arcila Farías.
+
+Fíjense en estas cifras: en 1620 se exportaron 29 fanegas de cacao. En 1650, apenas 30 años después, se exportaron 4.148 y en 1699, 49 años después, la exportación fue de 13.735 fanegas de cacao. Y en 1721 la exportación del cacao llegaba a 34.115 fanegas; bueno, este es el origen de los grandes cacaos, son cifras muy, muy grandes. La mayor parte de estas exportaciones venezolanas no era a España, era a México; en menor medida, a España y las islas Canarias.
+
+Y el mismo Arcila Farías señala que el primer registro de exportación lo halla en el año 1609, lo que quiere decir que los primeros árboles han debido sembrarse o ubicarse en la provincia de Venezuela hacia finales del siglo XVI. Y vemos cómo el cultivo se fue extendiendo durante todo este siglo del 1600, que es el siglo XVII, y cómo eso va a incidir notablemente. Y ya en el siglo XVIII, del que estamos hablando, bueno, en 1740 la exportación es de 63.912 fanegas y en 1763 hay 83.215. Esa es la riqueza agrícola que señalan los historiadores y los investigadores.
+
+De modo que no lo podemos olvidar, porque forma parte esencial no solo de la vida en la provincia de Venezuela —todavía no se ha constituido la Capitanía General—, sino de la ciudad de Caracas, porque esos personajes, en su mayoría, esos grandes cacaos, o tenían casa o sus haciendas estaban cerca de Caracas y venían con mucha frecuencia. En todo caso, formaban parte de esa provincia de Venezuela, que era bastante grande.
+
+Y aquí tenemos un caso extraño: el gobernador José Francisco de Cañas y Merino, que va a gobernar entre 1711 y 1714. La verdad es que esta fue una de las peores designaciones que hizo la Corona de España en Venezuela. Este hombre cometió todos los excesos desde que asumió el cargo; primero la emprende contra el cabildo y los criollos, incluso a algunos criollos los pone presos por deudas menores. Persiguió a los contrabandistas, los hizo presos y los ahorcó a once; fueron ahorcados por Cañas y Merino, incluidos niños.
+
+Y luego él mismo se dedicó a la tarea de contrabandear; este señor era un verdadero malandro. Desconoció la autoridad de la Iglesia católica, incumplió las cédulas reales, humilló a los criollos, designando cargos foráneos y de menor cuantía. Y para colmo, estimuló las carreras de gatos. A los gatos les amarraba metales en la cola y los perseguía a caballo para azotarlos y matarlos en unión de sus amigos, igualmente envilecidos.
+
+Mientras los gatos iban sonando con aquellas latas amarradas a la cola por las calles de Caracas, eran una suerte de campanas improvisadas. Él los perseguía, una vergüenza, pero las barbaridades de este gobernador fueron abundantes. Una mañana, por ejemplo, decidió que la ciudad no podía tener árboles porque eran perjudiciales para la salud y armó una patrulla presidida por él mismo. Y se dedicó a talar todos los árboles de la ciudad, no solo los que estaban en la vía pública, sino los que crecían en los corrales de las casas.
+
+Y conminaba, bajo amenazas, a los dueños a que talaran cuanto árbol tenían en el corral, incluido aguacate o plátano. Bueno, es algo difícil de creer, la existencia de un ser humano como este, pero don Arístides Rojas lo documenta con propiedad e incluso refiere la anécdota para la pregunta de Humboldt en 1800 acerca de por qué en Caracas no había árboles centenarios. Y la respuesta que le dieron a Humboldt fue: porque los taló Cañas y Merino. Ni los frailes en los conventos pudieron escapar de la furia con que este gobernador de mente delirante ordenaba la tala de cuanto árbol estuviera de pie.
+
+Una verdadera tragedia fue este hombre para Caracas. Los criollos en el cabildo formaron un expediente en secreto con todos los delitos, se lo enviaron al rey y el rey reaccionó favorablemente y envió a un oidor, a Jorge Miguel Lozano Hiperalta, que puso preso al gobernador. Designó a los alcaldes ordinarios como sustitutos y envió a Cañas a España. Allá se le confiscaron todos los bienes y se le sentenció a muerte.
+
+Pero, al nacer el futuro Carlos III, su padre Felipe V decretó un indulto general y Cañas se salvó milagrosamente. Los últimos días de Cañas y Merino los pasó en Madrid, condenado socialmente y en la inopia, sin un maíz que echar. Y vamos a tener que lo sustituye entonces Alberto Berroterán y Navarro en 1715, y no es mucho lo que podemos decir de este breve gobierno.
+
+Sí, el de Demarco de Betancur y Castro, que llega en 1716, pues aquí van a empezar unos temas muy interesantes, porque empieza a discutirse quién tiene supremacía sobre Caracas como provincia de Venezuela: si el virreinato de Bogotá, recién fundado, o la Real Audiencia de Santo Domingo, que tradicionalmente era la instancia superior de los gobernadores en Venezuela. Los gobernadores en Caracas... Y, en 1720, el virrey de Bogotá, Jorge Villalonga, ordenó la destitución y prisión del gobernador Betancur, acusándolo de contrabando.
+
+Ordenan también la asunción del cargo por parte de Álvarez de Abreu. El cabildo se opone, asumen los alcaldes ordinarios, estos son sustituidos y, finalmente, el virrey insiste en que, si no le entregan el mando a Álvarez, irán presos. Aquí hubo, como vemos, un forcejeo o una tensión en la que termina imponiéndose, por la coacción violenta, el virrey en Bogotá.
+
+Recordemos que el virreinato de Nueva Granada tiene dos etapas. Una primera en la que se crea en 1717, pero esa primera etapa va a terminar en 1723, y vuelve a instaurarse el virreinato en 1739 y ya no se suspende más, a partir de 1739. Entonces, estos períodos fueron difíciles porque había discusiones o tensiones en relación con los espacios que gobernaba el virrey de Bogotá.
+
+En breve continúa Venezolanos. Somos Unión Radio Cultural. Estás escuchando Unión Radio Cultural. Este y otros programas de Venezolanos los puedes oír en formato podcast a través de anchor.fm. Para alguna sugerencia sobre este espacio, pueden escribirnos al correo rafaelarraiz@hotmail.com. Estamos de regreso con Venezolanos. Somos Unión Radio Cultural.
+
+Veníamos hablando en la parte anterior del programa el tema del virreinato de Nueva Granada con sede en Bogotá, que fue creado por segunda vez en 1739, pero va a ser más descentralizado que la anterior. Por ejemplo, crea tres capitanías marítimas, una en Panamá, otra en Cartagena y otra en Caracas. Y a la de Caracas le asigna preeminencia sobre Maracaibo, Cumaná, Guayana, Trinidad, Margarita y el Orinoco. De modo que prácticamente es poco lo que hace el virrey de Bogotá, al menos en términos marítimos.
+
+Y después, cuando llega de gobernador Gabriel de Zuloaga el 12 de febrero de 1742, el rey accede a la petición que le hace Gabriel de Zuloaga. Él le pide que separe a las provincias venezolanas del virreinato de Bogotá y el rey le hace caso. Por cierto, en los considerandos del rey se atiende a una realidad nunca desmentida: la poca o ninguna comunicación que había entre Bogotá y Caracas, dada la distancia y las rudezas de caminos. De modo que la dependencia política de la provincia de Venezuela del virreinato de Bogotá duró muy, muy poco.
+
+No llegó a sumar 10 años entre el primer y el segundo virreinato. Y a Betancur y Castro lo sucede Diego Portales Iseradón. Durante su gobierno, cuando el rey crea la Universidad de Caracas —acontecimiento importantísimo—, Felipe V erige en universidad al Colegio Seminario de Santa Rosa, que ya existía.
+
+Esto lo hace el rey Felipe V el 22 de diciembre de 1721 y la Universidad de Caracas abre sus puertas en 1725. Recordemos que ese colegio seminario, que había sido la semilla de la universidad, había sido instituido por el obispo Antonio González de Acuña, un dominico, en 1673. El seminario abrió en 1673 y desde el obispado de Diego de Baños y Sotomayor se viene insistiendo en la necesidad de convertir al seminario en una universidad. ¿Por qué? Porque el viaje para estudiar en la Universidad de Bogotá, en Santo Domingo o México era costoso y distante.
+
+Y los caraqueños no tenían cómo graduarse en su ciudad, lo que era una injusticia. Aun teniendo ese seminario, no podían hacerlo porque le faltaba la erección para pasar a ser una universidad. Bueno, esto finalmente ocurre y los primeros 11 rectores fueron designados por el obispo y fueron sacerdotes presbíteros. Con la cédula real de 1784 se da un paso adelante: el rector va a ser electo por el claustro y el primero es el doctor José Domingo Blanco.
+
+Como sabemos, Simón Bolívar, el Libertador, modificó los estatutos de la Universidad en 1827, en la última oportunidad que vino a Caracas. Y entonces el claustro pasó a denominarse... la universidad pasó a denominarse Universidad Central de Venezuela. Y el primer rector electo por el claustro fue el eminentísimo médico José María Vargas, por cierto, albacea testamentario de Simón Bolívar. ¿Cuáles fueron las primeras universidades americanas?
+
+Bueno, la de Santo Tomás de Aquino en Santo Domingo, fundada en 1538. La de México y Lima; la de México y la de Lima se llamaba San Marcos, ambas fundadas en 1553. La de Santiago de la Paz, en Santo Domingo, fundada en 1558. Después hay una lista larga de universidades: suman 32 entre los siglos XVII-XVIII y principios del siglo XIX.
+
+De la generación de la Independencia egresaron con títulos de la Universidad varios civiles de significación; me refiero al doctor Juan Germán Roscio, a Miguel José Sanz. Cristóbal Mendoza, por ejemplo, estudió en la Universidad de Santo Domingo. Algunos militares que hicieron la guerra de la Independencia en Venezuela no tuvieron formación universitaria alguna; es el caso de Miranda, de Bolívar. Sucre es relativo porque se formó como coronel de ingenieros.
+
+Por supuesto, Páez no pasó por una universidad; en cambio, Andrés Bello sí estudió y se gradúa en la Universidad de Caracas y alcanzó el título de bachiller en artes y en filosofía. Simón Rodríguez no pasó por allí, era autodidacta. Son pocos, entonces, los egresados de la Universidad de Caracas que tuvieron participación sustancial en el proceso independentista, salvo el caso notable y notorio de Juan Germán Roscio, que fue nada menos que el redactor del Acta de la Independencia, el 5 de julio, y el redactor de la primera Constitución de Venezuela, la Constitución Federal del 21 de diciembre de 1811.
+
+Bueno, recordemos que físicamente la Real y Pontificia Universidad de Caracas, que así era como se llamaba, ocupaba los espacios del Seminario de Santa Rosa de Lima, constituidos por unas casas que compró para tal fin el obispo González de Acuña en 1673. ¿Dónde estaban? Estaban enfrente de la Plaza Mayor de Caracas, entre las esquinas de Monjas y Gradillas. Luego, la universidad se mudó en 1856 para el antiguo Convento de San Francisco.
+
+Y esta edificación va a ser remodelada por el ingeniero Juan Hurtado Manrique en 1875, por órdenes de Antonio Guzmán Blanco, que era egresado de la Universidad Central de Venezuela, abogado. Esa será la sede de la universidad hasta que el presidente Isaías Medina Angarita compre los terrenos de la Hacienda Ibarra y encargue al gran arquitecto Carlos Raúl Villanueva el plan maestro de la nueva sede de la Universidad Central de Venezuela y entonces comience la Ciudad Universitaria.
+
+¿Pero cómo es la ciudad que recibe con alborozo la erección en un seminario o universidad? Bueno, si tomamos en cuenta la obra Historia de la conquista y población de la provincia de Venezuela, que fue publicada en Madrid en 1723, y recordamos que Oviedo y Baños llegó a la ciudad con su tío Diego de Baños y Sotomayor en 1686, pues ya sumaba muchos años de vivir en la ciudad y de conocerla a fondo.
+
+El propio Oviedo y Baños acepta haberse basado en las Noticias historiales de las conquistas de Tierra Firme en las Indias Occidentales, de fray Pedro Simón. Y este, a su vez, confesaba haberse fundamentado en el manuscrito de fray Pedro de Aguado, Recopilación historial de Venezuela. A su vez, Aguado expresaba que continuaba lo relatado en manuscrito desaparecido de fray Antonio de Medrano.
+
+Bueno, esta es la línea, ¿verdad? Ahora, cuando Oviedo y Baños describe pormenorizadamente la Iglesia Catedral, señala la existencia de la iglesia de La Candelaria, construida por canarios; refiere el Hospital de la Caridad y alude a los conventos de los dominicos y los franciscanos. Apunta que el lugar más hermoso es el convento de las monjas de la Concepción, que tiene dos ermitas.
+
+Bueno, afirma Oviedo y Baños en relación con Caracas, voy a leerles este fragmento y con esto terminamos el programa: «En un hermoso valle tan fértil como alegre y tan ameno como deleitable, que de poniente a oriente se dilata por cuatro leguas de longitud y poco más de media de latitud, en 10 grados y medio de altura septentrional, al pie de unas altas sierras que con distancia de cinco leguas la dividen del mar.
+
+»En el recinto que forman cuatro ríos, porque no le faltase circunstancia para acreditarla por paraíso, la cercan por todas partes sin padecer sustos de que la aneguen, tiene su situación en la ciudad de Caracas. En un temperamento tan del cielo que, sin competencia, es el mejor de cuantos tiene América, pues además de ser muy saludable, parece que lo escogió la primavera para su habitación continua. Pues, en igual templanza todo el año, ni el frío molesta, ni el calor enfada, ni los bochornos del estío fatigan y los rigores del invierno afligen.
+
+»Sus aguas son muchas, claras y delgadas, pues los cuatro ríos que la rodean a competencia le ofrecen sus cristales, brindando al apetito en su regalo, pues, sin reconocer violencias del verano, en el mayor rigor de la canícula mantienen su frescura, pasando en el diciembre a más que frías. Sus calles son anchas, largas y derechas, con salida y correspondencia en igual proporción a todas partes y, como están pendientes y empedradas, ni mantienen polvo ni consienten lodos.
+
+»Sus edificios, los más bajos son por recelo de los temblores. Algunos de ladrillo y, lo común, de tapias, pero bien dispuestos y repartidos en su fábrica. Las casas son tan dilatadas en los sitios que casi todas tienen espaciosos patios, jardines y huertas, que, regadas con diferentes acequias que cruzan la ciudad saliendo en cañadas del río Catuche, producen tanta variedad de flores que admira su abundancia todo el año, hermoseando las cuatro plazas, las tres medianas y la principal bien grande en proporción cuadrada».
+
+Hasta aquí esta descripción hermosísima de Oviedo y Baños. Hasta nuestro próximo encuentro, que será el capítulo quinto de esta historia de Caracas.

@@ -1,0 +1,29 @@
+# Venezolanos: archivo de transcripciones
+
+Archivo público en español de las transcripciones publicadas en
+https://www.venezolanospodcast.com
+
+Programa: Venezolanos
+Presentador: Rafael Arráiz Lucca
+Idioma: es-VE
+
+Entradas principales:
+- README: ./README.md
+- Índice: ./indice/README.md
+- Catálogo JSON: ./datos/archivo.json
+- Episodios: ./episodios/{slug}/transcripcion.md
+- Temas: ./indice/temas/{slug}.md
+- Aviso de uso: ./AVISO-DE-USO.md
+
+Fuente canónica:
+- Sitio: https://www.venezolanospodcast.com
+- Guía para IA: https://www.venezolanospodcast.com/for-ai
+- Manifiesto: https://www.venezolanospodcast.com/for-ai.json
+- RSS: https://anchor.fm/s/efcb9f4/podcast/rss
+
+Guía de cita:
+Cita el título del episodio, Venezolanos, Rafael Arráiz Lucca y la URL canónica.
+Verifica nombres, cifras y fechas importantes contra el audio o fuentes
+adicionales. El acceso al archivo no concede una licencia para republicar los
+audios o las transcripciones completas.
+
