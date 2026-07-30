@@ -112,9 +112,9 @@ siguiente sección.
 
 ### Infraestructura de conocimiento
 
-- [ ] **Agente de investigación sobre Venezuela.** No solo responder preguntas:
-  preparar expedientes con citas, episodios relacionados, puntos de tensión,
-  vacíos de evidencia y fuentes externas que todavía deben consultarse.
+- [ ] **RAG abierto de Venezolanos.** Un sistema que permita conversar con todo
+  el archivo, muestre la cita y el episodio detrás de cada respuesta, reconozca
+  cuando no sabe algo y pueda desplegarse o adaptarse con facilidad.
 - [ ] **Identidades históricas abiertas.** Asignar identificadores estables a
   personas, instituciones, empresas, lugares, gobiernos y obras para conectar
   este archivo con bibliotecas, museos, Wikipedia y otros repositorios.
@@ -133,9 +133,9 @@ siguiente sección.
 - [ ] **Biblioteca venezolana sin internet.** Empaquetar audio autorizado,
   transcripciones y materiales educativos para escuelas, bibliotecas y
   comunidades con conectividad limitada.
-- [ ] **Simulador de decisiones históricas.** Permitir que una clase represente
-  una constituyente, un gabinete, una empresa o una ciudad en un momento
-  decisivo y luego compare sus decisiones con lo que ocurrió.
+- [ ] **El reto venezolano.** Un juego diario de preguntas con rachas, ligas
+  entre colegios, desafíos familiares y resultados compartibles, donde cada
+  respuesta revele el episodio y la historia detrás del dato.
 - [ ] **Universo infantil de historia venezolana.** Crear libros ilustrados,
   animaciones, juegos y actividades que presenten personajes e instituciones
   sin convertir la historia en propaganda ni sacrificar precisión.
@@ -160,9 +160,9 @@ siguiente sección.
 - [ ] **Museo digital de Venezuela.** Un espacio inmersivo donde episodios,
   documentos, fotografías, mapas y objetos permitan recorrer épocas y temas
   como una exposición, no como una lista de enlaces.
-- [ ] **Videojuego histórico venezolano.** Una experiencia narrativa basada en
-  decisiones y fuentes reales que permita explorar una ciudad, institución o
-  periodo sin fingir que la ficción es evidencia.
+- [ ] **Videojuego de decisiones históricas.** Una experiencia narrativa donde
+  el jugador dirija una ciudad, una empresa, un periódico o un gobierno en un
+  momento decisivo y luego compare su recorrido con lo que ocurrió realmente.
 - [ ] **Rutas de memoria aumentada.** Recorridos físicos por Caracas y otras
   ciudades que activen historias, planos, fotografías y audio al llegar a cada
   lugar.
