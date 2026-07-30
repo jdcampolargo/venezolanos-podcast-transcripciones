@@ -43,8 +43,8 @@ Para buscadores, agentes y modelos de lenguaje:
 Busca una palabra o una idea en todo el archivo:
 
 ```bash
-git clone https://github.com/jdcampolargo/transcripciones-venezolanos-podcast.git
-cd transcripciones-venezolanos-podcast
+git clone https://github.com/jdcampolargo/venezolanos-podcast-transcripciones.git
+cd venezolanos-podcast-transcripciones
 rg -i "pacto de puntofijo|constitución de 1961" episodios/
 ```
 
@@ -101,10 +101,9 @@ debe permitir volver a la fuente.
 
 ## Solicitudes abiertas de proyectos
 
-Inspirada en las *Requests for Startups* de Y Combinator, esta es una lista de
-cosas que nos encantaría ver construidas con el archivo. No son tareas
-asignadas ni ideas reservadas: cualquier persona puede tomar una, mejorarla o
-combinarla con otra.
+Esta es una lista de cosas que nos encantaría ver construidas con el archivo.
+No son tareas asignadas ni ideas reservadas: cualquier persona puede tomar una,
+mejorarla o combinarla con otra.
 
 `[ ]` significa que la solicitud sigue abierta. Cuando exista una versión
 pública y funcional, la marcamos como `[x]` y agregamos el proyecto a la
