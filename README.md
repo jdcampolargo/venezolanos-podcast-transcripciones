@@ -101,10 +101,9 @@ debe permitir volver a la fuente.
 
 ## Solicitudes abiertas de proyectos
 
-Inspirada en las *Requests for Startups* de Y Combinator, esta es una lista de
-cosas que nos encantaría ver construidas con el archivo. No son tareas
-asignadas ni ideas reservadas: cualquier persona puede tomar una, mejorarla o
-combinarla con otra.
+Esta es una lista de cosas que nos encantaría ver construidas con el archivo.
+No son tareas asignadas ni ideas reservadas: cualquier persona puede tomar una,
+mejorarla o combinarla con otra.
 
 `[ ]` significa que la solicitud sigue abierta. Cuando exista una versión
 pública y funcional, la marcamos como `[x]` y agregamos el proyecto a la
