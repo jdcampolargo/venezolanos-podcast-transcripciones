@@ -120,18 +120,20 @@ siguiente sección.
 - [ ] **Prueba pública para la IA venezolana.** Crear un conjunto de preguntas
   difíciles, respuestas documentadas y métricas que revelen cuándo un modelo
   inventa nombres, fechas o hechos sobre Venezuela.
-- [ ] **Infraestructura lingüística venezolana.** Construir un diccionario de
-  pronunciaciones, topónimos, apellidos y correcciones para mejorar
-  transcripción, síntesis de voz y traducción del español venezolano.
+- [ ] **Memoria familiar venezolana.** Una herramienta privada para entrevistar
+  a padres y abuelos, organizar fotos, documentos y relatos, conectar cada
+  recuerdo con la historia del país y producir un archivo familiar que no se
+  pierda con la siguiente generación.
 
 ### Educación para una generación
 
 - [ ] **Libro de texto vivo de Venezuela.** Convertir episodios y fuentes
   adicionales en una obra abierta, modular y actualizable para estudiantes,
   con versiones por edad y rutas para docentes.
-- [ ] **Biblioteca venezolana sin internet.** Empaquetar audio autorizado,
-  transcripciones y materiales educativos para escuelas, bibliotecas y
-  comunidades con conectividad limitada.
+- [ ] **Venezolanos de bolsillo, sin internet.** Entrenar o adaptar un modelo
+  abierto y pequeño que funcione completamente en teléfonos, lleve el archivo
+  guardado localmente y enseñe sobre Venezuela con citas, sin señal, nube ni
+  cuenta de usuario.
 - [ ] **El reto venezolano.** Un juego diario de preguntas con rachas, ligas
   entre colegios, desafíos familiares y resultados compartibles, donde cada
   respuesta revele el episodio y la historia detrás del dato.
