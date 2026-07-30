@@ -44,4 +44,3 @@ git diff --check
 Los validadores comprueban estructura, conteos, huellas de contenido y enlaces.
 No certifican que cada afirmación histórica sea correcta: esa revisión exige
 escuchar el audio y consultar fuentes.
-
