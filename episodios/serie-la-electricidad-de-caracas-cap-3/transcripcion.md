@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-la-electricida
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-La-Electricidad-de-Caracas--Cap-3-e1kgqd8"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/54077288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fefcb9f4%2F54077288%2F752df6a4e6518ae7cabf24c31a41de1e.m4a"
 palabras: 5338
-sha256_transcripcion: "141305ef19a0c57b502c03a7baa91105b3d88628f6d4f4c0b237f748346c7991"
+sha256_transcripcion: "d1a5e00b1043c99a5275996a45a5575ab9a3221e1c5287050fdb5072562c3b67"
 ---
 
 # Serie La Electricidad de Caracas. Cap 3.
@@ -102,7 +102,7 @@ Y la empresa en alguna medida también fue blanco de amenazas por parte de las f
 
 Y en estos años, a diferencia de los anteriores, el ritmo de construcción de las urbanizaciones bajó. En cambio subió el de la creación de barrios en las laderas de los cerros caraqueños; aquel proceso de emigración del campo a la ciudad se aceleró, creándose problemas graves en cuanto a la prestación de los servicios básicos por parte de las empresas destinadas a esa prestación. En el censo de 1961 la capital llegó a un millón 336.464 habitantes y en 1971 la ciudad alcanzaba 2 millones 183 mil 935 habitantes, el número que no dejó de crecer. Y como señalamos antes, la ampliación de Tacoa, lejos de detenerse, siguió su curso y el crecimiento de la empresa también siguió sus cursos. Así como la institucionalización del sector eléctrico.
 
-Y en tal sentido, en 1963 se creó CAVINEL, Cámara Venezolana de la Industria Eléctrica, y el presidente fundador fue Machado Zuloaga. El mismo año la Comisión de Estudios para la electrificación del Caroní crea EDELCA, teniendo a su cargo Electricidad del Caroní, compañía anónima, y teniendo a su cargo el desarrollo del potencial eléctrico del río Caroní. Siempre bajo la tutela de la CVG, Corporación Venezolana de Guayana, y siempre bajo la conducción del entonces general Rafael Alfonso Ravard. Y él mismo en 1959 inaugura la central hidroeléctrica Macagua 1 y en 1963 comienzan los trabajos para la construcción de la central hidroeléctrica del Guri.
+Y en tal sentido, en 1963 se creó CAVINEL, Cámara Venezolana de la Industria Eléctrica, y el presidente fundador fue Machado Zuloaga. El mismo año la Comisión de Estudios para la electrificación del Caroní crea EDELCA, teniendo a su cargo Electricidad del Caroní, compañía anónima, y teniendo a su cargo el desarrollo del potencial eléctrico del río Caroní. Siempre bajo la tutela de la CVG, Corporación Venezolana de Guayana, y siempre bajo la conducción del entonces general Rafael Alfonzo Ravard. Y él mismo en 1959 inaugura la central hidroeléctrica Macagua 1 y en 1963 comienzan los trabajos para la construcción de la central hidroeléctrica del Guri.
 
 Y con el inicio de Guri, en este año 1963, de inmediato comenzaron a adelantarse los trabajos necesarios para que la Electricidad de Caracas pasara de 50 a 60 ciclos, de manera poder hacer la interconexión del sistema. Esto era indispensable y esto ocurre en 1968 cuando se firma el contrato de interconexión, precedido del indispensable cambio de frecuencia que la Electricidad de Caracas tuvo que realizar. La oficina administradora del contrato se denomina OPSIS, Oficina de Operación de Sistemas Interconectados, y enlaza los sistemas de generación de CADAFE, Compañía Anónima de Administración de la Fuerza Eléctrica, una empresa del Estado, EDELCA y la Electricidad de Caracas.
 

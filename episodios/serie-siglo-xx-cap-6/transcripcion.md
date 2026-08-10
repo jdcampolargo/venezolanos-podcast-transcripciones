@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-siglo-xx-cap-6
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Siglo-XX--Cap-6-e1eqd87"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/48100039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fefcb9f4%2F48100039%2Fa7d16ee1ce5087be46e5f2f0bcbc4ea4.m4a"
 palabras: 5455
-sha256_transcripcion: "8e4cd7b4d8d93ba340ff1609bfeef7447fc9ba7a372c02b222233eda5d6dfecf"
+sha256_transcripcion: "a510071c49513ae1190de6487edd3d956879bf5d4cda0d7eabe28fc9b72560bc"
 ---
 
 # Serie Siglo XX. Cap 6.
@@ -62,7 +62,7 @@ Somos Unión Radiocultural. En el programa anterior, hablábamos de los desafío
 
 Por otra parte, el Congreso del Partido Comunista de Venezuela decide enfrentar al gobierno por el camino de las armas, rechazando el rumbo electoral. Entonces comienzan a prepararse para la clandestinidad y la lucha armada.
 
-En julio, el presidente Betancourt inaugura la nueva Ciudad Guayana, esta urbe compuesta por Puerto Ordaz y San Félix y diseñada con la asistencia del MIT, Massachusetts Institute of Technology, una de las mejores universidades del mundo, que hizo una alianza con Harvard y diseñaron una ciudad para Venezuela bajo la coordinación del entonces presidente de la Corporación Venezolana de Guayana, el general Rafael Alfonso Ravard. En otro orden de hechos, las tensiones entre Venezuela y Cuba llegan a un punto de fuego, y Venezuela rompe relaciones con la isla en noviembre de 1961.
+En julio, el presidente Betancourt inaugura la nueva Ciudad Guayana, esta urbe compuesta por Puerto Ordaz y San Félix y diseñada con la asistencia del MIT, Massachusetts Institute of Technology, una de las mejores universidades del mundo, que hizo una alianza con Harvard y diseñaron una ciudad para Venezuela bajo la coordinación del entonces presidente de la Corporación Venezolana de Guayana, el general Rafael Alfonzo Ravard. En otro orden de hechos, las tensiones entre Venezuela y Cuba llegan a un punto de fuego, y Venezuela rompe relaciones con la isla en noviembre de 1961.
 
 Esto se hizo en ejercicio de lo que se llamó entonces la doctrina Betancourt, según la cual Venezuela no reconocía gobiernos que no hubiesen sido producto de elecciones democráticas; con esto se buscaba aislar a los gobiernos de facto como el de Trujillo y ahora el de Fidel Castro.
 

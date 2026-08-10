@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-la-electricida
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-La-Electricidad-de-Caracas--Cap-4-e1kr831"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/54418977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fefcb9f4%2F54418977%2Fabfbe57be6fc1279b97565c977b8421c.m4a"
 palabras: 4979
-sha256_transcripcion: "4489b9ac0517310313ef79663c90130710d58c7ea4451588e455d5df4252d097"
+sha256_transcripcion: "d535cbce1ceb691cccc5223f3aef2a66f44c29d72f8ff79af7ed4fd3e24f2d76"
 ---
 
 # Serie La Electricidad de Caracas. Cap 4.
@@ -82,7 +82,7 @@ Y en este momento de la empresa que recoge esta relación significativa es justo
 
 Con el nombramiento de Francisco Aguerrevere al frente de la institución, una vez ya retirado Oscar Machado Zuloaga, esto ocurre el 14 de enero de 1985 y viene a cumplirse una tradición no escrita. Es decir, a la cabeza de la empresa siempre ha estado un ingeniero, es lo lógico. Sin embargo, en esta oportunidad hay un matiz.
 
-Aguerrevere es egresado de la primera promoción de ingenieros que graduó la Universidad Católica Andrés Bello, mientras que Ricardo Zuloaga Tovar, Oscar Augusto Machado y Oscar Machado Zuloaga, los tres, eran egresados de la Universidad Central de Venezuela. El vínculo de Aguerrevere con la empresa fue tejiéndose desde distintos ángulos: primero, Machado Zuloaga lo había conocido durante sus años de presidente de Viasa, ya que Aguerrevere había estado asociado a la construcción del nuevo aeropuerto de Maiquetía. Después, Aguerrevere trabajó en Avensa y luego en Viasa, y también fue durante el gobierno de Luis Herrera Campins, entre 1979 y 1984, presidente de Edelca, Electrificación del Caroní, esa empresa pública venezolana extraordinariamente manejada desde su fundación cuando fue creada por el general Rafael Alfonso Ravard.
+Aguerrevere es egresado de la primera promoción de ingenieros que graduó la Universidad Católica Andrés Bello, mientras que Ricardo Zuloaga Tovar, Oscar Augusto Machado y Oscar Machado Zuloaga, los tres, eran egresados de la Universidad Central de Venezuela. El vínculo de Aguerrevere con la empresa fue tejiéndose desde distintos ángulos: primero, Machado Zuloaga lo había conocido durante sus años de presidente de Viasa, ya que Aguerrevere había estado asociado a la construcción del nuevo aeropuerto de Maiquetía. Después, Aguerrevere trabajó en Avensa y luego en Viasa, y también fue durante el gobierno de Luis Herrera Campins, entre 1979 y 1984, presidente de Edelca, Electrificación del Caroní, esa empresa pública venezolana extraordinariamente manejada desde su fundación cuando fue creada por el general Rafael Alfonzo Ravard.
 
 Allí Aguerrevere adelantó una exitosa gestión, de modo que la vinculación con la Electricidad de Caracas vino a ser, a partir de 1983, una continuidad lógica dentro de su carrera en el área de la gerencia de servicios públicos, bien sea en la aviación con Viasa y con Avensa o en servicio público de generación y distribución eléctrica con Edelca y ahora con la Electricidad de Caracas.
 

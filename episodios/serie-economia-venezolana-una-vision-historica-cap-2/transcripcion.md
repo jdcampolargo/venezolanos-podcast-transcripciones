@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-economia-venez
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Economa-Venezolana-una-visin-histrica--Cap-2-e1j0rci"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/52505426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fefcb9f4%2F52505426%2F91746b3762d0a7e0ad016cca8fb1ec7f.m4a"
 palabras: 4819
-sha256_transcripcion: "218ad48e673b633ce9ba4dd46ca72eed2ca6b739bab5dda7223bd2b3e363e31d"
+sha256_transcripcion: "e7e245e4fc5e8f70c132e6546c4417863addb1b7a8d8c67191f82436ccf9606f"
 ---
 
 # Serie Economía Venezolana: Una Visión Histórica. Cap 2.
@@ -94,7 +94,7 @@ Bien, este cambio que se dio en el modelo de desarrollo económico de América L
 
 No obstante, el año anterior, en 1992, Venezuela experimentó un crecimiento económico del 10%, ese año fue el crecimiento económico más alto del mundo. Y se experimentó después de las medidas liberales de 1989, pero el costo político para el estatus quo fue muy alto como es evidente.
 
-Bien, la industria petrolera venezolana fue estatizada en 1976, como dijimos antes, cuando todos los activos de las concesionarias pasaron a manos del Estado en cabeza de la empresa holding creada para tal fin, PDVSA. Los primeros siete años de PDVSA fueron de enorme éxito. Esa empresa presidida por el general Rafael Alfonso Ravard, que venía con un enorme prestigio de presidir y crear varias empresas venezolanas del Estado: Cadafe, la CVG, Edelca, Sidor, Alcasa, Bauxilum.
+Bien, la industria petrolera venezolana fue estatizada en 1976, como dijimos antes, cuando todos los activos de las concesionarias pasaron a manos del Estado en cabeza de la empresa holding creada para tal fin, PDVSA. Los primeros siete años de PDVSA fueron de enorme éxito. Esa empresa presidida por el general Rafael Alfonzo Ravard, que venía con un enorme prestigio de presidir y crear varias empresas venezolanas del Estado: Cadafe, la CVG, Edelca, Sidor, Alcasa, Bauxilum.
 
 Un gerente público de primer orden a quien se le confió la fundación y la creación de PDVSA. La empresa era manejada por él con criterios gerenciales modernos, siendo una compañía estatal. Y a mediados de los años 80 los precios internacionales del petróleo cayeron notablemente y comprometieron el desarrollo de PDVSA, ya que sus obligaciones tributarias con el Estado venezolano más sus propias operaciones no le dejaban márgenes para acometer las inversiones que garantizaran su mantenimiento y mucho menos su crecimiento.
 

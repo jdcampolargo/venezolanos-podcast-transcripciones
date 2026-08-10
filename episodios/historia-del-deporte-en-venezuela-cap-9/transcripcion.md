@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/historia-del-deporte
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Historia-del-Deporte-en-Venezuela--Cap-9-e7tdiv"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/7304223/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-25%2F9e43050423bde68ceea26990eea09b25.m4a"
 palabras: 4505
-sha256_transcripcion: "08ae011f1fdf959d3d173b541bef6d4bf5008108862257d0076e7fb448f4f8b8"
+sha256_transcripcion: "8b6866d698e02a0a7b0bf04da8d640cd45706cbb41e423031fc5a1b9850aebba"
 ---
 
 # Historia del Deporte en Venezuela. Cap 9
@@ -70,7 +70,7 @@ La Asociación Internacional de Pesca Deportiva se va a crear en 1939, en el est
 
 Esto se hace desde embarcaciones donde el pescador ha ido con una caña de pescar, combate durante horas y horas con un pez que ha mordido el anzuelo, pero se resiste y se resiste con toda su fuerza. De modo que en Venezuela, la práctica de la pesca deportiva de mar está ligada lógicamente a la creación de los clubes de playa. Eso va a ocurrir en el país en las décadas del 50, en el Litoral Varguense, también van a surgir estos clubes de playa, o los Cústres, en Maracaibo, en Puerto La Cruz, en Margarita y luego en Ciudad Guayana, a partir de la fundación de Ciudad Guayana en 1961.
 
-Esta ciudad, diseñada por el MIT y Harvard, y fundada por el presidente Rómulo Betancourt, y el gerente de ese proyecto, que fue el general Rafael Alfonso Ravard. Bueno... el primer pescador destacado a nivel mundial, me refiero por supuesto el primer pescador destacado a nivel mundial venezolano, fue el cirujano cardiovascular Rubén Jaén Centeno. El doctor Jaén ostentó durante muchos años varios récords caribeños y mundiales. Bueno, también es importante recordarles que el llamado Placer de La Guaira está considerado entre los tres mejores lugares del mundo para la pesca de altura. ¿Por qué?
+Esta ciudad, diseñada por el MIT y Harvard, y fundada por el presidente Rómulo Betancourt, y el gerente de ese proyecto, que fue el general Rafael Alfonzo Ravard. Bueno... el primer pescador destacado a nivel mundial, me refiero por supuesto el primer pescador destacado a nivel mundial venezolano, fue el cirujano cardiovascular Rubén Jaén Centeno. El doctor Jaén ostentó durante muchos años varios récords caribeños y mundiales. Bueno, también es importante recordarles que el llamado Placer de La Guaira está considerado entre los tres mejores lugares del mundo para la pesca de altura. ¿Por qué?
 
 Porque la pesca de altura está básicamente compuesta por cuatro animales: la aguja blanca, la aguja azul, el pez espada y el pez vela. Y en la trayectoria del doctor Jaén, de más de 50 años pescando, lo llevó al salón de la fama de la pesca deportiva en Fort Lauderdale, en Miami, en Florida. Y su prestigio logró que el gobierno venezolano decretara una zona de protección de estos animales. Esta zona tiene ocho mil kilómetros cuadrados y es el único lugar del mundo, escuchen bien, el único lugar del mundo, no sabemos por qué, pero es así, donde pueden pescarse cuatro de las referidas especies en un solo día.
 

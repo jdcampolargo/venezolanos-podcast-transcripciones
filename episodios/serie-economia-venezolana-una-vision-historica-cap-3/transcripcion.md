@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-economia-venez
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Economa-Venezolana-una-visin-histrica--Cap-3-e1jcsgj"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/52899795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2Fefcb9f4%2F52899795%2F13078375d26bd2adef7342d3b25d2c1a.m4a"
 palabras: 4786
-sha256_transcripcion: "584dea0288ce58e6318c3b88cb0dc8bca4f448af1ffa8d3a6e074021e099b583"
+sha256_transcripcion: "0a850424c8581f92e2af77c000b6400676547e45a6fed07e86979dfaac1f1285"
 ---
 
 # Serie Economía Venezolana: Una Visión Histórica. Cap 3.
@@ -56,7 +56,7 @@ De modo que, desde sus inicios, en 1953, estuvo al frente del proyecto de la CEC
 
 Las empresas que se crearon entonces fueron empresas mixtas, con mayoría accionaria de grandes empresas privadas transnacionales y minoría del capital estatal venezolano. Un ejemplo de esto puede ser la Alcasa, cuyo accionista fundamental era la enorme empresa de aluminio del mundo, la Reynolds. De hecho, a las reuniones de Junta Directiva venía Luis Reynolds o algunos de sus delegados en Ciudad Guayana.
 
-De modo que ahí el esquema que se utilizó fue el de las empresas mixtas, y ya la central hidroeléctrica de Guri no fue construida con recursos del Estado venezolano, sino con un crédito del Banco Mundial. Hay fotos muy interesantes del entonces presidente del Banco Mundial, que era Robert McNamara. Son fotos de McNamara, Alfonso Ravard, Betancourt, Pérez Alfonso, incluso allá en el sur, en el lugar donde va a ser construida la represa de Guri y su consecuente central hidroeléctrica. Este tercer punto de inflexión del que vengo hablando tiene un antecedente durante la dictadura de Marcos Pérez Jiménez y se fragua durante el segundo gobierno de Betancourt, de modo que allí hubo una continuidad administrativa en este proyecto, sin la menor duda.
+De modo que ahí el esquema que se utilizó fue el de las empresas mixtas, y ya la central hidroeléctrica de Guri no fue construida con recursos del Estado venezolano, sino con un crédito del Banco Mundial. Hay fotos muy interesantes del entonces presidente del Banco Mundial, que era Robert McNamara. Son fotos de McNamara, Alfonzo Ravard, Betancourt, Pérez Alfonso, incluso allá en el sur, en el lugar donde va a ser construida la represa de Guri y su consecuente central hidroeléctrica. Este tercer punto de inflexión del que vengo hablando tiene un antecedente durante la dictadura de Marcos Pérez Jiménez y se fragua durante el segundo gobierno de Betancourt, de modo que allí hubo una continuidad administrativa en este proyecto, sin la menor duda.
 
 Y una continuidad administrativa encabezada por un militar muy exitoso, muy bien preparado, que fue el general Rafael Alfonzo Ravard. No solo egresó en la promoción Simón Bolívar del Ejército venezolano, sino que después, en su carrera militar, estudió ingeniería en el MIT, nada menos, en esa gran universidad del estado de Massachusetts. Ahí regresa él como ingeniero. Bien, entonces ahora veremos estos tres puntos de inflexión en los que se dieron las circunstancias.
 

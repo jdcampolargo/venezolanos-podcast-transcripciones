@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Los-del-podio-III--Efran-Carrera-Saud--Cap-7-e2jgl76"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/86577830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-10%2F377207258-44100-2-c8e2a7a30efc.m4a"
 palabras: 5369
-sha256_transcripcion: "f0edf06445bc3a3792791f7862d57b4784c9090cca60e9d1d3513b65d093ee20"
+sha256_transcripcion: "e5505d9642f4286dc87349efb10ee66b67db7ec13a7634f33ad18e7b29ea3faa"
 ---
 
 # Serie Los del podio III. Efraín Carrera Saud. Cap 7.
@@ -24,7 +24,7 @@ sha256_transcripcion: "f0edf06445bc3a3792791f7862d57b4784c9090cca60e9d1d3513b65d
 
 Los grandes gerentes públicos probablemente se iniciaron con Santos Michelena en los gobiernos de José Antonio Páez, de José María Vargas y de Carlos Soublette. En el gobierno de Antonio Guzmán Blanco, Jesús Muñoz Tébar funda el MOP en 1874.
 
-Y ya después vamos a tener otros gerentes públicos importantes: Román Cárdenas en el Ministerio de Hacienda durante la dictadura de Juan Vicente Gómez. El general Rafael Alfonso Ravard durante muchos años, en períodos dictatoriales y democráticos. Y en el período democrático, sin la menor duda, José González Lander, fundador del Metro, y Efraín Carrera, que fue durante muchos años el alma, el espíritu de una de las empresas venezolanas más importantes. Edelca, bienvenido, Efraín.
+Y ya después vamos a tener otros gerentes públicos importantes: Román Cárdenas en el Ministerio de Hacienda durante la dictadura de Juan Vicente Gómez. El general Rafael Alfonzo Ravard durante muchos años, en períodos dictatoriales y democráticos. Y en el período democrático, sin la menor duda, José González Lander, fundador del Metro, y Efraín Carrera, que fue durante muchos años el alma, el espíritu de una de las empresas venezolanas más importantes. Edelca, bienvenido, Efraín.
 
 Gracias Rafael, aquí estamos para aclararlo, aclarar muy bien. Como sabes, esta es una entrevista de personalidad; vamos a recorrer tu vida. Entiendo que naciste en qué zona de Oriente del país.
 
@@ -68,7 +68,7 @@ Ok, pero tu vocación era mecánica. Mecánica... Pero había materias comunes y
 
 Cuando yo me gradué nos graduamos cuatro. ¿Cuatro ingenieros? Cuatro ingenieros en la promoción del año 60, cuatro ingenieros mecánicos. Pero poquísimo, ¿no? Muy poco. Era una carrera muy apetecida...
 
-Todos querían estudiar ingeniería civil. En ingeniería civil y eléctrica había bastante más que mecánica, pero bastante más. ¿Cómo fue tu ingreso en la CVG, en Edelca? Edelca estaba recién creada por el general Rafael Alfonso Ravard. Edelca no se había creado aún.
+Todos querían estudiar ingeniería civil. En ingeniería civil y eléctrica había bastante más que mecánica, pero bastante más. ¿Cómo fue tu ingreso en la CVG, en Edelca? Edelca estaba recién creada por el general Rafael Alfonzo Ravard. Edelca no se había creado aún.
 
 Ah, tú entraste a la CVG primero. Yo entré a la Comisión de Electrificación del río Caroní, que era una organización dependiente de la Corporación Venezolana de Fomento. La CEC se llamaba... C-E-S-C, la CEC. Allí fue donde yo empecé a trabajar en el río.
 
@@ -82,7 +82,7 @@ Claro, y se inauguró parcialmente en el año 59. En el año 61. La totalidad, l
 
 Claro porque nunca hubo un acto de inauguración del Macaguá 1 porque eso fue una transición entre dictadura y democracia, ok. Entonces ahí todo el mundo estaba pisando con cuidado. Y la verdad es que nunca hubo un acto formal de inauguración. Sin embargo, Betancourt tuvo el acierto de hacer la continuidad de la dictadura y la democracia con él...
 
-En ese entonces era coronel Rafael Alfonso Ravard. Rafael Alfonso Ravard, sí. Es decir, tú reconocías el profesionalismo de Alfonso. Absolutamente.
+En ese entonces era coronel Rafael Alfonzo Ravard. Rafael Alfonzo Ravard, sí. Es decir, tú reconocías el profesionalismo de Alfonso. Absolutamente.
 
 Bueno, finalmente eso estuvo bien. Ahora, ¿tú comenzaste allí desempeñando qué papel? Allí comencé encargado en la parte de mantenimiento mecánico de las máquinas.
 

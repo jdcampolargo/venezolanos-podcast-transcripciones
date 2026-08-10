@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/romulo-betancourt-pr
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Rmulo-Betancourt--Presidente-de-la-Repblica-1945-1947-y-1959-1964-Cap-2-e7pdf6"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/7173030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-25%2F3d30c0314c82b16f7b5fd1bfeaf0289f.m4a"
 palabras: 5168
-sha256_transcripcion: "833558af3024ba71424f981eb345f7d25586982bcc5c02dcdeae4863598f2206"
+sha256_transcripcion: "ccb3470502fadcadd67e8b1e419012d33c7cbf7c8926157f23e37fff0943d51e"
 ---
 
 # Rómulo Betancourt. Presidente de la República (1945-1947 y 1959-1964) Cap 2
@@ -76,7 +76,7 @@ Pasan 10 años en campaña. Me pregunto en qué contribuyó esto al relevo gener
 
 Las sublevaciones militares no cesan para Betancourt, en 1961 seguimos en eso y el 20 de febrero el coronel Edicto Ramírez se levanta en la Academia Militar e intenta tomar el Palacio de Miraflores, cosa que no alcanza a materializar. El 25 de junio se alzan un conjunto de oficiales en Barcelona, eso se llamó el Barcelonazo, tampoco tuvieron éxito. En ese momento es entonces cuando el Congreso del Partido Comunista de Venezuela decide enfrentar al gobierno por el camino de las armas, rechazando el rumbo electoral. Entonces comienzan a prepararse para la clandestinidad y la lucha armada.
 
-En julio el presidente Betancourt inaugura la ciudad nueva, Ciudad Guayana, una urbe compuesta por Puerto Ordaz y San Félix, y diseñada con la asistencia del MIT bajo modernas concepciones urbanísticas. Este proceso lo llevó adelante el presidente de la Corporación Venezolana de Guayana, el entonces general Rafael Alfonso Ravard. Todo esto está ocurriendo en 1961 y también las tensiones con Cuba llegan a un límite importante, al punto que Venezuela rompe relaciones con la isla en noviembre de 1961. Esto lo hace Betancourt invocando la llamada doctrina Betancourt; esa doctrina pautaba que Venezuela no reconocía gobiernos que no hubiesen sido producto de elecciones democráticas.
+En julio el presidente Betancourt inaugura la ciudad nueva, Ciudad Guayana, una urbe compuesta por Puerto Ordaz y San Félix, y diseñada con la asistencia del MIT bajo modernas concepciones urbanísticas. Este proceso lo llevó adelante el presidente de la Corporación Venezolana de Guayana, el entonces general Rafael Alfonzo Ravard. Todo esto está ocurriendo en 1961 y también las tensiones con Cuba llegan a un límite importante, al punto que Venezuela rompe relaciones con la isla en noviembre de 1961. Esto lo hace Betancourt invocando la llamada doctrina Betancourt; esa doctrina pautaba que Venezuela no reconocía gobiernos que no hubiesen sido producto de elecciones democráticas.
 
 Es una doctrina poderosa que buscaba aislar a los gobiernos de facto, como el de Trujillo y ahora el de Fidel Castro. Esa doctrina, muy en boga y discutida en su tiempo, fue modificada por Venezuela con el primer gobierno de Rafael Caldera en 1969. Caldera tenía un argumento de peso y es que había un altísimo número de dictaduras militares en el continente americano y, si la doctrina buscaba aislar a los países que padecían dictaduras militares, lo que estaba ocurriendo era lo contrario. Venezuela era casi una isla rodeada de dictaduras militares en varios países; digamos, ese fue el argumento de Caldera para no seguir implementando la llamada doctrina Betancourt.
 

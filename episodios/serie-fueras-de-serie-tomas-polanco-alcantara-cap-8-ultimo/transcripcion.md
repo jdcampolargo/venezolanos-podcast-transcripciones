@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/serie-fueras-de-seri
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Fueras-de-Serie--Toms-Polanco-Alcntara--Cap-8-ltimo-e2h38dm"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/84041590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2F9a38cb53-50cf-47f3-41eb-99a8777385d3.mp3"
 palabras: 4888
-sha256_transcripcion: "c1684ff5e8a446a8fd17128f105d36049a54a5836220d045a30ce8532469893e"
+sha256_transcripcion: "4f47d84912abc3bfe8ecb0902d3025046510d841dd07738cb2710fa371559d43"
 ---
 
 # Serie Fueras de Serie. Tomás Polanco Alcántara. Cap 8 (último).
@@ -66,7 +66,7 @@ De modo que ya esa pasión del biógrafo por reconstruir la vida, estudiarla, de
 
 Recordemos que Polanco es caraqueño. Su padre es caraqueño, probablemente su abuelo es caraqueño, es un hombre de esta ciudad. En lo personal, debo decir que conocimos a don Tomás en el año 1976 cuando empezamos a estudiar derecho, y uno de los compañeros en el curso de Derecho era su hijo Manuel Polanco Fernández, un amigo entrañable al que estimamos profundamente. Y recordamos como si fuera hoy el día en que el doctor Polanco nos dedicó un libro, en su imponente biblioteca.
 
-Una bellísima biblioteca muy bien nutrida y concentrada en historia de Venezuela y derecho. Ese libro se titula Personalismo y legalismo, es del año 1976, es de Jesús Muñoz Tévar y lleva un estudio introductorio firmado por Polanco. Muñoz Tévar es un hombre de la mayor importancia, es ingeniero, no solo el fundador del MOP en 1874 sino que probablemente junto con el general Rafael Alfonso Ravard son los dos funcionarios públicos venezolanos de más larga trayectoria. Alfonso Ravard estuvo prácticamente 40 años al frente de empresas, organismos del Estado; Muñoz Tévar, una cifra similar, desde tiempos de Guzmán Blanco hasta las primeras décadas del siglo XX.
+Una bellísima biblioteca muy bien nutrida y concentrada en historia de Venezuela y derecho. Ese libro se titula Personalismo y legalismo, es del año 1976, es de Jesús Muñoz Tévar y lleva un estudio introductorio firmado por Polanco. Muñoz Tévar es un hombre de la mayor importancia, es ingeniero, no solo el fundador del MOP en 1874 sino que probablemente junto con el general Rafael Alfonzo Ravard son los dos funcionarios públicos venezolanos de más larga trayectoria. Alfonzo Ravard estuvo prácticamente 40 años al frente de empresas, organismos del Estado; Muñoz Tévar, una cifra similar, desde tiempos de Guzmán Blanco hasta las primeras décadas del siglo XX.
 
 De modo que la obra de Muñoz, este estudio introductorio firmado por Polanco, y no podemos recordar aquella biblioteca sin cierta emoción porque son las bibliotecas que a mí me gustan, repleta, ese olor mil veces bendito de los libros, que además crean una suerte de muro contra el ruido del mundo afuera y contribuyen con uno de los bienes más importantes para la vida intelectual. Para entonces sospechamos que don Tomás tenía previsto su destino, si la providencia se lo permitía. Y así pasó: era entregarse al análisis de la vida de los otros con el afán indeclinable de comprenderla —lo fue logrando—, una tras otra.
 

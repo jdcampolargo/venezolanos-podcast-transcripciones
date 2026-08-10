@@ -13,7 +13,7 @@ url_canonica: "https://www.venezolanospodcast.com/episodios/el-petroleo-en-venez
 url_spotify: "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/El-petrleo-en-Venezuela--Cap-15-e7mb6v"
 url_audio: "https://anchor.fm/s/efcb9f4/podcast/play/7072415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-25%2F2fe399aead3cde59d793c6de5286c162.m4a"
 palabras: 5135
-sha256_transcripcion: "c7792112df6ebc087767c0c48a236da27a7430d2a9c70d1df95443d4acda9081"
+sha256_transcripcion: "09c9adecc5fed8fdf87f781e9e46e7a091445be78c89df962f69114db6c1fc02"
 ---
 
 # El Petróleo en Venezuela. Cap 15
@@ -92,7 +92,7 @@ Se puede de alguna manera predecir, pero no hay manera de ponderar unos factores
 
 Hugo Chávez llega al poder por la vía electoral, después de haberlo intentado en el año 92 por la vía de las armas y haber fracasado, y llega entonces al poder por la vía electoral. Y en materia petrolera la nueva junta de PDVSA que designa Chávez va a estar presidida por Roberto Mandini y van a figurar como directores y vicepresidentes Eduardo López Quevedo, Héctor Chavaldini, Eduardo Prasel, Osvaldo Contreras Maza y Alfredo Carneiro Campos. Como directores laborales, Vladimir Oblanco y Rafael Castellín Ozuna. Si bien Mandini, López Quevedo, Chavaldini y Prasel habían hecho carrera dentro de la industria petrolera, no era el caso de los coroneles Contreras Maza y Carneiro Campos.
 
-Y salvo al general Rafael Alfonso Ravard, que no fue designado por su condición militar sino por sus habilidades gerenciales en PDVSA, no habían trabajado oficiales de las Fuerzas Armadas en cargos tan destacados. Señalamos la decepción durante el gobierno de Luis Herrera Campins, donde hubo un militar en la junta directiva.
+Y salvo al general Rafael Alfonzo Ravard, que no fue designado por su condición militar sino por sus habilidades gerenciales en PDVSA, no habían trabajado oficiales de las Fuerzas Armadas en cargos tan destacados. Señalamos la decepción durante el gobierno de Luis Herrera Campins, donde hubo un militar en la junta directiva.
 
 Sobre la pertinencia de Mandini, hubo debate en el sector petrolero, ya que venía a desempeñarse como vicepresidente de Citgo desde 1995 y, según los entendidos en meritocracia petrolera, no le correspondía el ascenso, aunque hay que señalar que no era un ignorante del tema petrolero, todo lo contrario. También extrañó la inclusión de Chavaldini, quien había abandonado la industria petrolera venezolana en 1995 estando con cargo de menor jerarquía en Bariven. En general puede afirmarse que las designaciones principales eran de funcionarios que provenían del universo petrolero, pero a quienes no les correspondía el nombramiento de acuerdo con las pautas profesionales internas de PDVSA.
 
