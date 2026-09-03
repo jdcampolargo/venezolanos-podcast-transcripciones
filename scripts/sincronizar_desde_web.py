@@ -508,13 +508,6 @@ def main() -> int:
             f"{args.minimum}"
         )
 
-    previous_count = current_count(root)
-    if previous_count and len(records) < previous_count and not args.allow_decrease:
-        raise RuntimeError(
-            f"El total bajaría de {previous_count} a {len(records)}. "
-            "Revise la fuente y use --allow-decrease solo si es intencional."
-        )
-
     print(f"Recuperando {len(records)} transcripciones públicas…", flush=True)
     episodes: list[dict[str, Any]] = []
     failures: list[str] = []
@@ -539,6 +532,12 @@ def main() -> int:
     episodes, preserved_count = merge_with_existing(
         episodes, existing_episodes, args.allow_decrease
     )
+    previous_count = current_count(root)
+    if previous_count and len(episodes) < previous_count and not args.allow_decrease:
+        raise RuntimeError(
+            f"El total bajaría de {previous_count} a {len(episodes)} después de "
+            "preservar el archivo histórico. Revise la fuente antes de continuar."
+        )
     if preserved_count:
         print(
             f"Conservando {preserved_count} transcripciones históricas que ya no "
