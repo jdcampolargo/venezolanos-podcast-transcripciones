@@ -390,6 +390,56 @@ def current_count(root: Path) -> int:
         raise RuntimeError("El catálogo existente no se puede validar")
 
 
+def load_existing_episodes(root: Path) -> list[dict[str, Any]]:
+    """Load the current archive so a partial public index cannot delete history."""
+    path = root / "datos" / "archivo.json"
+    if not path.exists():
+        return []
+
+    try:
+        data = json.loads(path.read_text("utf-8"))
+    except (OSError, UnicodeDecodeError, json.JSONDecodeError) as error:
+        raise RuntimeError("El catálogo existente no se puede leer") from error
+
+    records = data.get("episodios")
+    if not isinstance(records, list):
+        raise RuntimeError("El catálogo existente no contiene una lista de episodios")
+
+    episodes: list[dict[str, Any]] = []
+    for record in records:
+        if not isinstance(record, dict):
+            raise RuntimeError("El catálogo existente contiene un episodio inválido")
+        slug = record.get("slug")
+        if not isinstance(slug, str) or not SLUG_PATTERN.fullmatch(slug):
+            raise RuntimeError(f"Slug existente inválido: {slug!r}")
+        transcript_path = root / "episodios" / slug / "transcripcion.md"
+        try:
+            text = transcript_path.read_text("utf-8")
+        except OSError as error:
+            raise RuntimeError(f"{slug}: falta la transcripción existente") from error
+        marker = "\n## Transcripción\n\n"
+        if marker not in text:
+            raise RuntimeError(f"{slug}: transcripción existente inválida")
+        episodes.append({**record, "_body": text.split(marker, 1)[1]})
+    return episodes
+
+
+def merge_with_existing(
+    source_episodes: list[dict[str, Any]],
+    existing_episodes: list[dict[str, Any]],
+    allow_decrease: bool = False,
+) -> tuple[list[dict[str, Any]], int]:
+    """Prefer fresh public records while preserving source-orphaned history."""
+    if allow_decrease:
+        return list(source_episodes), 0
+
+    source_slugs = {episode["slug"] for episode in source_episodes}
+    historical = [
+        episode for episode in existing_episodes if episode["slug"] not in source_slugs
+    ]
+    return [*source_episodes, *historical], len(historical)
+
+
 def replace_generated_directories(root: Path, generated: Path) -> None:
     backup = generated / ".backup"
     backup.mkdir()
@@ -429,7 +479,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--allow-decrease",
         action="store_true",
-        help="Permite una disminución deliberada del número de transcripciones.",
+        help=(
+            "Permite una poda deliberada de episodios que ya no aparecen en la "
+            "fuente pública. Por defecto el archivo es aditivo."
+        ),
     )
     return parser.parse_args()
 
@@ -482,6 +535,17 @@ def main() -> int:
             f"Fallaron {len(failures)} episodios; no se modificó el archivo:\n{sample}"
         )
 
+    existing_episodes = load_existing_episodes(root)
+    episodes, preserved_count = merge_with_existing(
+        episodes, existing_episodes, args.allow_decrease
+    )
+    if preserved_count:
+        print(
+            f"Conservando {preserved_count} transcripciones históricas que ya no "
+            "aparecen en el índice público.",
+            flush=True,
+        )
+
     episodes.sort(
         key=lambda episode: (episode["fecha_publicacion"], episode["slug"]),
         reverse=True,
@@ -498,7 +562,10 @@ def main() -> int:
     finally:
         shutil.rmtree(temporary, ignore_errors=True)
 
-    print(f"Archivo sincronizado: {len(episodes)} transcripciones.")
+    print(
+        f"Archivo sincronizado: {len(episodes)} transcripciones "
+        f"({len(records)} públicas, {preserved_count} históricas preservadas)."
+    )
     return 0
 
 

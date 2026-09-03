@@ -26,6 +26,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Probar que la sincronización sea aditiva
+        run: python3 -m unittest discover -s tests
+
       - name: Sincronizar desde la web pública
         run: python3 scripts/sincronizar_desde_web.py
 

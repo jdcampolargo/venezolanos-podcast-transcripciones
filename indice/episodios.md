@@ -1,7 +1,24 @@
 # Todos los episodios con transcripción
 
-Total: **364**.
+Total: **381**.
 
+- [Serie Los del Podio I 4. Sunil Daryanani](../episodios/serie-los-del-podio-i-4-sunil-daryanani/transcripcion.md) — 2026-08-30
+- [Serie Los del Podio I 4. Nelson Ortiz](../episodios/serie-los-del-podio-i-4-nelson-ortiz/transcripcion.md) — 2026-08-30
+- [Serie Los del Podio I 4. Bartolomé Díaz Sahagún](../episodios/serie-los-del-podio-i-4-bartolome-diaz-sahagun/transcripcion.md) — 2026-08-30
+- [Serie los de podio 4. Carlos Machado Allison](../episodios/serie-los-de-podio-4-carlos-machado-allison/transcripcion.md) — 2026-08-30
+- [Serie Los del Podio I 4. María Isabel Guinand](../episodios/serie-los-del-podio-i-4-maria-isabel-guinand/transcripcion.md) — 2026-08-06
+- [Serie Los del Podio I 4. Julie Restifo](../episodios/serie-los-del-podio-i-4-julie-restifo/transcripcion.md) — 2026-08-06
+- [Serie Los del Podio I 4. Edgardo Mondolfi Gudat](../episodios/serie-los-del-podio-i-4-edgardo-mondolfi-gudat/transcripcion.md) — 2026-08-06
+- [Serie cronología republicana 1810-2010. Cap 14 (último)](../episodios/serie-cronologia-republicana-1810-2010-cap-14-ultimo/transcripcion.md) — 2026-06-13
+- [Serie Cronología republicana 1810-2010. Cap 13](../episodios/serie-cronologia-republicana-1810-2010-cap-13/transcripcion.md) — 2026-06-13
+- [Serie Cronología republicana 1810-2010. Cap 12.](../episodios/serie-cronologia-republicana-1810-2010-cap-12/transcripcion.md) — 2026-06-13
+- [Serie Cronología republicana 1810-2010. Cap 11.](../episodios/serie-cronologia-republicana-1810-2010-cap-11/transcripcion.md) — 2026-05-28
+- [Serie Cronología republicana 1810-2010. Cap 10.](../episodios/serie-cronologia-republicana-1810-2010-cap-10/transcripcion.md) — 2026-05-28
+- [Serie Cronología republicana 1810-2010. Cap 7.](../episodios/serie-cronologia-republicana-1810-2010-cap-7/transcripcion.md) — 2026-05-01
+- [Serie Cronología republicana 1810-2010. Cap 6](../episodios/serie-cronologia-republicana-1810-2010-cap-6/transcripcion.md) — 2026-05-01
+- [Serie Cronología republicana 1810-2010. Cap 5.](../episodios/serie-cronologia-republicana-1810-2010-cap-5/transcripcion.md) — 2026-04-12
+- [Serie Cronología republicana 1810-2010. Cap 4.](../episodios/serie-cronologia-republicana-1810-2010-cap-4/transcripcion.md) — 2026-04-12
+- [Serie Cronología republicana. 1810-2010. Cap 3](../episodios/serie-cronologia-republicana-1810-2010-cap-3/transcripcion.md) — 2026-04-12
 - [Cronología republicana 1810-2010. Cap 2.](../episodios/cronologia-republicana-1810-2010-cap-2/transcripcion.md) — 2026-03-18
 - [Cronología republicana 1810-2010. Cap 1](../episodios/cronologia-republicana-1810-2010-cap-1/transcripcion.md) — 2026-03-18
 - [Serie El Trienio Adeco (1945-1948). Cap 6 (último)](../episodios/serie-el-trienio-adeco-1945-1948-cap-6-ultimo/transcripcion.md) — 2025-07-13

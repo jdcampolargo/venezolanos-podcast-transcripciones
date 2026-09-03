@@ -4,8 +4,14 @@ Biografías y conversaciones sobre venezolanos que marcaron la historia, la cult
 
 [Explorar este tema en VenezolanosPodcast.com](https://www.venezolanospodcast.com/temas/personajes-venezolanos)
 
-## 138 transcripciones
+## 144 transcripciones
 
+- [Serie Los del Podio I 4. Sunil Daryanani](../../episodios/serie-los-del-podio-i-4-sunil-daryanani/transcripcion.md) — 2026-08-30
+- [Serie Los del Podio I 4. Nelson Ortiz](../../episodios/serie-los-del-podio-i-4-nelson-ortiz/transcripcion.md) — 2026-08-30
+- [Serie Los del Podio I 4. Bartolomé Díaz Sahagún](../../episodios/serie-los-del-podio-i-4-bartolome-diaz-sahagun/transcripcion.md) — 2026-08-30
+- [Serie Los del Podio I 4. María Isabel Guinand](../../episodios/serie-los-del-podio-i-4-maria-isabel-guinand/transcripcion.md) — 2026-08-06
+- [Serie Los del Podio I 4. Julie Restifo](../../episodios/serie-los-del-podio-i-4-julie-restifo/transcripcion.md) — 2026-08-06
+- [Serie Los del Podio I 4. Edgardo Mondolfi Gudat](../../episodios/serie-los-del-podio-i-4-edgardo-mondolfi-gudat/transcripcion.md) — 2026-08-06
 - [Serie los del podio III. Carlos Rasquin. Cap 12 (último)](../../episodios/serie-los-del-podio-iii-carlos-rasquin-cap-12-ultimo/transcripcion.md) — 2024-06-14
 - [Serie Los del podio III. José María de Viana. Cap 11.](../../episodios/serie-los-del-podio-iii-jose-maria-de-viana-cap-11/transcripcion.md) — 2024-06-07
 - [Serie Los del podio III. Manuel Riber. Cap 10.](../../episodios/serie-los-del-podio-iii-manuel-riber-cap-10/transcripcion.md) — 2024-05-29

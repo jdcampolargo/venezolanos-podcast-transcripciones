@@ -5,8 +5,423 @@
   "idioma": "es-VE",
   "sitio": "https://www.venezolanospodcast.com",
   "fuente_indice": "https://www.venezolanospodcast.com/for-ai.json",
-  "cantidad_transcripciones": 364,
+  "cantidad_transcripciones": 381,
   "episodios": [
+    {
+      "slug": "serie-los-del-podio-i-4-sunil-daryanani",
+      "titulo": "Serie Los del Podio I 4. Sunil Daryanani",
+      "descripcion": "Bienvenidos todos a Venezolanos, un programa sobre el país y su historia, en esta nueva temporada de Los del Podio.",
+      "fecha_publicacion": "2026-08-30",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-4-sunil-daryanani",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-los-del-podio-4--Sunil-Daryanani-e3o3i6u",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/124946078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430833072-44100-2-ad02894d63783.m4a",
+      "serie": "Serie Los del Podio",
+      "serie_slug": "serie-los-del-podio",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 5796,
+      "sha256_transcripcion": "ff21cd236203875b88f5563729361494ba8930548264601bd1c3ac75bbe56c90"
+    },
+    {
+      "slug": "serie-los-del-podio-i-4-nelson-ortiz",
+      "titulo": "Serie Los del Podio I 4. Nelson Ortiz",
+      "descripcion": "¿Cómo fue esa llegada, cómo era el mundo al que llegaron tú y tu hermano Arturo? Gracias Rafael por este privilegio que me has brindado de compartir mis…",
+      "fecha_publicacion": "2026-08-30",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-4-nelson-ortiz",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-los-del-podio-4--Nelson-Ortiz-e3o3ida",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/124946282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430833348-44100-2-58f68cd174574.m4a",
+      "serie": "Serie Los del Podio",
+      "serie_slug": "serie-los-del-podio",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 6921,
+      "sha256_transcripcion": "be4460713c0ab9fc0de247b6620f7680cc1267708d8c6ff04f932dad2cb885aa"
+    },
+    {
+      "slug": "serie-los-del-podio-i-4-bartolome-diaz-sahagun",
+      "titulo": "Serie Los del Podio I 4. Bartolomé Díaz Sahagún",
+      "descripcion": "Hoy vamos a conversar con un músico venezolano muy importante que, además de ser ejecutante de la guitarra clásica, es compositor y director de orquesta.",
+      "fecha_publicacion": "2026-08-30",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-4-bartolome-diaz-sahagun",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-los-del-podio-4--Bartolom-Daz-Sahagn-e3o3i3k",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/124945972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430832926-44100-2-97db72904fc1f.m4a",
+      "serie": "Serie Los del Podio",
+      "serie_slug": "serie-los-del-podio",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 7674,
+      "sha256_transcripcion": "818c81c2019ac1c5cd2987c78e890988e84e14bd55e63135e31e5e073460698e"
+    },
+    {
+      "slug": "serie-los-de-podio-4-carlos-machado-allison",
+      "titulo": "Serie los de podio 4. Carlos Machado Allison",
+      "descripcion": "Y hoy tenemos el gusto de tener en el estudio al doctor Carlos Machado Allison, individuo de número de la Academia de Ciencias Físicas, Matemáticas y Naturales, y…",
+      "fecha_publicacion": "2026-08-30",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-de-podio-4-carlos-machado-allison",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-los-de-podio-4--Carlos-Machado-Allison-e3o3i9q",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/124946170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-30%2F430833190-44100-2-3ae9abce35dc7.m4a",
+      "serie": "Serie los de podio 4",
+      "serie_slug": "serie-los-de-podio-4",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        }
+      ],
+      "palabras": 5604,
+      "sha256_transcripcion": "45d41f1d015c793e4676614eaf528e70b3f85f63e6006ce1c4a25e0ffe02b6d2"
+    },
+    {
+      "slug": "serie-los-del-podio-i-4-maria-isabel-guinand",
+      "titulo": "Serie Los del Podio I 4. María Isabel Guinand",
+      "descripcion": "Bienvenidos todos a Venezolanos, en esta serie Los del Podio, cuarta temporada. Hoy vamos a conversar con María Isabel Guinand de Patiño.",
+      "fecha_publicacion": "2026-08-06",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-4-maria-isabel-guinand",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Los-del-podio-4--Mara-Isabel-Guinand-e3n2fvs",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/123862460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429345171-44100-2-b401b63920f2c.m4a",
+      "serie": "Serie Los del Podio",
+      "serie_slug": "serie-los-del-podio",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 5547,
+      "sha256_transcripcion": "0bb411b6e0d2f15a6abfcac547158be578add7b956d6ba03c1213808d523bdf4"
+    },
+    {
+      "slug": "serie-los-del-podio-i-4-julie-restifo",
+      "titulo": "Serie Los del Podio I 4. Julie Restifo",
+      "descripcion": "Bienvenida, Julie Restifo, una gran amiga de hace muchísimos años: 48 años actuando en cine, en televisión y en teatro, sobre todo en teatro.",
+      "fecha_publicacion": "2026-08-06",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-4-julie-restifo",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Los-del-podio-4--Julie-Restifo-e3n2g4q",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/123862618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429345372-44100-2-455a28ccf6d17.m4a",
+      "serie": "Serie Los del Podio",
+      "serie_slug": "serie-los-del-podio",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 6564,
+      "sha256_transcripcion": "c9057d2899358926ebcad8dcacbfe1a88acf2ba84524a8df77656814d5b1530b"
+    },
+    {
+      "slug": "serie-los-del-podio-i-4-edgardo-mondolfi-gudat",
+      "titulo": "Serie Los del Podio I 4. Edgardo Mondolfi Gudat",
+      "descripcion": "Bienvenidos todos a \"Venezolanos\", un programa sobre el país y su historia. En la continuación de esta serie que venimos desarrollando, titulada \"Los del Podio\"…",
+      "fecha_publicacion": "2026-08-06",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-4-edgardo-mondolfi-gudat",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Los-del-podio-4--Edgardo-Mondolfi-Gudat-e3n2g9u",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/123862782/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429345595-44100-2-9c6c82afd97a3.m4a",
+      "serie": "Serie Los del Podio",
+      "serie_slug": "serie-los-del-podio",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 6321,
+      "sha256_transcripcion": "4730bdc00bee436c6b40ff585cbc62994f0360e9356452503b090d0292af8c55"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-14-ultimo",
+      "titulo": "Serie cronología republicana 1810-2010. Cap 14 (último)",
+      "descripcion": "Sin embargo, a nosotros nos tocó vivir eso en el siglo XXI venezolano, del que en este programa vamos a hablar durante diez años, porque la cronología termina en…",
+      "fecha_publicacion": "2026-06-13",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-14-ultimo",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-cronologa-republicana-1810-2010--Cap-14-ltimo-e3ko5m6",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/121427078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-13%2F426072030-44100-2-82c515a144176.m4a",
+      "serie": "Serie cronología republicana 1810",
+      "serie_slug": "serie-cronologia-republicana-1810",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 4247,
+      "sha256_transcripcion": "401df67ede78cd95d677c2f238f4e3ca59715b73198f41e2df5dd8d1ce7cdb22"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-13",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 13",
+      "descripcion": "Bienvenidos todos al capítulo 13 de esta serie que venimos desarrollando, titulada Cronología republicana 1810-2010.",
+      "fecha_publicacion": "2026-06-13",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-13",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-13-e3ko5jg",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/121426992/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-13%2F426071919-44100-2-1542bb4c37f.m4a",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 4560,
+      "sha256_transcripcion": "1197b8147802ef153a03f444205891baee6388d46bd8f3630d6e5b1d2315a3ce"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-12",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 12.",
+      "descripcion": "Bienvenidos todos a Venezolanos, un programa sobre el país y su historia. En esta serie que venimos haciendo, titulada Cronología Republicana, de 1810 al 2010, en…",
+      "fecha_publicacion": "2026-06-13",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-12",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-12-e3ko5g2",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/121426882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-13%2F426071786-44100-2-749c5723f453e.m4a",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5510,
+      "sha256_transcripcion": "ac8d3a67e92cdfb93a3d97a8ee97c88595d364b80bfe8ca56a6801fe45687586"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-11",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 11.",
+      "descripcion": "Y este capítulo lo comenzamos con el 23 de enero de 1958. Recordemos que en noviembre de 1957 Pérez Jiménez anunció que las elecciones tendrían lugar bajo la…",
+      "fecha_publicacion": "2026-05-28",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-11",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-11-e3k0euh",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/120650129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425034322-44100-2-23bc41eae287b.m4a",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5068,
+      "sha256_transcripcion": "a767513b760a027e64590ad00fbbc9c8280aafb5406567460fd634f1925cbd3d"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-10",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 10.",
+      "descripcion": "El líder del partido, Caldera, no figuró en la directiva porque entonces era procurador general de la República.",
+      "fecha_publicacion": "2026-05-28",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-10",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-10-e3k0eqt",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/120650013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-28%2F425034134-44100-2-6bb3124572bdd.m4a",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5190,
+      "sha256_transcripcion": "d2d66adb21a89c8252194885dee2d94e153953840b66eb33bd1de298b2ca6815"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-7",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 7.",
+      "descripcion": "En el capítulo 6 comenzamos a ver, en esta cronología histórica republicana que estamos haciendo del año 1810 al 2010, los trabajos de Manuel Antonio Matos cuando…",
+      "fecha_publicacion": "2026-05-01",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-7",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-7-e3iop6f",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/119349903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-1%2F41907df9-b976-6a86-ca02-96221e108e66.mp3",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5435,
+      "sha256_transcripcion": "1100e929c1ef0f689305605dd66c11cac166cfb5be4d08c00db241dbbb9e6b03"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-6",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 6",
+      "descripcion": "Habíamos comenzado en el capítulo quinto de esta serie con lo que podemos llamar la era Guzmán Blanco, que comienza en 1870, con su primera presidencia de las tres…",
+      "fecha_publicacion": "2026-05-01",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-6",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-6-e3iop4e",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/119349838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-1%2Fbaef45e7-2ae6-95d9-4559-8e3359ef5833.mp3",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5084,
+      "sha256_transcripcion": "2e5df091a5c654ee772531f14d37e549c0a1cee0bfe599557b5ccf0bc5c6319c"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-5",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 5.",
+      "descripcion": "Y el año 1848 se inicia con uno de los hechos más lamentables de nuestra historia republicana.",
+      "fecha_publicacion": "2026-04-12",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-5",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-5-e3hq6nm",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/118347958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-12%2Fafde87cb-338c-2c5c-9100-c21164badea6.mp3",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 4464,
+      "sha256_transcripcion": "844a2e016432e6a53b12d078cc8a6932ca1b4ce13231578879e370b29d24e608"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-4",
+      "titulo": "Serie Cronología republicana 1810-2010. Cap 4.",
+      "descripcion": "Bienvenidos todos a Venezolanos, un programa sobre el país y su historia. En el tercer capítulo de esta serie, el programa anterior, estuvimos viendo el año 1826 y…",
+      "fecha_publicacion": "2026-04-12",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-4",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana-1810-2010--Cap-4-e3hq6m2",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/118347906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-12%2F4cc66953-5e54-da0b-279e-42aa47a4ece3.mp3",
+      "serie": "Cronología republicana 1810-2010.",
+      "serie_slug": "cronologia-republicana-1810-2010",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5202,
+      "sha256_transcripcion": "dc2bd55954dc5853a76563d203f8826641368c5bd805fd9e14524cf54f290ccc"
+    },
+    {
+      "slug": "serie-cronologia-republicana-1810-2010-cap-3",
+      "titulo": "Serie Cronología republicana. 1810-2010. Cap 3",
+      "descripcion": "Tercer capítulo de esta nueva serie que venimos desarrollando en Venezolanos, haciendo un recorrido cronológico por la historia de Venezuela, contemplando…",
+      "fecha_publicacion": "2026-04-12",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-cronologia-republicana-1810-2010-cap-3",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Cronologa-republicana--1810-2010--Cap-3-e3hq6k0",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/118347840/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-12%2F0673b773-6abf-5f3f-090b-f3129ee291ea.mp3",
+      "serie": "Serie Cronología republicana",
+      "serie_slug": "serie-cronologia-republicana",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "politica-y-democracia-en-venezuela",
+          "nombre": "Política y democracia en Venezuela"
+        }
+      ],
+      "palabras": 5227,
+      "sha256_transcripcion": "ca4ce8d7c64408b4275ddcc47905a9d5710f2abf5d1b2213b2d162686f823325"
+    },
     {
       "slug": "cronologia-republicana-1810-2010-cap-2",
       "titulo": "Cronología republicana 1810-2010. Cap 2.",
@@ -927,7 +1342,7 @@
     {
       "slug": "serie-hispanoamerica-cap-5-militarismo",
       "titulo": "Serie Hispanoamérica. Cap 5. Militarismo",
-      "descripcion": "Saludos para todos desde Unión Radio en nuestro programa Venezolanos. En este quinto capítulo de esta serie que venimos desarrollando sobre Hispanoamérica, lo…",
+      "descripcion": "Saludos para todos desde Unión Radio, en nuestro programa Venezolanos. En este, el quinto capítulo de esta serie que venimos desarrollando sobre Hispanoamérica, lo…",
       "fecha_publicacion": "2024-07-16",
       "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-hispanoamerica-cap-5-militarismo",
       "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Hispanoamrica--Cap-5--Militarismo-e2m38gi",
@@ -948,8 +1363,8 @@
           "nombre": "Política y democracia en Venezuela"
         }
       ],
-      "palabras": 3793,
-      "sha256_transcripcion": "0aa426adfcbf07b1b5d970579348f0fd543ac72bdec60e6dd0465f146f1ae7d0"
+      "palabras": 3687,
+      "sha256_transcripcion": "c1d2915ffec5e1c902fcf2878d2df706a1cd6df2bda7363877f3a4cd8bcbb198"
     },
     {
       "slug": "serie-hispanoamerica-cap-4",
@@ -1031,7 +1446,7 @@
     {
       "slug": "serie-hispanoamerica-cap1",
       "titulo": "Serie Hispanoamérica. Cap1.",
-      "descripcion": "Hispanoamérica es la porción del continente americano que fue inicialmente conquistada y colonizada por España. Nos vamos a centrar en esta zona del mundo.",
+      "descripcion": "Hispanoamérica, es decir, la porción del continente americano que fue inicialmente conquistada y colonizada por España. Nos vamos a centrar en esta zona del mundo.",
       "fecha_publicacion": "2024-06-26",
       "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-hispanoamerica-cap1",
       "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Hispanoamrica--Cap1-e2lbpeo",
@@ -1048,8 +1463,8 @@
           "nombre": "Venezuela e Hispanoamérica"
         }
       ],
-      "palabras": 4571,
-      "sha256_transcripcion": "d011f4511deef991c03211916bb9b2a9dc65ae8499735d2cce383b5d58e7334f"
+      "palabras": 4615,
+      "sha256_transcripcion": "b9b924269bf59192e22699bc1460e2fbff99c51eca51495e66b453aaad999ab4"
     },
     {
       "slug": "serie-los-del-podio-iii-carlos-rasquin-cap-12-ultimo",
