@@ -4,8 +4,11 @@ Biografías y conversaciones sobre venezolanos que marcaron la historia, la cult
 
 [Explorar este tema en VenezolanosPodcast.com](https://www.venezolanospodcast.com/temas/personajes-venezolanos)
 
-## 144 transcripciones
+## 147 transcripciones
 
+- [Los del podio 4. Vasco Szinetar Gabaldón](../../episodios/los-del-podio-4-vasco-szinetar-gabaldon/transcripcion.md) — 2026-09-29
+- [Los del podio 4. Héctor Manrique.](../../episodios/los-del-podio-4-hector-manrique/transcripcion.md) — 2026-09-29
+- [Los del podio 4. Elisa Vegas](../../episodios/los-del-podio-4-elisa-vegas/transcripcion.md) — 2026-09-29
 - [Serie Los del Podio I 4. Sunil Daryanani](../../episodios/serie-los-del-podio-i-4-sunil-daryanani/transcripcion.md) — 2026-08-30
 - [Serie Los del Podio I 4. Nelson Ortiz](../../episodios/serie-los-del-podio-i-4-nelson-ortiz/transcripcion.md) — 2026-08-30
 - [Serie Los del Podio I 4. Bartolomé Díaz Sahagún](../../episodios/serie-los-del-podio-i-4-bartolome-diaz-sahagun/transcripcion.md) — 2026-08-30

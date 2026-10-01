@@ -5,8 +5,89 @@
   "idioma": "es-VE",
   "sitio": "https://www.venezolanospodcast.com",
   "fuente_indice": "https://www.venezolanospodcast.com/for-ai.json",
-  "cantidad_transcripciones": 381,
+  "cantidad_transcripciones": 384,
   "episodios": [
+    {
+      "slug": "los-del-podio-4-vasco-szinetar-gabaldon",
+      "titulo": "Los del podio 4. Vasco Szinetar Gabaldón",
+      "descripcion": "Oye, estoy muy feliz de poder estar en este programa y estar con Rafa, con quien me une una amistad casi desde la adolescencia.",
+      "fecha_publicacion": "2026-09-29",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/los-del-podio-4-vasco-szinetar-gabaldon",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Los-del-podio-4--Vasco-Szinetar-Gabaldn-e3pho6f",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/126459535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432867312-44100-2-ebe2b692af885.m4a",
+      "serie": "Los",
+      "serie_slug": "los",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 5855,
+      "sha256_transcripcion": "e88cb91b1cdd781752eea9493672b674404a25153e32976177ef78b004d49656"
+    },
+    {
+      "slug": "los-del-podio-4-hector-manrique",
+      "titulo": "Los del podio 4. Héctor Manrique.",
+      "descripcion": "Bienvenidos a Venezolanos, un programa sobre el país y su historia, en esta serie que venimos desarrollando en su cuarta temporada: Los del Podio.",
+      "fecha_publicacion": "2026-09-29",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/los-del-podio-4-hector-manrique",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Los-del-podio-4--Hctor-Manrique-e3phoco",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/126459736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432867544-44100-2-8a74a0295c039.m4a",
+      "serie": "Los",
+      "serie_slug": "los",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 6085,
+      "sha256_transcripcion": "3834218f5cf429cc59b991558dafc52896541079fb2faedb6093d91cdbc53c7b"
+    },
+    {
+      "slug": "los-del-podio-4-elisa-vegas",
+      "titulo": "Los del podio 4. Elisa Vegas",
+      "descripcion": "En esta cuarta temporada de la serie Los del Podio, hoy tenemos el gusto de tener entre nosotros a Elisa Vegas, con quien vamos a conversar.",
+      "fecha_publicacion": "2026-09-29",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/los-del-podio-4-elisa-vegas",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Los-del-podio-4--Elisa-Vegas-e3phnuh",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/126459281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432867001-44100-2-bfb03ef892a75.m4a",
+      "serie": "Los",
+      "serie_slug": "los",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 7020,
+      "sha256_transcripcion": "83e450e8ed04b590f5f74f954509284681035e70c141cfc7bdf096586a10ebe6"
+    },
     {
       "slug": "serie-los-del-podio-i-4-sunil-daryanani",
       "titulo": "Serie Los del Podio I 4. Sunil Daryanani",
@@ -2836,7 +2917,7 @@
     {
       "slug": "serie-los-del-podio-i-cap-3-benjamin-scharifker",
       "titulo": "Serie Los del Podio I. Cap 3. Benjamín Scharifker",
-      "descripcion": "Fueron mis abuelos, a principios del siglo XX, cuando la Primera Guerra Mundial, justo antes de la Revolución Rusa, vivían en el Imperio zarista, que era el…",
+      "descripcion": "Estos apellidos son, entiendo, de Ucrania, de una región de Ucrania. ¿Fueron sus abuelos los que emigraron a América o fueron sus padres?",
       "fecha_publicacion": "2023-02-07",
       "url_canonica": "https://www.venezolanospodcast.com/episodios/serie-los-del-podio-i-cap-3-benjamin-scharifker",
       "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Serie-Los-del-podio--Cap-3--Benjamn-Scharifker-e1uiopt",
@@ -2861,8 +2942,8 @@
           "nombre": "Personajes venezolanos"
         }
       ],
-      "palabras": 6795,
-      "sha256_transcripcion": "88e79bd80aa88f37dcdf72cf42202790f44cb078ecd82996bbd7970779569fbd"
+      "palabras": 6766,
+      "sha256_transcripcion": "43b2dfe9455c0315c6af99d0253dd5617fe2c37ac137ff43639089864b5f9b14"
     },
     {
       "slug": "serie-los-del-podio-i-cap-2-gioconda-cunto-de-san-blas",
