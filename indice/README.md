@@ -1,6 +1,6 @@
 # Índice del archivo
 
-Este repositorio contiene **384 transcripciones publicadas** de Venezolanos.
+Este repositorio contiene **385 transcripciones publicadas** de Venezolanos.
 
 ## Entradas
 
@@ -10,7 +10,7 @@ Este repositorio contiene **384 transcripciones publicadas** de Venezolanos.
 
 ## Temas
 
-- [Historia de Venezuela](temas/historia-de-venezuela.md) — 384 transcripciones
+- [Historia de Venezuela](temas/historia-de-venezuela.md) — 385 transcripciones
 - [Cultura en Venezuela](temas/cultura-en-venezuela.md) — 33 transcripciones
 - [Economía en Venezuela](temas/economia-en-venezuela.md) — 60 transcripciones
 - [Política y democracia en Venezuela](temas/politica-y-democracia-en-venezuela.md) — 91 transcripciones
@@ -20,8 +20,8 @@ Este repositorio contiene **384 transcripciones publicadas** de Venezolanos.
 - [Arte y música en Venezuela](temas/arte-y-musica-en-venezuela.md) — 19 transcripciones
 - [Ciencia, medicina y educación en Venezuela](temas/ciencia-medicina-y-educacion-en-venezuela.md) — 17 transcripciones
 - [Arquitectura e infraestructura en Venezuela](temas/arquitectura-e-infraestructura-en-venezuela.md) — 18 transcripciones
-- [Deporte en Venezuela](temas/deporte-en-venezuela.md) — 65 transcripciones
-- [Personajes venezolanos](temas/personajes-venezolanos.md) — 147 transcripciones
+- [Deporte en Venezuela](temas/deporte-en-venezuela.md) — 66 transcripciones
+- [Personajes venezolanos](temas/personajes-venezolanos.md) — 148 transcripciones
 - [Independencia de Venezuela](temas/independencia-de-venezuela.md) — 28 transcripciones
 - [Empresas e industria en Venezuela](temas/empresas-e-industria-en-venezuela.md) — 34 transcripciones
 - [Venezuela e Hispanoamérica](temas/venezuela-e-hispanoamerica.md) — 14 transcripciones

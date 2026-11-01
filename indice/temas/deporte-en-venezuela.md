@@ -4,8 +4,9 @@ Historia del deporte en Venezuela, el hipismo y figuras venezolanas destacadas e
 
 [Explorar este tema en VenezolanosPodcast.com](https://www.venezolanospodcast.com/temas/deporte-en-venezuela)
 
-## 65 transcripciones
+## 66 transcripciones
 
+- [Los del podio 4. Adrián Pujol](../../episodios/los-del-podio-4-adrian-pujol/transcripcion.md) — 2026-10-01
 - [Los del podio 4. Vasco Szinetar Gabaldón](../../episodios/los-del-podio-4-vasco-szinetar-gabaldon/transcripcion.md) — 2026-09-29
 - [Los del podio 4. Héctor Manrique.](../../episodios/los-del-podio-4-hector-manrique/transcripcion.md) — 2026-09-29
 - [Los del podio 4. Elisa Vegas](../../episodios/los-del-podio-4-elisa-vegas/transcripcion.md) — 2026-09-29

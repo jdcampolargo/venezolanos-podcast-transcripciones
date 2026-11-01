@@ -478,6 +478,15 @@
 - [Serie El Sistema, 50 años. Cap 2.](../episodios/serie-el-sistema-50-anos-cap-2/transcripcion.md) — 2025-04-20
 - [Serie El Sistema, 50 años. Cap 1.](../episodios/serie-el-sistema-50-anos-cap-1/transcripcion.md) — 2025-04-11
 
+## Los
+
+4 episodios.
+
+- [Los del podio 4. Adrián Pujol](../episodios/los-del-podio-4-adrian-pujol/transcripcion.md) — 2026-10-01
+- [Los del podio 4. Vasco Szinetar Gabaldón](../episodios/los-del-podio-4-vasco-szinetar-gabaldon/transcripcion.md) — 2026-09-29
+- [Los del podio 4. Héctor Manrique.](../episodios/los-del-podio-4-hector-manrique/transcripcion.md) — 2026-09-29
+- [Los del podio 4. Elisa Vegas](../episodios/los-del-podio-4-elisa-vegas/transcripcion.md) — 2026-09-29
+
 ## Líderes del Pensamiento Venezolano: López-Pedraza, Rivera, Arráiz y Pérez Alfonzo
 
 4 episodios.
@@ -538,14 +547,6 @@
 - [La Energía Eléctrica en Venezuela. Cap 3 y último](../episodios/la-energia-electrica-en-venezuela-cap-3-y-ultimo/transcripcion.md) — 2019-10-19
 - [La Energía Eléctrica en Venezuela. Cap 2](../episodios/la-energia-electrica-en-venezuela-cap-2/transcripcion.md) — 2019-10-19
 - [La Energía Eléctrica en Venezuela. Cap 1](../episodios/la-energia-electrica-en-venezuela-cap-1/transcripcion.md) — 2019-10-19
-
-## Los
-
-3 episodios.
-
-- [Los del podio 4. Vasco Szinetar Gabaldón](../episodios/los-del-podio-4-vasco-szinetar-gabaldon/transcripcion.md) — 2026-09-29
-- [Los del podio 4. Héctor Manrique.](../episodios/los-del-podio-4-hector-manrique/transcripcion.md) — 2026-09-29
-- [Los del podio 4. Elisa Vegas](../episodios/los-del-podio-4-elisa-vegas/transcripcion.md) — 2026-09-29
 
 ## Los Ferrocarriles en Venezuela
 

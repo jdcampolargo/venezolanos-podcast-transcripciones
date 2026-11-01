@@ -5,8 +5,35 @@
   "idioma": "es-VE",
   "sitio": "https://www.venezolanospodcast.com",
   "fuente_indice": "https://www.venezolanospodcast.com/for-ai.json",
-  "cantidad_transcripciones": 384,
+  "cantidad_transcripciones": 385,
   "episodios": [
+    {
+      "slug": "los-del-podio-4-adrian-pujol",
+      "titulo": "Los del podio 4. Adrián Pujol",
+      "descripcion": "Claro, claro que sí. Esta es la idea de estas entrevistas. Tú llegaste a Venezuela el 14 de septiembre de 1974 y tenías 24 años.",
+      "fecha_publicacion": "2026-10-01",
+      "url_canonica": "https://www.venezolanospodcast.com/episodios/los-del-podio-4-adrian-pujol",
+      "url_spotify": "https://podcasters.spotify.com/pod/show/rafael-arraiz-lucca/episodes/Los-del-podio-4--Adrin-Pujol-e3pltst",
+      "url_audio": "https://anchor.fm/s/efcb9f4/podcast/play/126596445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433044763-44100-2-3aaebf6cc5f86.m4a",
+      "serie": "Los",
+      "serie_slug": "los",
+      "temas": [
+        {
+          "slug": "historia-de-venezuela",
+          "nombre": "Historia de Venezuela"
+        },
+        {
+          "slug": "deporte-en-venezuela",
+          "nombre": "Deporte en Venezuela"
+        },
+        {
+          "slug": "personajes-venezolanos",
+          "nombre": "Personajes venezolanos"
+        }
+      ],
+      "palabras": 2293,
+      "sha256_transcripcion": "b6171931f52163c30328eba436c77bb1ac526673468c170c05c69d78ea4c163c"
+    },
     {
       "slug": "los-del-podio-4-vasco-szinetar-gabaldon",
       "titulo": "Los del podio 4. Vasco Szinetar Gabaldón",
